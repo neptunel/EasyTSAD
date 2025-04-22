@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "EasyTSAD"
+name = "EasyTSAD-Benchmark"
 version = "0.2.0.2"
 description = "A Suite for TimeSeries Anomaly Detection Benchmark"
 authors = ["HT Si <htsi@cnic.cn>"]
@@ -15,6 +15,16 @@ matplotlib = "^3.8.0"
 tqdm = "^4.66.1"
 scikit-learn = "^1.3.2"
 pandas = "^2.1.2"
+easytsad = "^0.3.0.2"
+statsmodels = "^0.14.4"
+tslearn = "^0.6.3"
+torchinfo = "^1.8.0"
+torch = "^2.6.0"
+torch-optimizer = "^0.3.0"
+pytorch-lightning = "^2.5.1"
+torchvision = "^0.21.0"
+transformers = "^4.51.3"
+einops = "^0.8.1"
 
 
 [build-system]

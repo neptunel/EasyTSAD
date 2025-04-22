@@ -1,3 +1,4 @@
+
 from EasyTSAD.Controller import TSADController
 
 if __name__ == "__main__":
@@ -7,7 +8,7 @@ if __name__ == "__main__":
     
     """============= [DATASET SETTINGS] ============="""
     # Specifying datasets
-    datasets = ["TODS", "UCR", "AIOPS", "NAB", "Yahoo", "WSD"]
+    datasets = ["TODS", "UCR", "AIOPS", "NAB", "Yahoo", "WSD","NEK", "GutenTAG", "NormA","CalIt2"]
     datasets = ["TODS"]
     
     # set datasets path, dirname is the absolute/relative path of dataset.
@@ -15,29 +16,20 @@ if __name__ == "__main__":
     # Use all curves in datasets:
     gctrl.set_dataset(
         dataset_type="UTS",
-        dirname="/path/to/datasets",
+        dirname="../../datasets-main",
         datasets=datasets,
     )
     
-    # Or specify certain curves in one dataset, 
-    # e.g. AIOPS 0efb375b-b902-3661-ab23-9a0bb799f4e3 and ab216663-dcc2-3a24-b1ee-2c3e550e06c9
-    gctrl.set_dataset(
-        dataset_type="UTS",
-        dirname="/path/to/datasets",
-        datasets="AIOPS",
-        specify_curves=True,
-        curve_names=[
-            "0efb375b-b902-3661-ab23-9a0bb799f4e3",
-            "ab216663-dcc2-3a24-b1ee-2c3e550e06c9"
-        ]
-    )
-    
-    
+   
     """============= [EXPERIMENTAL SETTINGS] ============="""
     # Specifying methods and training schemas
-    from EasyTSAD.Methods import AE, Donut, AR
     
-    methods = ["AR", "AE"]
+    from EasyTSAD.Methods import SubLOF, SubOCSVM, AR, LSTMADalpha, LSTMADbeta, AE, EncDecAD, SRCNN, AnomalyTransformer, TFAD, Donut, FCVAE, TimesNet, OFA, FITS
+
+    # Old libraries with dependency issues are excluded: 'MatrixProfile',"SAND",'DCdetector'
+    
+    methods = ['SubLOF','SubOCSVM','AR', 'LSTMADalpha', 'LSTMADbeta', 'AE', 'EncDecAD', 'SRCNN','AnomalyTransformer', 'TFAD','Donut', 'FCVAE', 'TimesNet', 'OFA', 'FITS']
+
     training_schema = "naive"
     
     for method in methods:
@@ -50,13 +42,11 @@ if __name__ == "__main__":
         
     """============= [EVALUATION SETTINGS] ============="""
     
-    from EasyTSAD.Evaluations.Protocols import EventF1PA, PointF1PA
+    from EasyTSAD.Evaluations.Protocols import PointF1PA
     # Specifying evaluation protocols
     gctrl.set_evals(
         [
-            PointF1PA(),
-            EventF1PA(),
-            EventF1PA(mode="squeeze")
+            PointF1PA()
         ]
     )
 
