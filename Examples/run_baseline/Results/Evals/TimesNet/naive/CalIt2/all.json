@@ -1,0 +1,18 @@
+{
+    "CalIt2-traffic.test_out_count": {
+        "best f1 under pa": {
+            "f1": 0.6999999999999994,
+            "precision": 0.6176470588235294,
+            "recall": 0.8076923076923077,
+            "threshold": 12.066027641296387
+        }
+    },
+    "CalIt2-traffic.test_in_count": {
+        "best f1 under pa": {
+            "f1": 0.8521126760563373,
+            "precision": 0.7857142857142857,
+            "recall": 0.9307692307692308,
+            "threshold": 6.0935139656066895
+        }
+    }
+}

@@ -1,0 +1,2818 @@
+{
+    "A3Benchmark-TS88": {
+        "best f1 under pa": {
+            "f1": 0.521739130434782,
+            "precision": 0.7999999999999999,
+            "recall": 0.3870967741935484,
+            "threshold": 4.591464042663574
+        }
+    },
+    "A3Benchmark-TS59": {
+        "best f1 under pa": {
+            "f1": 0.9599999999999992,
+            "precision": 0.9230769230769229,
+            "recall": 0.9999999999999999,
+            "threshold": 3.7023255825042725
+        }
+    },
+    "real_10": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 173.76617431640625
+        }
+    },
+    "A4Benchmark-TS72": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 16.803598403930664
+        }
+    },
+    "A3Benchmark-TS25": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 5.263922691345215
+        }
+    },
+    "synthetic_92": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_43": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS22": {
+        "best f1 under pa": {
+            "f1": 0.4444444444444439,
+            "precision": 0.39999999999999997,
+            "recall": 0.49999999999999994,
+            "threshold": 6.854801654815674
+        }
+    },
+    "synthetic_95": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_44": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "real_17": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 147.1282501220703
+        }
+    },
+    "A4Benchmark-TS75": {
+        "best f1 under pa": {
+            "f1": 0.22222222222222174,
+            "precision": 0.2,
+            "recall": 0.25,
+            "threshold": 0.6305881142616272
+        }
+    },
+    "synthetic_38": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "real_65": {
+        "best f1 under pa": {
+            "f1": 0.9014084507042248,
+            "precision": 0.8205128205128205,
+            "recall": 1.0,
+            "threshold": 93.57567596435547
+        }
+    },
+    "A3Benchmark-TS81": {
+        "best f1 under pa": {
+            "f1": 0.38709677419354793,
+            "precision": 0.6,
+            "recall": 0.2857142857142857,
+            "threshold": 11.073776245117188
+        }
+    },
+    "real_19": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 286.6851806640625
+        }
+    },
+    "A3Benchmark-TS50": {
+        "best f1 under pa": {
+            "f1": 0.19672131147540942,
+            "precision": 0.14634146341463414,
+            "recall": 0.3,
+            "threshold": 0.6923708319664001
+        }
+    },
+    "synthetic_36": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS86": {
+        "best f1 under pa": {
+            "f1": 0.9863013698630132,
+            "precision": 0.972972972972973,
+            "recall": 1.0,
+            "threshold": 2.954362154006958
+        }
+    },
+    "A3Benchmark-TS57": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_31": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "real_62": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999998,
+            "recall": 0.9999999999999998,
+            "threshold": 25.838760375976562
+        }
+    },
+    "A3Benchmark-TS62": {
+        "best f1 under pa": {
+            "f1": 0.2857142857142854,
+            "precision": 0.9999999999999999,
+            "recall": 0.16666666666666666,
+            "threshold": 1.3421621322631836
+        }
+    },
+    "A4Benchmark-TS98": {
+        "best f1 under pa": {
+            "f1": 0.6545454545454541,
+            "precision": 0.9473684210526315,
+            "recall": 0.5,
+            "threshold": 1.4671274423599243
+        }
+    },
+    "A4Benchmark-TS49": {
+        "best f1 under pa": {
+            "f1": 0.4999999999999995,
+            "precision": 0.9999999999999999,
+            "recall": 0.3333333333333333,
+            "threshold": 0.8003480434417725
+        }
+    },
+    "real_57": {
+        "best f1 under pa": {
+            "f1": 0.4137931034482754,
+            "precision": 0.5454545454545454,
+            "recall": 0.3333333333333333,
+            "threshold": 176.9797821044922
+        }
+    },
+    "synthetic_78": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS35": {
+        "best f1 under pa": {
+            "f1": 0.21052631578947348,
+            "precision": 0.11764705882352941,
+            "recall": 1.0,
+            "threshold": 0.9620968103408813
+        }
+    },
+    "A3Benchmark-TS19": {
+        "best f1 under pa": {
+            "f1": 0.6274509803921563,
+            "precision": 0.6956521739130435,
+            "recall": 0.5714285714285714,
+            "threshold": 10.30624008178711
+        }
+    },
+    "real_50": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 52.638572692871094
+        }
+    },
+    "A3Benchmark-TS7": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 12.517126083374023
+        }
+    },
+    "A4Benchmark-TS32": {
+        "best f1 under pa": {
+            "f1": 0.8421052631578942,
+            "precision": 0.8888888888888888,
+            "recall": 0.8,
+            "threshold": 16.969619750976562
+        }
+    },
+    "A3Benchmark-TS65": {
+        "best f1 under pa": {
+            "f1": 0.4999999999999995,
+            "precision": 0.9999999999999999,
+            "recall": 0.3333333333333333,
+            "threshold": 10.042036056518555
+        }
+    },
+    "A3Benchmark-TS17": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_71": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS9": {
+        "best f1 under pa": {
+            "f1": 0.8888888888888884,
+            "precision": 1.0,
+            "recall": 0.8,
+            "threshold": 5.711363315582275
+        }
+    },
+    "real_22": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 2232.257568359375
+        }
+    },
+    "A4Benchmark-TS91": {
+        "best f1 under pa": {
+            "f1": 0.4285714285714281,
+            "precision": 0.5999999999999999,
+            "recall": 0.3333333333333333,
+            "threshold": 20.77947235107422
+        }
+    },
+    "A4Benchmark-TS40": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 37.09426498413086
+        }
+    },
+    "real_25": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 5805.36767578125
+        }
+    },
+    "A4Benchmark-TS96": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS47": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 18.00707244873047
+        }
+    },
+    "A3Benchmark-TS10": {
+        "best f1 under pa": {
+            "f1": 0.5151515151515146,
+            "precision": 0.4594594594594595,
+            "recall": 0.5862068965517241,
+            "threshold": 1.1148502826690674
+        }
+    },
+    "synthetic_76": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS56": {
+        "best f1 under pa": {
+            "f1": 0.3529411764705877,
+            "precision": 0.4285714285714285,
+            "recall": 0.3,
+            "threshold": 4.071066379547119
+        }
+    },
+    "A4Benchmark-TS87": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 10.53830623626709
+        }
+    },
+    "A4Benchmark-TS6": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 4.164308071136475
+        }
+    },
+    "synthetic_3": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "real_34": {
+        "best f1 under pa": {
+            "f1": 0.7499999999999996,
+            "precision": 0.7894736842105263,
+            "recall": 0.7142857142857143,
+            "threshold": 6.242927074432373
+        }
+    },
+    "synthetic_67": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_100": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_60": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS51": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "real_7": {
+        "best f1 under pa": {
+            "f1": 0.9599999999999995,
+            "precision": 0.9230769230769231,
+            "recall": 1.0,
+            "threshold": 0.5561175346374512
+        }
+    },
+    "A4Benchmark-TS80": {
+        "best f1 under pa": {
+            "f1": 0.0983606557377048,
+            "precision": 0.05172413793103448,
+            "recall": 0.9999999999999999,
+            "threshold": 0.12657685577869415
+        }
+    },
+    "A4Benchmark-TS1": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 0.6759589910507202
+        }
+    },
+    "synthetic_4": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "real_33": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 2302.53466796875
+        }
+    },
+    "A4Benchmark-TS23": {
+        "best f1 under pa": {
+            "f1": 0.30769230769230743,
+            "precision": 0.18181818181818182,
+            "recall": 0.9999999999999999,
+            "threshold": 1.321887731552124
+        }
+    },
+    "real_41": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 354.3041687011719
+        }
+    },
+    "real_9": {
+        "best f1 under pa": {
+            "f1": 0.6315789473684205,
+            "precision": 0.9999999999999999,
+            "recall": 0.46153846153846145,
+            "threshold": 311.15478515625
+        }
+    },
+    "synthetic_12": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS74": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS58": {
+        "best f1 under pa": {
+            "f1": 0.3870967741935479,
+            "precision": 0.46153846153846145,
+            "recall": 0.3333333333333333,
+            "threshold": 4.042456150054932
+        }
+    },
+    "synthetic_15": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS89": {
+        "best f1 under pa": {
+            "f1": 0.5538461538461532,
+            "precision": 0.5142857142857142,
+            "recall": 0.6,
+            "threshold": 3.2776734828948975
+        }
+    },
+    "A4Benchmark-TS8": {
+        "best f1 under pa": {
+            "f1": 0.585365853658536,
+            "precision": 0.5217391304347826,
+            "recall": 0.6666666666666666,
+            "threshold": 16.582233428955078
+        }
+    },
+    "A3Benchmark-TS73": {
+        "best f1 under pa": {
+            "f1": 0.5825242718446596,
+            "precision": 0.4918032786885246,
+            "recall": 0.7142857142857143,
+            "threshold": 2.431727409362793
+        }
+    },
+    "A4Benchmark-TS24": {
+        "best f1 under pa": {
+            "f1": 0.17777777777777753,
+            "precision": 0.10256410256410256,
+            "recall": 0.6666666666666666,
+            "threshold": 0.5640279054641724
+        }
+    },
+    "synthetic_69": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "real_46": {
+        "best f1 under pa": {
+            "f1": 0.8591549295774642,
+            "precision": 0.7530864197530864,
+            "recall": 1.0,
+            "threshold": 3.9985287189483643
+        }
+    },
+    "synthetic_20": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS46": {
+        "best f1 under pa": {
+            "f1": 0.6666666666666661,
+            "precision": 0.9999999999999999,
+            "recall": 0.49999999999999994,
+            "threshold": 5.150583744049072
+        }
+    },
+    "A3Benchmark-TS97": {
+        "best f1 under pa": {
+            "f1": 0.2608695652173909,
+            "precision": 0.17647058823529413,
+            "recall": 0.49999999999999994,
+            "threshold": 2.297611951828003
+        }
+    },
+    "A4Benchmark-TS11": {
+        "best f1 under pa": {
+            "f1": 0.09795918367346927,
+            "precision": 0.05150214592274678,
+            "recall": 0.9999999999999999,
+            "threshold": 1.1123082637786865
+        }
+    },
+    "synthetic_27": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS41": {
+        "best f1 under pa": {
+            "f1": 0.545454545454545,
+            "precision": 0.9999999999999999,
+            "recall": 0.375,
+            "threshold": 6.338162899017334
+        }
+    },
+    "A3Benchmark-TS90": {
+        "best f1 under pa": {
+            "f1": 0.8888888888888884,
+            "precision": 1.0,
+            "recall": 0.8,
+            "threshold": 4.982723712921143
+        }
+    },
+    "synthetic_55": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS18": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_84": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS33": {
+        "best f1 under pa": {
+            "f1": 0.7999999999999995,
+            "precision": 0.6666666666666666,
+            "recall": 1.0,
+            "threshold": 3.6523702144622803
+        }
+    },
+    "synthetic_29": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS64": {
+        "best f1 under pa": {
+            "f1": 0.058823529411764636,
+            "precision": 0.030303030303030304,
+            "recall": 0.9999999999999999,
+            "threshold": 0.19229602813720703
+        }
+    },
+    "A4Benchmark-TS63": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 3.1089224815368652
+        }
+    },
+    "A3Benchmark-TS48": {
+        "best f1 under pa": {
+            "f1": 0.7999999999999994,
+            "precision": 0.9999999999999999,
+            "recall": 0.6666666666666666,
+            "threshold": 7.129441738128662
+        }
+    },
+    "A3Benchmark-TS99": {
+        "best f1 under pa": {
+            "f1": 0.9523809523809518,
+            "precision": 0.9090909090909091,
+            "recall": 1.0,
+            "threshold": 0.38399454951286316
+        }
+    },
+    "synthetic_52": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_83": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "real_24": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 49.37687301635742
+        }
+    },
+    "A4Benchmark-TS97": {
+        "best f1 under pa": {
+            "f1": 0.40909090909090867,
+            "precision": 0.3103448275862069,
+            "recall": 0.6,
+            "threshold": 2.0691492557525635
+        }
+    },
+    "A4Benchmark-TS46": {
+        "best f1 under pa": {
+            "f1": 0.5581395348837204,
+            "precision": 0.631578947368421,
+            "recall": 0.5,
+            "threshold": 8.144340515136719
+        }
+    },
+    "A3Benchmark-TS11": {
+        "best f1 under pa": {
+            "f1": 0.6666666666666661,
+            "precision": 0.9999999999999999,
+            "recall": 0.49999999999999994,
+            "threshold": 8.968125343322754
+        }
+    },
+    "real_58": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 16392.220703125
+        }
+    },
+    "synthetic_77": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS16": {
+        "best f1 under pa": {
+            "f1": 0.6315789473684205,
+            "precision": 0.5454545454545454,
+            "recall": 0.75,
+            "threshold": 2.771599769592285
+        }
+    },
+    "synthetic_70": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS8": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 2.0430915355682373
+        }
+    },
+    "real_23": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999998,
+            "recall": 0.9999999999999998,
+            "threshold": 21.990638732910156
+        }
+    },
+    "A4Benchmark-TS90": {
+        "best f1 under pa": {
+            "f1": 0.705882352941176,
+            "precision": 0.6122448979591837,
+            "recall": 0.8333333333333334,
+            "threshold": 4.854944229125977
+        }
+    },
+    "A4Benchmark-TS41": {
+        "best f1 under pa": {
+            "f1": 0.3809523809523806,
+            "precision": 0.23529411764705882,
+            "recall": 1.0,
+            "threshold": 0.7355232238769531
+        }
+    },
+    "real_51": {
+        "best f1 under pa": {
+            "f1": 0.8666666666666659,
+            "precision": 0.7647058823529411,
+            "recall": 0.9999999999999999,
+            "threshold": 2.577575206756592
+        }
+    },
+    "A3Benchmark-TS18": {
+        "best f1 under pa": {
+            "f1": 0.8888888888888884,
+            "precision": 1.0,
+            "recall": 0.8,
+            "threshold": 2.191467523574829
+        }
+    },
+    "A4Benchmark-TS33": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 20.775381088256836
+        }
+    },
+    "A3Benchmark-TS6": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 9.30506420135498
+        }
+    },
+    "A3Benchmark-TS64": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 7.216858863830566
+        }
+    },
+    "A3Benchmark-TS63": {
+        "best f1 under pa": {
+            "f1": 0.705882352941176,
+            "precision": 0.631578947368421,
+            "recall": 0.8,
+            "threshold": 2.3570144176483154
+        }
+    },
+    "A4Benchmark-TS99": {
+        "best f1 under pa": {
+            "f1": 0.648648648648648,
+            "precision": 0.9999999999999999,
+            "recall": 0.48,
+            "threshold": 244.87301635742188
+        }
+    },
+    "A4Benchmark-TS48": {
+        "best f1 under pa": {
+            "f1": 0.571428571428571,
+            "precision": 0.6666666666666666,
+            "recall": 0.5,
+            "threshold": 3.7536938190460205
+        }
+    },
+    "real_56": {
+        "best f1 under pa": {
+            "f1": 0.8124999999999994,
+            "precision": 0.9999999999999999,
+            "recall": 0.6842105263157895,
+            "threshold": 9.65781021118164
+        }
+    },
+    "synthetic_79": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS1": {
+        "best f1 under pa": {
+            "f1": 0.6666666666666661,
+            "precision": 0.9999999999999999,
+            "recall": 0.49999999999999994,
+            "threshold": 17.813899993896484
+        }
+    },
+    "A4Benchmark-TS34": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 7.084402084350586
+        }
+    },
+    "A3Benchmark-TS87": {
+        "best f1 under pa": {
+            "f1": 0.6249999999999994,
+            "precision": 0.9999999999999998,
+            "recall": 0.4545454545454545,
+            "threshold": 14.649188995361328
+        }
+    },
+    "A3Benchmark-TS56": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 9.081246376037598
+        }
+    },
+    "synthetic_30": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "real_63": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999998,
+            "recall": 0.9999999999999998,
+            "threshold": 24.618392944335938
+        }
+    },
+    "A3Benchmark-TS80": {
+        "best f1 under pa": {
+            "f1": 0.21538461538461515,
+            "precision": 0.125,
+            "recall": 0.7777777777777778,
+            "threshold": 0.3113151490688324
+        }
+    },
+    "A3Benchmark-TS51": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 3.020416259765625
+        }
+    },
+    "synthetic_37": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS23": {
+        "best f1 under pa": {
+            "f1": 0.36363636363636315,
+            "precision": 0.2857142857142857,
+            "recall": 0.5,
+            "threshold": 2.6218645572662354
+        }
+    },
+    "synthetic_94": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_45": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "real_16": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999998,
+            "recall": 0.9999999999999998,
+            "threshold": 20591.107421875
+        }
+    },
+    "A4Benchmark-TS74": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 7.241484642028809
+        }
+    },
+    "synthetic_39": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS89": {
+        "best f1 under pa": {
+            "f1": 0.7659574468085102,
+            "precision": 0.8571428571428571,
+            "recall": 0.6923076923076923,
+            "threshold": 7.696654319763184
+        }
+    },
+    "real_11": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 2707.578369140625
+        }
+    },
+    "A3Benchmark-TS58": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 8.59988784790039
+        }
+    },
+    "A4Benchmark-TS73": {
+        "best f1 under pa": {
+            "f1": 0.8888888888888884,
+            "precision": 0.8,
+            "recall": 1.0,
+            "threshold": 2.5530965328216553
+        }
+    },
+    "A3Benchmark-TS24": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 5.0812883377075195
+        }
+    },
+    "synthetic_93": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_42": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS62": {
+        "best f1 under pa": {
+            "f1": 0.2999999999999995,
+            "precision": 0.46153846153846145,
+            "recall": 0.2222222222222222,
+            "threshold": 1.3320395946502686
+        }
+    },
+    "A3Benchmark-TS49": {
+        "best f1 under pa": {
+            "f1": 0.7868852459016388,
+            "precision": 0.96,
+            "recall": 0.6666666666666666,
+            "threshold": 5.0795745849609375
+        }
+    },
+    "A3Benchmark-TS98": {
+        "best f1 under pa": {
+            "f1": 0.7826086956521733,
+            "precision": 0.8181818181818182,
+            "recall": 0.75,
+            "threshold": 5.7365875244140625
+        }
+    },
+    "synthetic_53": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_82": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS35": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 3.2020103931427
+        }
+    },
+    "synthetic_54": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_85": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS19": {
+        "best f1 under pa": {
+            "f1": 0.571428571428571,
+            "precision": 0.6666666666666666,
+            "recall": 0.5,
+            "threshold": 3.29767107963562
+        }
+    },
+    "A3Benchmark-TS32": {
+        "best f1 under pa": {
+            "f1": 0.5581395348837204,
+            "precision": 0.48,
+            "recall": 0.6666666666666666,
+            "threshold": 5.356076240539551
+        }
+    },
+    "synthetic_28": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS65": {
+        "best f1 under pa": {
+            "f1": 0.6808510638297868,
+            "precision": 0.64,
+            "recall": 0.7272727272727273,
+            "threshold": 4.781316757202148
+        }
+    },
+    "A4Benchmark-TS17": {
+        "best f1 under pa": {
+            "f1": 0.8235294117647053,
+            "precision": 0.9999999999999999,
+            "recall": 0.7,
+            "threshold": 3.1182661056518555
+        }
+    },
+    "synthetic_26": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS40": {
+        "best f1 under pa": {
+            "f1": 0.7999999999999996,
+            "precision": 0.8,
+            "recall": 0.8,
+            "threshold": 1.05247962474823
+        }
+    },
+    "A3Benchmark-TS91": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 7.570901393890381
+        }
+    },
+    "synthetic_21": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS47": {
+        "best f1 under pa": {
+            "f1": 0.8695652173913038,
+            "precision": 0.9090909090909091,
+            "recall": 0.8333333333333334,
+            "threshold": 6.673190593719482
+        }
+    },
+    "A3Benchmark-TS96": {
+        "best f1 under pa": {
+            "f1": 0.41860465116279033,
+            "precision": 0.2647058823529412,
+            "recall": 1.0,
+            "threshold": 2.846844434738159
+        }
+    },
+    "A4Benchmark-TS10": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS59": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS88": {
+        "best f1 under pa": {
+            "f1": 0.828571428571428,
+            "precision": 1.0,
+            "recall": 0.7073170731707317,
+            "threshold": 5.289796352386475
+        }
+    },
+    "synthetic_14": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS9": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS72": {
+        "best f1 under pa": {
+            "f1": 0.08391608391608382,
+            "precision": 0.043795620437956206,
+            "recall": 0.9999999999999999,
+            "threshold": 0.23987023532390594
+        }
+    },
+    "A4Benchmark-TS25": {
+        "best f1 under pa": {
+            "f1": 0.06857142857142845,
+            "precision": 0.03680981595092025,
+            "recall": 0.49999999999999994,
+            "threshold": 3.743426561355591
+        }
+    },
+    "synthetic_68": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "real_47": {
+        "best f1 under pa": {
+            "f1": 0.29885057471264337,
+            "precision": 0.18309859154929578,
+            "recall": 0.8125,
+            "threshold": 2.789236068725586
+        }
+    },
+    "A4Benchmark-TS22": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 24.4954891204834
+        }
+    },
+    "real_40": {
+        "best f1 under pa": {
+            "f1": 0.674157303370786,
+            "precision": 0.5084745762711864,
+            "recall": 1.0,
+            "threshold": 4.397446632385254
+        }
+    },
+    "real_8": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 4079.783203125
+        }
+    },
+    "synthetic_13": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS75": {
+        "best f1 under pa": {
+            "f1": 0.7499999999999994,
+            "precision": 0.6666666666666666,
+            "recall": 0.8571428571428571,
+            "threshold": 4.633015155792236
+        }
+    },
+    "synthetic_61": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS50": {
+        "best f1 under pa": {
+            "f1": 0.8571428571428567,
+            "precision": 1.0,
+            "recall": 0.75,
+            "threshold": 147.16046142578125
+        }
+    },
+    "real_6": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999998,
+            "recall": 0.9999999999999998,
+            "threshold": 449.03924560546875
+        }
+    },
+    "A4Benchmark-TS81": {
+        "best f1 under pa": {
+            "f1": 0.6792452830188674,
+            "precision": 0.782608695652174,
+            "recall": 0.6,
+            "threshold": 1.2619926929473877
+        }
+    },
+    "synthetic_5": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "real_32": {
+        "best f1 under pa": {
+            "f1": 0.7354838709677414,
+            "precision": 0.5816326530612245,
+            "recall": 1.0,
+            "threshold": 1040.947998046875
+        }
+    },
+    "A4Benchmark-TS57": {
+        "best f1 under pa": {
+            "f1": 0.6666666666666661,
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "threshold": 7.555513381958008
+        }
+    },
+    "real_1": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 61.91261291503906
+        }
+    },
+    "A4Benchmark-TS86": {
+        "best f1 under pa": {
+            "f1": 0.8181818181818177,
+            "precision": 0.9,
+            "recall": 0.75,
+            "threshold": 2.5950698852539062
+        }
+    },
+    "synthetic_2": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS7": {
+        "best f1 under pa": {
+            "f1": 0.6315789473684205,
+            "precision": 0.6666666666666666,
+            "recall": 0.6,
+            "threshold": 0.23677091300487518
+        }
+    },
+    "synthetic_66": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_57": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_86": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS31": {
+        "best f1 under pa": {
+            "f1": 0.4999999999999995,
+            "precision": 0.9999999999999999,
+            "recall": 0.3333333333333333,
+            "threshold": 16.397714614868164
+        }
+    },
+    "A4Benchmark-TS61": {
+        "best f1 under pa": {
+            "f1": 0.10344827586206885,
+            "precision": 0.05454545454545454,
+            "recall": 0.9999999999999999,
+            "threshold": 4.0081305503845215
+        }
+    },
+    "synthetic_50": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_81": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS36": {
+        "best f1 under pa": {
+            "f1": 0.6666666666666661,
+            "precision": 0.9999999999999999,
+            "recall": 0.49999999999999994,
+            "threshold": 7.433612823486328
+        }
+    },
+    "synthetic_22": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS44": {
+        "best f1 under pa": {
+            "f1": 0.4999999999999995,
+            "precision": 0.9999999999999999,
+            "recall": 0.3333333333333333,
+            "threshold": 5.545792102813721
+        }
+    },
+    "A3Benchmark-TS95": {
+        "best f1 under pa": {
+            "f1": 0.39344262295081917,
+            "precision": 0.48,
+            "recall": 0.3333333333333333,
+            "threshold": 0.552983820438385
+        }
+    },
+    "A4Benchmark-TS13": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 11.049245834350586
+        }
+    },
+    "A3Benchmark-TS38": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_59": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_88": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS14": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 11.742011070251465
+        }
+    },
+    "synthetic_25": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS68": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 6.022062301635742
+        }
+    },
+    "A3Benchmark-TS43": {
+        "best f1 under pa": {
+            "f1": 0.33333333333333304,
+            "precision": 0.9999999999999999,
+            "recall": 0.2,
+            "threshold": 9.306899070739746
+        }
+    },
+    "A3Benchmark-TS92": {
+        "best f1 under pa": {
+            "f1": 0.5624999999999996,
+            "precision": 0.391304347826087,
+            "recall": 1.0,
+            "threshold": 8.303930282592773
+        }
+    },
+    "A4Benchmark-TS21": {
+        "best f1 under pa": {
+            "f1": 0.8571428571428567,
+            "precision": 1.0,
+            "recall": 0.75,
+            "threshold": 1.0347179174423218
+        }
+    },
+    "real_43": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 19.326562881469727
+        }
+    },
+    "synthetic_10": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_8": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS76": {
+        "best f1 under pa": {
+            "f1": 0.7999999999999994,
+            "precision": 0.9999999999999999,
+            "recall": 0.6666666666666666,
+            "threshold": 4.48572301864624
+        }
+    },
+    "synthetic_17": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS71": {
+        "best f1 under pa": {
+            "f1": 0.43636363636363595,
+            "precision": 0.27906976744186046,
+            "recall": 1.0,
+            "threshold": 1.1166163682937622
+        }
+    },
+    "real_38": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 6.695734024047852
+        }
+    },
+    "A4Benchmark-TS26": {
+        "best f1 under pa": {
+            "f1": 0.6666666666666661,
+            "precision": 0.9999999999999999,
+            "recall": 0.49999999999999994,
+            "threshold": 4.926555633544922
+        }
+    },
+    "A4Benchmark-TS54": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS85": {
+        "best f1 under pa": {
+            "f1": 0.5940594059405935,
+            "precision": 0.5084745762711864,
+            "recall": 0.7142857142857143,
+            "threshold": 0.9728579521179199
+        }
+    },
+    "synthetic_19": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "real_2": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 33956.234375
+        }
+    },
+    "A4Benchmark-TS4": {
+        "best f1 under pa": {
+            "f1": 0.8727272727272722,
+            "precision": 0.96,
+            "recall": 0.8,
+            "threshold": 3.1761507987976074
+        }
+    },
+    "synthetic_1": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS28": {
+        "best f1 under pa": {
+            "f1": 0.7692307692307686,
+            "precision": 0.8333333333333334,
+            "recall": 0.7142857142857143,
+            "threshold": 4.180185794830322
+        }
+    },
+    "synthetic_65": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_62": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS53": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS82": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 10.930746078491211
+        }
+    },
+    "A4Benchmark-TS3": {
+        "best f1 under pa": {
+            "f1": 0.571428571428571,
+            "precision": 0.5,
+            "recall": 0.6666666666666666,
+            "threshold": 16.985078811645508
+        }
+    },
+    "synthetic_6": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "real_31": {
+        "best f1 under pa": {
+            "f1": 0.9032258064516123,
+            "precision": 1.0,
+            "recall": 0.8235294117647058,
+            "threshold": 2409.432373046875
+        }
+    },
+    "A3Benchmark-TS78": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 5.487119674682617
+        }
+    },
+    "A3Benchmark-TS15": {
+        "best f1 under pa": {
+            "f1": 0.20930232558139514,
+            "precision": 0.11688311688311688,
+            "recall": 1.0,
+            "threshold": 1.7399981021881104
+        }
+    },
+    "synthetic_73": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS69": {
+        "best f1 under pa": {
+            "f1": 0.8888888888888883,
+            "precision": 0.7999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 6.262623310089111
+        }
+    },
+    "real_20": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 1.9049890041351318
+        }
+    },
+    "A4Benchmark-TS93": {
+        "best f1 under pa": {
+            "f1": 0.7058823529411757,
+            "precision": 0.5454545454545454,
+            "recall": 0.9999999999999999,
+            "threshold": 1.4228026866912842
+        }
+    },
+    "A4Benchmark-TS42": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 6.9109272956848145
+        }
+    },
+    "real_27": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 9.014260292053223
+        }
+    },
+    "A4Benchmark-TS94": {
+        "best f1 under pa": {
+            "f1": 0.41379310344827536,
+            "precision": 0.35294117647058826,
+            "recall": 0.5,
+            "threshold": 1.235892415046692
+        }
+    },
+    "A4Benchmark-TS45": {
+        "best f1 under pa": {
+            "f1": 0.3999999999999996,
+            "precision": 0.9999999999999999,
+            "recall": 0.25,
+            "threshold": 33.177120208740234
+        }
+    },
+    "A3Benchmark-TS12": {
+        "best f1 under pa": {
+            "f1": 0.7999999999999995,
+            "precision": 1.0,
+            "recall": 0.6666666666666666,
+            "threshold": 9.099711418151855
+        }
+    },
+    "synthetic_74": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS39": {
+        "best f1 under pa": {
+            "f1": 0.8219178082191775,
+            "precision": 0.967741935483871,
+            "recall": 0.7142857142857143,
+            "threshold": 4.15148401260376
+        }
+    },
+    "real_29": {
+        "best f1 under pa": {
+            "f1": 0.6666666666666661,
+            "precision": 0.9999999999999999,
+            "recall": 0.49999999999999994,
+            "threshold": 8.672703742980957
+        }
+    },
+    "A3Benchmark-TS60": {
+        "best f1 under pa": {
+            "f1": 0.590163934426229,
+            "precision": 0.4864864864864865,
+            "recall": 0.75,
+            "threshold": 1.399701476097107
+        }
+    },
+    "real_55": {
+        "best f1 under pa": {
+            "f1": 0.9743589743589738,
+            "precision": 0.95,
+            "recall": 1.0,
+            "threshold": 9.137271881103516
+        }
+    },
+    "A3Benchmark-TS2": {
+        "best f1 under pa": {
+            "f1": 0.8936170212765951,
+            "precision": 0.9130434782608695,
+            "recall": 0.875,
+            "threshold": 2.1573402881622314
+        }
+    },
+    "A4Benchmark-TS37": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 29.267927169799805
+        }
+    },
+    "real_52": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 26.974397659301758
+        }
+    },
+    "A4Benchmark-TS30": {
+        "best f1 under pa": {
+            "f1": 0.545454545454545,
+            "precision": 0.375,
+            "recall": 0.9999999999999999,
+            "threshold": 2.887662172317505
+        }
+    },
+    "A3Benchmark-TS5": {
+        "best f1 under pa": {
+            "f1": 0.09917355371900814,
+            "precision": 0.05217391304347826,
+            "recall": 0.9999999999999999,
+            "threshold": 1.9235634803771973
+        }
+    },
+    "A3Benchmark-TS67": {
+        "best f1 under pa": {
+            "f1": 0.6101694915254232,
+            "precision": 0.782608695652174,
+            "recall": 0.5,
+            "threshold": 6.1832475662231445
+        }
+    },
+    "real_67": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 24711.412109375
+        }
+    },
+    "synthetic_99": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_48": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS83": {
+        "best f1 under pa": {
+            "f1": 0.6666666666666661,
+            "precision": 0.9999999999999999,
+            "recall": 0.49999999999999994,
+            "threshold": 18.14481544494629
+        }
+    },
+    "A3Benchmark-TS52": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS79": {
+        "best f1 under pa": {
+            "f1": 0.05607476635514013,
+            "precision": 0.028846153846153848,
+            "recall": 0.9999999999999999,
+            "threshold": 0.00958740059286356
+        }
+    },
+    "synthetic_34": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS84": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 2.716351270675659
+        }
+    },
+    "A3Benchmark-TS55": {
+        "best f1 under pa": {
+            "f1": 0.6428571428571423,
+            "precision": 0.6923076923076923,
+            "recall": 0.6,
+            "threshold": 6.698166370391846
+        }
+    },
+    "synthetic_33": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS29": {
+        "best f1 under pa": {
+            "f1": 0.7741935483870962,
+            "precision": 0.9230769230769229,
+            "recall": 0.6666666666666666,
+            "threshold": 4.66755485534668
+        }
+    },
+    "real_60": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 43.51630783081055
+        }
+    },
+    "real_12": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 2492.653076171875
+        }
+    },
+    "A4Benchmark-TS70": {
+        "best f1 under pa": {
+            "f1": 0.6666666666666661,
+            "precision": 0.9999999999999999,
+            "recall": 0.49999999999999994,
+            "threshold": 11.635725975036621
+        }
+    },
+    "A3Benchmark-TS27": {
+        "best f1 under pa": {
+            "f1": 0.6666666666666661,
+            "precision": 0.9999999999999999,
+            "recall": 0.49999999999999994,
+            "threshold": 6.961302280426025
+        }
+    },
+    "synthetic_90": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_41": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS20": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 4.876208305358887
+        }
+    },
+    "synthetic_97": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_46": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "real_15": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 12.741573333740234
+        }
+    },
+    "A4Benchmark-TS77": {
+        "best f1 under pa": {
+            "f1": 0.5106382978723399,
+            "precision": 0.7058823529411765,
+            "recall": 0.4,
+            "threshold": 0.720845103263855
+        }
+    },
+    "synthetic_63": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS52": {
+        "best f1 under pa": {
+            "f1": 0.6792452830188674,
+            "precision": 0.6206896551724138,
+            "recall": 0.75,
+            "threshold": 4.318838596343994
+        }
+    },
+    "real_4": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 1486.9766845703125
+        }
+    },
+    "synthetic_7": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS2": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 2.932894706726074
+        }
+    },
+    "A3Benchmark-TS79": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 5.399830341339111
+        }
+    },
+    "real_30": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999998,
+            "recall": 0.9999999999999998,
+            "threshold": 107.10258483886719
+        }
+    },
+    "A4Benchmark-TS55": {
+        "best f1 under pa": {
+            "f1": 0.1791044776119401,
+            "precision": 0.09836065573770492,
+            "recall": 0.9999999999999999,
+            "threshold": 0.8204365968704224
+        }
+    },
+    "synthetic_18": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS84": {
+        "best f1 under pa": {
+            "f1": 0.14117647058823513,
+            "precision": 0.0759493670886076,
+            "recall": 0.9999999999999999,
+            "threshold": 1.0039632320404053
+        }
+    },
+    "real_3": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 755.1177978515625
+        }
+    },
+    "A4Benchmark-TS5": {
+        "best f1 under pa": {
+            "f1": 0.47999999999999954,
+            "precision": 0.3157894736842105,
+            "recall": 0.9999999999999999,
+            "threshold": 3.9903512001037598
+        }
+    },
+    "real_37": {
+        "best f1 under pa": {
+            "f1": 0.9777777777777772,
+            "precision": 0.9565217391304348,
+            "recall": 1.0,
+            "threshold": 11.210476875305176
+        }
+    },
+    "A4Benchmark-TS29": {
+        "best f1 under pa": {
+            "f1": 0.2769230769230766,
+            "precision": 0.1651376146788991,
+            "recall": 0.8571428571428571,
+            "threshold": 1.3447060585021973
+        }
+    },
+    "synthetic_64": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_16": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "real_39": {
+        "best f1 under pa": {
+            "f1": 0.7741935483870962,
+            "precision": 0.631578947368421,
+            "recall": 0.9999999999999999,
+            "threshold": 1.6324760913848877
+        }
+    },
+    "A3Benchmark-TS70": {
+        "best f1 under pa": {
+            "f1": 0.8571428571428564,
+            "precision": 0.75,
+            "recall": 0.9999999999999999,
+            "threshold": 4.089980125427246
+        }
+    },
+    "A4Benchmark-TS27": {
+        "best f1 under pa": {
+            "f1": 0.4067796610169487,
+            "precision": 0.5714285714285714,
+            "recall": 0.3157894736842105,
+            "threshold": 2.080397605895996
+        }
+    },
+    "real_45": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 386.2951965332031
+        }
+    },
+    "A4Benchmark-TS20": {
+        "best f1 under pa": {
+            "f1": 0.4999999999999995,
+            "precision": 0.9999999999999999,
+            "recall": 0.3333333333333333,
+            "threshold": 9.290722846984863
+        }
+    },
+    "real_42": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 65903.046875
+        }
+    },
+    "synthetic_11": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_9": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS77": {
+        "best f1 under pa": {
+            "f1": 0.6075949367088602,
+            "precision": 0.96,
+            "recall": 0.4444444444444444,
+            "threshold": 13.397627830505371
+        }
+    },
+    "synthetic_58": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS15": {
+        "best f1 under pa": {
+            "f1": 0.7741935483870962,
+            "precision": 0.9999999999999999,
+            "recall": 0.631578947368421,
+            "threshold": 8.970036506652832
+        }
+    },
+    "synthetic_89": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_24": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS69": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 26.783863067626953
+        }
+    },
+    "A3Benchmark-TS42": {
+        "best f1 under pa": {
+            "f1": 0.4660194174757276,
+            "precision": 0.3287671232876712,
+            "recall": 0.8,
+            "threshold": 0.8065981864929199
+        }
+    },
+    "A3Benchmark-TS93": {
+        "best f1 under pa": {
+            "f1": 0.73469387755102,
+            "precision": 1.0,
+            "recall": 0.5806451612903226,
+            "threshold": 12.22696590423584
+        }
+    },
+    "synthetic_23": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS45": {
+        "best f1 under pa": {
+            "f1": 0.6666666666666661,
+            "precision": 0.9999999999999999,
+            "recall": 0.5,
+            "threshold": 6.5700297355651855
+        }
+    },
+    "A3Benchmark-TS94": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 6.552674770355225
+        }
+    },
+    "A4Benchmark-TS12": {
+        "best f1 under pa": {
+            "f1": 0.6666666666666661,
+            "precision": 0.9999999999999999,
+            "recall": 0.49999999999999994,
+            "threshold": 6.343286037445068
+        }
+    },
+    "A3Benchmark-TS39": {
+        "best f1 under pa": {
+            "f1": 0.5999999999999995,
+            "precision": 1.0,
+            "recall": 0.42857142857142855,
+            "threshold": 2.0578343868255615
+        }
+    },
+    "A4Benchmark-TS60": {
+        "best f1 under pa": {
+            "f1": 0.6666666666666661,
+            "precision": 0.9999999999999999,
+            "recall": 0.49999999999999994,
+            "threshold": 5.869556903839111
+        }
+    },
+    "A3Benchmark-TS100": {
+        "best f1 under pa": {
+            "f1": 0.7999999999999994,
+            "precision": 0.9999999999999999,
+            "recall": 0.6666666666666666,
+            "threshold": 10.786297798156738
+        }
+    },
+    "synthetic_51": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_80": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS37": {
+        "best f1 under pa": {
+            "f1": 0.8181818181818177,
+            "precision": 0.9,
+            "recall": 0.75,
+            "threshold": 5.7701287269592285
+        }
+    },
+    "synthetic_56": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_87": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS30": {
+        "best f1 under pa": {
+            "f1": 0.7999999999999994,
+            "precision": 0.9999999999999999,
+            "recall": 0.6666666666666666,
+            "threshold": 1.9209133386611938
+        }
+    },
+    "A4Benchmark-TS67": {
+        "best f1 under pa": {
+            "f1": 0.7692307692307687,
+            "precision": 0.7352941176470589,
+            "recall": 0.8064516129032258,
+            "threshold": 4.865441799163818
+        }
+    },
+    "A3Benchmark-TS21": {
+        "best f1 under pa": {
+            "f1": 0.7999999999999995,
+            "precision": 1.0,
+            "recall": 0.6666666666666666,
+            "threshold": 0.48494628071784973
+        }
+    },
+    "synthetic_96": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_47": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS76": {
+        "best f1 under pa": {
+            "f1": 0.04332129963898908,
+            "precision": 0.022641509433962263,
+            "recall": 0.49999999999999994,
+            "threshold": 1.2496371269226074
+        }
+    },
+    "real_13": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 16.469470977783203
+        }
+    },
+    "A4Benchmark-TS71": {
+        "best f1 under pa": {
+            "f1": 0.6666666666666661,
+            "precision": 0.9999999999999999,
+            "recall": 0.49999999999999994,
+            "threshold": 31.197141647338867
+        }
+    },
+    "A3Benchmark-TS26": {
+        "best f1 under pa": {
+            "f1": 0.5142857142857139,
+            "precision": 0.391304347826087,
+            "recall": 0.75,
+            "threshold": 0.5340845584869385
+        }
+    },
+    "synthetic_91": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_40": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS85": {
+        "best f1 under pa": {
+            "f1": 0.5853658536585361,
+            "precision": 0.41379310344827586,
+            "recall": 0.9999999999999999,
+            "threshold": 3.1790802478790283
+        }
+    },
+    "A3Benchmark-TS54": {
+        "best f1 under pa": {
+            "f1": 0.7380952380952376,
+            "precision": 0.8857142857142857,
+            "recall": 0.6326530612244898,
+            "threshold": 6.0896406173706055
+        }
+    },
+    "synthetic_32": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "real_61": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999983,
+            "precision": 0.9999999999999989,
+            "recall": 0.9999999999999989,
+            "threshold": 1731.8819580078125
+        }
+    },
+    "A3Benchmark-TS28": {
+        "best f1 under pa": {
+            "f1": 0.19672131147540964,
+            "precision": 0.10909090909090909,
+            "recall": 0.9999999999999999,
+            "threshold": 4.416421890258789
+        }
+    },
+    "real_66": {
+        "best f1 under pa": {
+            "f1": 0.9887640449438196,
+            "precision": 0.9777777777777777,
+            "recall": 1.0,
+            "threshold": 2726.26123046875
+        }
+    },
+    "synthetic_98": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "synthetic_49": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A3Benchmark-TS82": {
+        "best f1 under pa": {
+            "f1": 0.7499999999999996,
+            "precision": 0.7058823529411765,
+            "recall": 0.8,
+            "threshold": 1.154599666595459
+        }
+    },
+    "A3Benchmark-TS53": {
+        "best f1 under pa": {
+            "f1": 0.5925925925925921,
+            "precision": 0.8888888888888888,
+            "recall": 0.4444444444444444,
+            "threshold": 7.324612617492676
+        }
+    },
+    "A4Benchmark-TS78": {
+        "best f1 under pa": {
+            "f1": 0.9599999999999995,
+            "precision": 0.9230769230769231,
+            "recall": 1.0,
+            "threshold": 13.781518936157227
+        }
+    },
+    "synthetic_35": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "real_53": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 54.71368408203125
+        }
+    },
+    "A3Benchmark-TS4": {
+        "best f1 under pa": {
+            "f1": 0.571428571428571,
+            "precision": 0.9999999999999999,
+            "recall": 0.4,
+            "threshold": 6.9610466957092285
+        }
+    },
+    "A4Benchmark-TS31": {
+        "best f1 under pa": {
+            "f1": 0.6666666666666661,
+            "precision": 0.9999999999999999,
+            "recall": 0.49999999999999994,
+            "threshold": 0.43546658754348755
+        }
+    },
+    "A3Benchmark-TS66": {
+        "best f1 under pa": {
+            "f1": 0.38709677419354804,
+            "precision": 0.24,
+            "recall": 0.9999999999999999,
+            "threshold": 3.8347415924072266
+        }
+    },
+    "A3Benchmark-TS61": {
+        "best f1 under pa": {
+            "f1": 0.9473684210526311,
+            "precision": 0.9,
+            "recall": 1.0,
+            "threshold": 2.6378824710845947
+        }
+    },
+    "A4Benchmark-TS100": {
+        "best f1 under pa": {
+            "f1": 0.11538461538461527,
+            "precision": 0.061224489795918366,
+            "recall": 0.9999999999999999,
+            "threshold": 4.1923508644104
+        }
+    },
+    "real_28": {
+        "best f1 under pa": {
+            "f1": 0.7424242424242419,
+            "precision": 0.6901408450704225,
+            "recall": 0.8032786885245902,
+            "threshold": 24.64101791381836
+        }
+    },
+    "A4Benchmark-TS36": {
+        "best f1 under pa": {
+            "f1": 0.49056603773584856,
+            "precision": 0.9285714285714285,
+            "recall": 0.3333333333333333,
+            "threshold": 9.737408638000488
+        }
+    },
+    "A3Benchmark-TS3": {
+        "best f1 under pa": {
+            "f1": 0.7999999999999994,
+            "precision": 0.9999999999999999,
+            "recall": 0.6666666666666666,
+            "threshold": 6.466278076171875
+        }
+    },
+    "real_26": {
+        "best f1 under pa": {
+            "f1": 0.4733727810650883,
+            "precision": 0.31007751937984496,
+            "recall": 1.0,
+            "threshold": 0.7398715019226074
+        }
+    },
+    "A4Benchmark-TS95": {
+        "best f1 under pa": {
+            "f1": 0.6666666666666661,
+            "precision": 0.9999999999999999,
+            "recall": 0.49999999999999994,
+            "threshold": 5.536248683929443
+        }
+    },
+    "A4Benchmark-TS44": {
+        "best f1 under pa": {
+            "f1": 0.9761904761904757,
+            "precision": 0.9534883720930233,
+            "recall": 1.0,
+            "threshold": 1.8840162754058838
+        }
+    },
+    "A3Benchmark-TS13": {
+        "best f1 under pa": {
+            "f1": 0.09022556390977433,
+            "precision": 0.047244094488188976,
+            "recall": 0.9999999999999999,
+            "threshold": 0.7352656126022339
+        }
+    },
+    "synthetic_75": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "A4Benchmark-TS38": {
+        "best f1 under pa": {
+            "f1": 0.7741935483870962,
+            "precision": 0.9230769230769229,
+            "recall": 0.6666666666666666,
+            "threshold": 2.8206801414489746
+        }
+    },
+    "A3Benchmark-TS14": {
+        "best f1 under pa": {
+            "f1": 0.4999999999999995,
+            "precision": 0.9999999999999999,
+            "recall": 0.3333333333333333,
+            "threshold": 2.150326728820801
+        }
+    },
+    "synthetic_72": {
+        "best f1 under pa": {
+            "f1": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "real_21": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 597.6471557617188
+        }
+    },
+    "A3Benchmark-TS68": {
+        "best f1 under pa": {
+            "f1": 0.6666666666666661,
+            "precision": 0.6666666666666666,
+            "recall": 0.6666666666666666,
+            "threshold": 2.606806993484497
+        }
+    },
+    "A4Benchmark-TS92": {
+        "best f1 under pa": {
+            "f1": 0.6666666666666661,
+            "precision": 0.9999999999999999,
+            "recall": 0.5,
+            "threshold": 1.420692801475525
+        }
+    },
+    "A4Benchmark-TS43": {
+        "best f1 under pa": {
+            "f1": 0.5333333333333329,
+            "precision": 0.7999999999999999,
+            "recall": 0.4,
+            "threshold": 6.573718547821045
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "Twitter_volume_UPS": {
+        "best f1 under pa": {
+            "f1": 0.9891135303265935,
+            "precision": 0.9784615384615385,
+            "recall": 1.0,
+            "threshold": 0.919834315776825
+        }
+    },
+    "Twitter_volume_AMZN": {
+        "best f1 under pa": {
+            "f1": 0.9956002514142044,
+            "precision": 0.9912390488110138,
+            "recall": 1.0,
+            "threshold": 0.014911547303199768
+        }
+    },
+    "Twitter_volume_GOOG": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 0.858341634273529
+        }
+    },
+    "Twitter_volume_CRM": {
+        "best f1 under pa": {
+            "f1": 0.9842519685039364,
+            "precision": 0.9689922480620154,
+            "recall": 1.0,
+            "threshold": 0.009207681752741337
+        }
+    },
+    "Twitter_volume_KO": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 1.6352752447128296
+        }
+    },
+    "Twitter_volume_AAPL": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 1.7815370559692383
+        }
+    },
+    "Twitter_volume_CVS": {
+        "best f1 under pa": {
+            "f1": 0.9741302408563778,
+            "precision": 0.9495652173913044,
+            "recall": 1.0,
+            "threshold": 0.008276875130832195
+        }
+    },
+    "Twitter_volume_IBM": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 3.4018242359161377
+        }
+    },
+    "Twitter_volume_PFE": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 0.3455303907394409
+        }
+    },
+    "Twitter_volume_FB": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 3.590815782546997
+        }
+    }
+}
