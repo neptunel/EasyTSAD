@@ -27,7 +27,8 @@ if __name__ == "__main__":
     from EasyTSAD.Methods import SubLOF, SubOCSVM, AR, LSTMADalpha, LSTMADbeta, AE, EncDecAD, SRCNN, AnomalyTransformer, TFAD, Donut, FCVAE, TimesNet, OFA, FITS
 
     # Old libraries with dependency issues are excluded: 'MatrixProfile',"SAND",'DCdetector','TFAD','OFA'
-    methods = ['SubLOF','SubOCSVM','AR', 'LSTMADalpha', 'LSTMADbeta', 'AE', 'EncDecAD', 'SRCNN','AnomalyTransformer','Donut','FCVAE','TimesNet', 'FITS']
+    # methods = ['SubLOF','SubOCSVM','AR', 'LSTMADalpha', 'LSTMADbeta', 'AE', 'EncDecAD', 'SRCNN','AnomalyTransformer','Donut','FCVAE','TimesNet', 'FITS']
+    methods = ['AR', 'LSTMADalpha', 'LSTMADbeta', 'AE', 'EncDecAD', 'SRCNN','AnomalyTransformer','Donut','FCVAE']
 
     training_schema = "naive"
     
