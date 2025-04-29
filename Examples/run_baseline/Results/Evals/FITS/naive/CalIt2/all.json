@@ -1,18 +1,18 @@
 {
-    "CalIt2-traffic.test_out_count": {
-        "best f1 under pa": {
-            "f1": 0.7987012987012981,
-            "precision": 0.6910112359550562,
-            "recall": 0.9461538461538461,
-            "threshold": 0.08242186903953552
-        }
-    },
     "CalIt2-traffic.test_in_count": {
         "best f1 under pa": {
             "f1": 0.8148148148148142,
             "precision": 0.7245508982035929,
             "recall": 0.9307692307692308,
             "threshold": 0.08019828796386719
+        }
+    },
+    "CalIt2-traffic.test_out_count": {
+        "best f1 under pa": {
+            "f1": 0.7987012987012981,
+            "precision": 0.6910112359550562,
+            "recall": 0.9461538461538461,
+            "threshold": 0.08242186903953552
         }
     }
 }

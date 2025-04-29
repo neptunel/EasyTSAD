@@ -1,28 +1,4 @@
 {
-    "DISTORTEDGP711MarkerLFM5z4": {
-        "best f1 under pa": {
-            "f1": 0.8704663212435227,
-            "precision": 0.7706422018348624,
-            "recall": 1.0,
-            "threshold": 9.83464241027832
-        }
-    },
-    "DISTORTEDsddb49": {
-        "best f1 under pa": {
-            "f1": 0.9708737864077664,
-            "precision": 0.9433962264150944,
-            "recall": 1.0,
-            "threshold": 2.2763445377349854
-        }
-    },
-    "DISTORTEDgaitHunt2": {
-        "best f1 under pa": {
-            "f1": 0.4309018159433668,
-            "precision": 0.2746174970576697,
-            "recall": 1.0,
-            "threshold": 1.9743766784667969
-        }
-    },
     "tilt12754table": {
         "best f1 under pa": {
             "f1": 0.2948169281978124,
@@ -31,220 +7,52 @@
             "threshold": 2.4656941890716553
         }
     },
-    "DISTORTEDGP711MarkerLFM5z3": {
+    "DISTORTEDresperation1": {
         "best f1 under pa": {
-            "f1": 0.2408111533586816,
-            "precision": 0.13688760806916425,
+            "f1": 0.030061760547659765,
+            "precision": 0.015260255344866662,
             "recall": 1.0,
-            "threshold": 2.5558571815490723
+            "threshold": 0.28689488768577576
         }
     },
-    "NOISEECG4": {
+    "tilt12744mtable": {
         "best f1 under pa": {
-            "f1": 0.6896551724137926,
-            "precision": 0.5263157894736842,
+            "f1": 0.30303030303030276,
+            "precision": 0.17857142857142858,
             "recall": 1.0,
-            "threshold": 14.409421920776367
+            "threshold": 2.6275367736816406
         }
     },
-    "DISTORTEDCIMIS44AirTemperature2": {
+    "DISTORTEDTkeepForthMARS": {
         "best f1 under pa": {
-            "f1": 0.303901437371663,
-            "precision": 0.1791767554479419,
+            "f1": 0.7819148936170208,
+            "precision": 0.6419213973799127,
             "recall": 1.0,
-            "threshold": 4.468385219573975
+            "threshold": 8.934467315673828
         }
     },
-    "DISTORTEDTkeepFirstMARS": {
-        "best f1 under pa": {
-            "f1": 0.2514506769825916,
-            "precision": 0.14380530973451328,
-            "recall": 1.0,
-            "threshold": 2.987105131149292
-        }
-    },
-    "DISTORTEDresperation2": {
-        "best f1 under pa": {
-            "f1": 0.001408275690676385,
-            "precision": 0.0007046340048080909,
-            "recall": 1.0,
-            "threshold": 0.4990517199039459
-        }
-    },
-    "DISTORTEDtiltAPB1": {
-        "best f1 under pa": {
-            "f1": 0.1963087248322146,
-            "precision": 0.10883720930232559,
-            "recall": 1.0,
-            "threshold": 2.0067338943481445
-        }
-    },
-    "DISTORTEDpark3m": {
-        "best f1 under pa": {
-            "f1": 0.8956916099773237,
-            "precision": 0.811088295687885,
-            "recall": 1.0,
-            "threshold": 4.727684020996094
-        }
-    },
-    "InternalBleeding15": {
-        "best f1 under pa": {
-            "f1": 0.6636500754147808,
-            "precision": 0.4966139954853273,
-            "recall": 1.0,
-            "threshold": 5.305071830749512
-        }
-    },
-    "DISTORTEDCIMIS44AirTemperature5": {
-        "best f1 under pa": {
-            "f1": 0.9751243781094522,
-            "precision": 0.9514563106796117,
-            "recall": 1.0,
-            "threshold": 9.041485786437988
-        }
-    },
-    "PowerDemand2": {
-        "best f1 under pa": {
-            "f1": 0.6776859504132227,
-            "precision": 0.5125,
-            "recall": 1.0,
-            "threshold": 1.5192341804504395
-        }
-    },
-    "InternalBleeding9": {
-        "best f1 under pa": {
-            "f1": 0.34600262123197867,
-            "precision": 0.2091917591125198,
-            "recall": 1.0,
-            "threshold": 4.526399612426758
-        }
-    },
-    "InternalBleeding20": {
+    "InternalBleeding4": {
         "best f1 under pa": {
             "f1": 0.9999999999999996,
             "precision": 1.0,
             "recall": 1.0,
-            "threshold": 1.809175729751587
+            "threshold": 9.95199203491211
         }
     },
-    "DISTORTEDBIDMC1": {
+    "resperation1": {
         "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
+            "f1": 0.0159683794466403,
+            "precision": 0.008048450075703243,
             "recall": 1.0,
-            "threshold": 13.44507122039795
+            "threshold": 0.3005206286907196
         }
     },
-    "Lab2Cmac011215EPG4": {
+    "DISTORTEDInternalBleeding9": {
         "best f1 under pa": {
-            "f1": 0.6728971962616818,
-            "precision": 0.5070422535211268,
+            "f1": 0.26586102719033206,
+            "precision": 0.15331010452961671,
             "recall": 1.0,
-            "threshold": 8.538686752319336
-        }
-    },
-    "DISTORTEDECG3": {
-        "best f1 under pa": {
-            "f1": 0.2790697674418602,
-            "precision": 0.16216216216216217,
-            "recall": 1.0,
-            "threshold": 4.41074275970459
-        }
-    },
-    "DISTORTEDapneaecg4": {
-        "best f1 under pa": {
-            "f1": 0.0348310693138279,
-            "precision": 0.01772421127259837,
-            "recall": 1.0,
-            "threshold": 0.6240990161895752
-        }
-    },
-    "resperation11": {
-        "best f1 under pa": {
-            "f1": 0.01413721413721412,
-            "precision": 0.00711892797319933,
-            "recall": 1.0,
-            "threshold": 1.2382036447525024
-        }
-    },
-    "DISTORTEDECG4": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 28.42296600341797
-        }
-    },
-    "DISTORTEDapneaecg3": {
-        "best f1 under pa": {
-            "f1": 0.1583113456464378,
-            "precision": 0.08595988538681948,
-            "recall": 1.0,
-            "threshold": 8.237427711486816
-        }
-    },
-    "Lab2Cmac011215EPG3": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 21.043323516845703
-        }
-    },
-    "DISTORTEDinsectEPG3": {
-        "best f1 under pa": {
-            "f1": 0.7246376811594197,
-            "precision": 0.5681818181818182,
-            "recall": 1.0,
-            "threshold": 2.0412209033966064
-        }
-    },
-    "insectEPG2": {
-        "best f1 under pa": {
-            "f1": 0.5791505791505787,
-            "precision": 0.4076086956521739,
-            "recall": 1.0,
-            "threshold": 1.8693877458572388
-        }
-    },
-    "DISTORTEDInternalBleeding14": {
-        "best f1 under pa": {
-            "f1": 0.2916666666666664,
-            "precision": 0.17073170731707318,
-            "recall": 1.0,
-            "threshold": 2.006375312805176
-        }
-    },
-    "DISTORTED1sddb40": {
-        "best f1 under pa": {
-            "f1": 0.390101892285298,
-            "precision": 0.2423146473779385,
-            "recall": 1.0,
-            "threshold": 1.949960470199585
-        }
-    },
-    "gaitHunt1": {
-        "best f1 under pa": {
-            "f1": 0.1798763350196738,
-            "precision": 0.09882643607164916,
-            "recall": 1.0,
-            "threshold": 3.0648903846740723
-        }
-    },
-    "ECG1": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 33.51960372924805
-        }
-    },
-    "DISTORTEDinsectEPG4": {
-        "best f1 under pa": {
-            "f1": 0.25510204081632626,
-            "precision": 0.14619883040935672,
-            "recall": 1.0,
-            "threshold": 3.861309289932251
+            "threshold": 0.7214032411575317
         }
     },
     "insectEPG5": {
@@ -255,6 +63,486 @@
             "threshold": 2.566922426223755
         }
     },
+    "ltstdbs30791AS": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 123.6504135131836
+        }
+    },
+    "NOISELab2Cmac011215EPG4": {
+        "best f1 under pa": {
+            "f1": 0.545454545454545,
+            "precision": 0.375,
+            "recall": 1.0,
+            "threshold": 5.82562255859375
+        }
+    },
+    "insectEPG4": {
+        "best f1 under pa": {
+            "f1": 0.5141388174807193,
+            "precision": 0.3460207612456747,
+            "recall": 1.0,
+            "threshold": 1.8238003253936768
+        }
+    },
+    "DISTORTEDInternalBleeding8": {
+        "best f1 under pa": {
+            "f1": 0.5282392026578069,
+            "precision": 0.35891647855530473,
+            "recall": 1.0,
+            "threshold": 3.6147992610931396
+        }
+    },
+    "InternalBleeding5": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 4.434046745300293
+        }
+    },
+    "DISTORTEDMesoplodonDensirostris": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 25.829551696777344
+        }
+    },
+    "DISTORTEDresperation2": {
+        "best f1 under pa": {
+            "f1": 0.001408275690676385,
+            "precision": 0.0007046340048080909,
+            "recall": 1.0,
+            "threshold": 0.4990517199039459
+        }
+    },
+    "s20101mML2": {
+        "best f1 under pa": {
+            "f1": 0.9900990099009894,
+            "precision": 0.9803921568627451,
+            "recall": 1.0,
+            "threshold": 41.55074691772461
+        }
+    },
+    "STAFFIIIDatabase": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 17.72785758972168
+        }
+    },
+    "DISTORTEDresperation11": {
+        "best f1 under pa": {
+            "f1": 0.018348623853210986,
+            "precision": 0.009259259259259259,
+            "recall": 1.0,
+            "threshold": 1.5029820203781128
+        }
+    },
+    "park3m": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 1.7138855457305908
+        }
+    },
+    "NOISEBIDMC1": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 13.473682403564453
+        }
+    },
+    "TkeepForthMARS": {
+        "best f1 under pa": {
+            "f1": 0.731343283582089,
+            "precision": 0.5764705882352941,
+            "recall": 1.0,
+            "threshold": 4.056690692901611
+        }
+    },
+    "DISTORTEDresperation10": {
+        "best f1 under pa": {
+            "f1": 0.9425287356321833,
+            "precision": 0.8913043478260869,
+            "recall": 1.0,
+            "threshold": 1.7313157320022583
+        }
+    },
+    "resperation3": {
+        "best f1 under pa": {
+            "f1": 0.0009271715812820409,
+            "precision": 0.0004638008021025636,
+            "recall": 1.0,
+            "threshold": 0.030020566657185555
+        }
+    },
+    "InternalBleeding6": {
+        "best f1 under pa": {
+            "f1": 0.9715639810426535,
+            "precision": 0.9447004608294931,
+            "recall": 1.0,
+            "threshold": 4.5737175941467285
+        }
+    },
+    "DISTORTEDltstdbs30791AS": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 147.05230712890625
+        }
+    },
+    "DISTORTEDresperation3": {
+        "best f1 under pa": {
+            "f1": 0.0011862672125046508,
+            "precision": 0.0005934856225198701,
+            "recall": 1.0,
+            "threshold": 0.03467113524675369
+        }
+    },
+    "DISTORTED1sddb40": {
+        "best f1 under pa": {
+            "f1": 0.390101892285298,
+            "precision": 0.2423146473779385,
+            "recall": 1.0,
+            "threshold": 1.949960470199585
+        }
+    },
+    "NOISEgait3": {
+        "best f1 under pa": {
+            "f1": 0.9938837920489291,
+            "precision": 0.9878419452887538,
+            "recall": 1.0,
+            "threshold": 4.768442153930664
+        }
+    },
+    "NOISECIMIS44AirTemperature4": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 8.256145477294922
+        }
+    },
+    "insectEPG3": {
+        "best f1 under pa": {
+            "f1": 0.7326007326007322,
+            "precision": 0.5780346820809249,
+            "recall": 1.0,
+            "threshold": 4.032897472381592
+        }
+    },
+    "DISTORTEDsel840mECG1": {
+        "best f1 under pa": {
+            "f1": 0.9599999999999995,
+            "precision": 0.9230769230769231,
+            "recall": 1.0,
+            "threshold": 34.873600006103516
+        }
+    },
+    "insectEPG2": {
+        "best f1 under pa": {
+            "f1": 0.5791505791505787,
+            "precision": 0.4076086956521739,
+            "recall": 1.0,
+            "threshold": 1.8693877458572388
+        }
+    },
+    "2sddb40": {
+        "best f1 under pa": {
+            "f1": 0.14687368862777997,
+            "precision": 0.0792572463768116,
+            "recall": 1.0,
+            "threshold": 2.1870858669281006
+        }
+    },
+    "DISTORTEDresperation4": {
+        "best f1 under pa": {
+            "f1": 0.00259938837920489,
+            "precision": 0.0013013855928959658,
+            "recall": 1.0,
+            "threshold": 0.13002891838550568
+        }
+    },
+    "resperation4": {
+        "best f1 under pa": {
+            "f1": 0.00114104170395561,
+            "precision": 0.0005708465318274924,
+            "recall": 1.0,
+            "threshold": 0.005902056582272053
+        }
+    },
+    "Italianpowerdemand": {
+        "best f1 under pa": {
+            "f1": 0.09337539432176646,
+            "precision": 0.04897418927862343,
+            "recall": 1.0,
+            "threshold": 2.5025742053985596
+        }
+    },
+    "s20101m": {
+        "best f1 under pa": {
+            "f1": 0.9900990099009894,
+            "precision": 0.9803921568627451,
+            "recall": 1.0,
+            "threshold": 16.692119598388672
+        }
+    },
+    "DISTORTEDsel840mECG2": {
+        "best f1 under pa": {
+            "f1": 0.7749077490774903,
+            "precision": 0.6325301204819277,
+            "recall": 1.0,
+            "threshold": 20.549732208251953
+        }
+    },
+    "NOISELab2Cmac011215EPG1": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 48.860389709472656
+        }
+    },
+    "insectEPG1": {
+        "best f1 under pa": {
+            "f1": 0.9142857142857137,
+            "precision": 0.8421052631578947,
+            "recall": 1.0,
+            "threshold": 5.261488914489746
+        }
+    },
+    "DISTORTEDTkeepSecondMARS": {
+        "best f1 under pa": {
+            "f1": 0.6417112299465235,
+            "precision": 0.47244094488188976,
+            "recall": 1.0,
+            "threshold": 2.7529537677764893
+        }
+    },
+    "DISTORTEDinsectEPG2": {
+        "best f1 under pa": {
+            "f1": 0.9677419354838704,
+            "precision": 0.9375,
+            "recall": 1.0,
+            "threshold": 3.7195560932159424
+        }
+    },
+    "DISTORTEDInternalBleeding20": {
+        "best f1 under pa": {
+            "f1": 0.8936170212765953,
+            "precision": 0.8076923076923077,
+            "recall": 1.0,
+            "threshold": 5.69816780090332
+        }
+    },
+    "apneaecg4": {
+        "best f1 under pa": {
+            "f1": 0.07400098667982231,
+            "precision": 0.038422131147540985,
+            "recall": 1.0,
+            "threshold": 0.22301697731018066
+        }
+    },
+    "DISTORTEDCIMIS44AirTemperature6": {
+        "best f1 under pa": {
+            "f1": 0.8711111111111105,
+            "precision": 0.7716535433070866,
+            "recall": 1.0,
+            "threshold": 7.182259559631348
+        }
+    },
+    "NOISEInternalBleeding6": {
+        "best f1 under pa": {
+            "f1": 0.9761904761904757,
+            "precision": 0.9534883720930233,
+            "recall": 1.0,
+            "threshold": 3.4025089740753174
+        }
+    },
+    "InternalBleeding20": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 1.809175729751587
+        }
+    },
+    "DISTORTEDinsectEPG3": {
+        "best f1 under pa": {
+            "f1": 0.7246376811594197,
+            "precision": 0.5681818181818182,
+            "recall": 1.0,
+            "threshold": 2.0412209033966064
+        }
+    },
+    "tiltAPB4": {
+        "best f1 under pa": {
+            "f1": 0.755555555555555,
+            "precision": 0.6071428571428571,
+            "recall": 1.0,
+            "threshold": 5.0759124755859375
+        }
+    },
+    "DISTORTEDGP711MarkerLFM5z4": {
+        "best f1 under pa": {
+            "f1": 0.8704663212435227,
+            "precision": 0.7706422018348624,
+            "recall": 1.0,
+            "threshold": 9.83464241027832
+        }
+    },
+    "DISTORTEDinsectEPG1": {
+        "best f1 under pa": {
+            "f1": 0.7582938388625586,
+            "precision": 0.6106870229007634,
+            "recall": 1.0,
+            "threshold": 2.983304738998413
+        }
+    },
+    "resperation10": {
+        "best f1 under pa": {
+            "f1": 0.9875551987153748,
+            "precision": 0.9754163362410785,
+            "recall": 1.0,
+            "threshold": 3.0537374019622803
+        }
+    },
+    "DISTORTEDCIMIS44AirTemperature5": {
+        "best f1 under pa": {
+            "f1": 0.9751243781094522,
+            "precision": 0.9514563106796117,
+            "recall": 1.0,
+            "threshold": 9.041485786437988
+        }
+    },
+    "WalkingAceleration5": {
+        "best f1 under pa": {
+            "f1": 0.8755020080321281,
+            "precision": 0.7785714285714286,
+            "recall": 1.0,
+            "threshold": 18.40390968322754
+        }
+    },
+    "NOISEInternalBleeding16": {
+        "best f1 under pa": {
+            "f1": 0.06997742663656878,
+            "precision": 0.03625730994152047,
+            "recall": 1.0,
+            "threshold": 0.5451642274856567
+        }
+    },
+    "DISTORTEDCIMIS44AirTemperature4": {
+        "best f1 under pa": {
+            "f1": 0.9289099526066346,
+            "precision": 0.8672566371681416,
+            "recall": 1.0,
+            "threshold": 10.892404556274414
+        }
+    },
+    "resperation11": {
+        "best f1 under pa": {
+            "f1": 0.01413721413721412,
+            "precision": 0.00711892797319933,
+            "recall": 1.0,
+            "threshold": 1.2382036447525024
+        }
+    },
+    "apneaecg": {
+        "best f1 under pa": {
+            "f1": 0.4436090225563906,
+            "precision": 0.28502415458937197,
+            "recall": 1.0,
+            "threshold": 11.219914436340332
+        }
+    },
+    "DISTORTEDGP711MarkerLFM5z5": {
+        "best f1 under pa": {
+            "f1": 0.46038863976083666,
+            "precision": 0.29902912621359223,
+            "recall": 1.0,
+            "threshold": 8.315128326416016
+        }
+    },
+    "DISTORTEDGP711MarkerLFM5z1": {
+        "best f1 under pa": {
+            "f1": 0.1644794400699911,
+            "precision": 0.08960915157292659,
+            "recall": 1.0,
+            "threshold": 1.041725754737854
+        }
+    },
+    "tiltAPB1": {
+        "best f1 under pa": {
+            "f1": 0.08423326133909277,
+            "precision": 0.043968432919954906,
+            "recall": 1.0,
+            "threshold": 1.0879735946655273
+        }
+    },
+    "DISTORTEDinsectEPG4": {
+        "best f1 under pa": {
+            "f1": 0.25510204081632626,
+            "precision": 0.14619883040935672,
+            "recall": 1.0,
+            "threshold": 3.861309289932251
+        }
+    },
+    "apneaecg2": {
+        "best f1 under pa": {
+            "f1": 0.99502487562189,
+            "precision": 0.9900990099009901,
+            "recall": 1.0,
+            "threshold": 52.793365478515625
+        }
+    },
+    "gait2": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 3.5169196128845215
+        }
+    },
+    "gaitHunt3": {
+        "best f1 under pa": {
+            "f1": 0.8192771084337345,
+            "precision": 0.6938775510204082,
+            "recall": 1.0,
+            "threshold": 1.9542900323867798
+        }
+    },
+    "sel840mECG2": {
+        "best f1 under pa": {
+            "f1": 0.7962085308056867,
+            "precision": 0.6614173228346457,
+            "recall": 1.0,
+            "threshold": 16.117876052856445
+        }
+    },
+    "WalkingAceleration1": {
+        "best f1 under pa": {
+            "f1": 0.9429530201342278,
+            "precision": 0.8920634920634921,
+            "recall": 1.0,
+            "threshold": 13.495357513427734
+        }
+    },
+    "DISTORTEDCIMIS44AirTemperature1": {
+        "best f1 under pa": {
+            "f1": 0.5513513513513508,
+            "precision": 0.3805970149253731,
+            "recall": 1.0,
+            "threshold": 4.056843280792236
+        }
+    },
     "DISTORTEDqtdbSel1005V": {
         "best f1 under pa": {
             "f1": 0.7805724197745009,
@@ -263,20 +551,300 @@
             "threshold": 25.928163528442383
         }
     },
-    "NOISEapneaecg4": {
+    "gaitHunt2": {
         "best f1 under pa": {
-            "f1": 0.03716090672612408,
-            "precision": 0.01893222264293828,
+            "f1": 0.5835764902042513,
+            "precision": 0.4120070629782225,
             "recall": 1.0,
-            "threshold": 0.7465541958808899
+            "threshold": 1.4462952613830566
         }
     },
-    "GP711MarkerLFM5z1": {
+    "3sddb40": {
         "best f1 under pa": {
-            "f1": 0.03962065331928342,
-            "precision": 0.02021070737475812,
+            "f1": 0.9333333333333328,
+            "precision": 0.875,
             "recall": 1.0,
-            "threshold": 2.8779735565185547
+            "threshold": 16.944169998168945
+        }
+    },
+    "gait3": {
+        "best f1 under pa": {
+            "f1": 0.9818731117824767,
+            "precision": 0.9643916913946587,
+            "recall": 1.0,
+            "threshold": 3.0657427310943604
+        }
+    },
+    "apneaecg3": {
+        "best f1 under pa": {
+            "f1": 0.19467878001297842,
+            "precision": 0.10783608914450037,
+            "recall": 1.0,
+            "threshold": 7.846793174743652
+        }
+    },
+    "qtdbSel1005V": {
+        "best f1 under pa": {
+            "f1": 0.7880910683012254,
+            "precision": 0.6502890173410405,
+            "recall": 1.0,
+            "threshold": 24.185943603515625
+        }
+    },
+    "DISTORTEDinsectEPG5": {
+        "best f1 under pa": {
+            "f1": 0.9714285714285709,
+            "precision": 0.9444444444444444,
+            "recall": 1.0,
+            "threshold": 4.031702041625977
+        }
+    },
+    "DISTORTEDGP711MarkerLFM5z2": {
+        "best f1 under pa": {
+            "f1": 0.5101842870999026,
+            "precision": 0.3424479166666667,
+            "recall": 1.0,
+            "threshold": 5.035311222076416
+        }
+    },
+    "tiltAPB2": {
+        "best f1 under pa": {
+            "f1": 0.9837170129140926,
+            "precision": 0.9679558011049724,
+            "recall": 1.0,
+            "threshold": 12.469594955444336
+        }
+    },
+    "NOISEMesoplodonDensirostris": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 31.395122528076172
+        }
+    },
+    "DISTORTEDInternalBleeding19": {
+        "best f1 under pa": {
+            "f1": 0.14084507042253508,
+            "precision": 0.07575757575757576,
+            "recall": 1.0,
+            "threshold": 1.322974443435669
+        }
+    },
+    "gait1": {
+        "best f1 under pa": {
+            "f1": 0.369978858350951,
+            "precision": 0.22697795071335927,
+            "recall": 1.0,
+            "threshold": 1.6163642406463623
+        }
+    },
+    "DISTORTEDCIMIS44AirTemperature3": {
+        "best f1 under pa": {
+            "f1": 0.41225626740947036,
+            "precision": 0.2596491228070175,
+            "recall": 1.0,
+            "threshold": 2.901658058166504
+        }
+    },
+    "sel840mECG1": {
+        "best f1 under pa": {
+            "f1": 0.9644087256027549,
+            "precision": 0.9312638580931264,
+            "recall": 1.0,
+            "threshold": 33.388587951660156
+        }
+    },
+    "InternalBleeding18": {
+        "best f1 under pa": {
+            "f1": 0.2822655524605382,
+            "precision": 0.1643243243243243,
+            "recall": 1.0,
+            "threshold": 2.1504735946655273
+        }
+    },
+    "InternalBleeding19": {
+        "best f1 under pa": {
+            "f1": 0.1659751037344397,
+            "precision": 0.09049773755656108,
+            "recall": 1.0,
+            "threshold": 2.9975650310516357
+        }
+    },
+    "DISTORTEDCIMIS44AirTemperature2": {
+        "best f1 under pa": {
+            "f1": 0.303901437371663,
+            "precision": 0.1791767554479419,
+            "recall": 1.0,
+            "threshold": 4.468385219573975
+        }
+    },
+    "DISTORTEDs20101mML2": {
+        "best f1 under pa": {
+            "f1": 0.9966777408637868,
+            "precision": 0.9933774834437086,
+            "recall": 1.0,
+            "threshold": 41.76659393310547
+        }
+    },
+    "gaitHunt1": {
+        "best f1 under pa": {
+            "f1": 0.1798763350196738,
+            "precision": 0.09882643607164916,
+            "recall": 1.0,
+            "threshold": 3.0648903846740723
+        }
+    },
+    "DISTORTEDInternalBleeding18": {
+        "best f1 under pa": {
+            "f1": 0.3862770012706476,
+            "precision": 0.23937007874015748,
+            "recall": 1.0,
+            "threshold": 5.847443103790283
+        }
+    },
+    "NOISEinsectEPG3": {
+        "best f1 under pa": {
+            "f1": 0.5586592178770945,
+            "precision": 0.3875968992248062,
+            "recall": 1.0,
+            "threshold": 1.748098373413086
+        }
+    },
+    "tiltAPB3": {
+        "best f1 under pa": {
+            "f1": 0.06601697579377548,
+            "precision": 0.034135240572171655,
+            "recall": 1.0,
+            "threshold": 1.0819073915481567
+        }
+    },
+    "DISTORTEDpark3m": {
+        "best f1 under pa": {
+            "f1": 0.8956916099773237,
+            "precision": 0.811088295687885,
+            "recall": 1.0,
+            "threshold": 4.727684020996094
+        }
+    },
+    "DISTORTEDGP711MarkerLFM5z3": {
+        "best f1 under pa": {
+            "f1": 0.2408111533586816,
+            "precision": 0.13688760806916425,
+            "recall": 1.0,
+            "threshold": 2.5558571815490723
+        }
+    },
+    "DISTORTEDapneaecg": {
+        "best f1 under pa": {
+            "f1": 0.3511904761904759,
+            "precision": 0.21299638989169675,
+            "recall": 1.0,
+            "threshold": 10.346610069274902
+        }
+    },
+    "CHARISfive": {
+        "best f1 under pa": {
+            "f1": 0.9302325581395344,
+            "precision": 0.8695652173913043,
+            "recall": 1.0,
+            "threshold": 2.058500289916992
+        }
+    },
+    "DISTORTEDInternalBleeding15": {
+        "best f1 under pa": {
+            "f1": 0.8627450980392151,
+            "precision": 0.7586206896551724,
+            "recall": 1.0,
+            "threshold": 6.8212995529174805
+        }
+    },
+    "mit14134longtermecg": {
+        "best f1 under pa": {
+            "f1": 0.21052631578947348,
+            "precision": 0.11764705882352941,
+            "recall": 1.0,
+            "threshold": 19.608964920043945
+        }
+    },
+    "sddb49": {
+        "best f1 under pa": {
+            "f1": 0.9868421052631573,
+            "precision": 0.974025974025974,
+            "recall": 1.0,
+            "threshold": 3.0081872940063477
+        }
+    },
+    "DISTORTEDltstdbs30791ES": {
+        "best f1 under pa": {
+            "f1": 0.29533372711163586,
+            "precision": 0.17325017325017325,
+            "recall": 1.0,
+            "threshold": 4.411831378936768
+        }
+    },
+    "CIMIS44AirTemperature2": {
+        "best f1 under pa": {
+            "f1": 0.30020283975659207,
+            "precision": 0.1766109785202864,
+            "recall": 1.0,
+            "threshold": 2.0700225830078125
+        }
+    },
+    "NOISEgaitHunt2": {
+        "best f1 under pa": {
+            "f1": 0.9265387160820643,
+            "precision": 0.8631319358816276,
+            "recall": 1.0,
+            "threshold": 2.966202974319458
+        }
+    },
+    "GP711MarkerLFM5z3": {
+        "best f1 under pa": {
+            "f1": 0.4470588235294114,
+            "precision": 0.2878787878787879,
+            "recall": 1.0,
+            "threshold": 8.630315780639648
+        }
+    },
+    "InternalBleeding14": {
+        "best f1 under pa": {
+            "f1": 0.3362445414847159,
+            "precision": 0.2020997375328084,
+            "recall": 1.0,
+            "threshold": 3.238121747970581
+        }
+    },
+    "mit14046longtermecg": {
+        "best f1 under pa": {
+            "f1": 0.38855528081949803,
+            "precision": 0.24112231477422183,
+            "recall": 1.0,
+            "threshold": 11.444933891296387
+        }
+    },
+    "InternalBleeding15": {
+        "best f1 under pa": {
+            "f1": 0.6636500754147808,
+            "precision": 0.4966139954853273,
+            "recall": 1.0,
+            "threshold": 5.305071830749512
+        }
+    },
+    "GP711MarkerLFM5z2": {
+        "best f1 under pa": {
+            "f1": 0.6368038740920092,
+            "precision": 0.46714031971580816,
+            "recall": 1.0,
+            "threshold": 12.428269386291504
+        }
+    },
+    "CHARISten": {
+        "best f1 under pa": {
+            "f1": 0.5405405405405401,
+            "precision": 0.37037037037037035,
+            "recall": 1.0,
+            "threshold": 7.590866565704346
         }
     },
     "CIMIS44AirTemperature3": {
@@ -287,36 +855,44 @@
             "threshold": 1.6519209146499634
         }
     },
-    "ltstdbs30791AS": {
+    "Fantasia": {
+        "best f1 under pa": {
+            "f1": 0.9817671809256656,
+            "precision": 0.9641873278236914,
+            "recall": 1.0,
+            "threshold": 47.470882415771484
+        }
+    },
+    "DISTORTEDInternalBleeding14": {
+        "best f1 under pa": {
+            "f1": 0.2916666666666664,
+            "precision": 0.17073170731707318,
+            "recall": 1.0,
+            "threshold": 2.006375312805176
+        }
+    },
+    "DISTORTEDtiltAPB4": {
         "best f1 under pa": {
             "f1": 0.9999999999999996,
             "precision": 1.0,
             "recall": 1.0,
-            "threshold": 123.6504135131836
+            "threshold": 11.603772163391113
         }
     },
-    "CIMIS44AirTemperature4": {
+    "TkeepFifthMARS": {
         "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
+            "f1": 0.9392971246006385,
+            "precision": 0.8855421686746988,
             "recall": 1.0,
-            "threshold": 14.623987197875977
+            "threshold": 4.190877914428711
         }
     },
-    "DISTORTED3sddb40": {
+    "NOISEECG4": {
         "best f1 under pa": {
-            "f1": 0.9589041095890405,
-            "precision": 0.9210526315789473,
+            "f1": 0.6896551724137926,
+            "precision": 0.5263157894736842,
             "recall": 1.0,
-            "threshold": 14.084692001342773
-        }
-    },
-    "qtdbSel100MLII": {
-        "best f1 under pa": {
-            "f1": 0.8064516129032253,
-            "precision": 0.6756756756756757,
-            "recall": 1.0,
-            "threshold": 53.580177307128906
+            "threshold": 14.409421920776367
         }
     },
     "weallwalk": {
@@ -327,28 +903,92 @@
             "threshold": 3.909719705581665
         }
     },
-    "DISTORTEDLab2Cmac011215EPG2": {
+    "DISTORTEDInternalBleeding16": {
         "best f1 under pa": {
-            "f1": 0.9266409266409261,
-            "precision": 0.8633093525179856,
+            "f1": 0.09302325581395339,
+            "precision": 0.04878048780487805,
             "recall": 1.0,
-            "threshold": 8.967094421386719
+            "threshold": 2.3859410285949707
         }
     },
-    "DISTORTEDInternalBleeding5": {
+    "CIMIS44AirTemperature1": {
         "best f1 under pa": {
-            "f1": 0.7445008460236882,
-            "precision": 0.5929919137466307,
+            "f1": 0.3968871595330735,
+            "precision": 0.24757281553398058,
             "recall": 1.0,
-            "threshold": 1.0873137712478638
+            "threshold": 1.4921056032180786
         }
     },
-    "DISTORTEDLab2Cmac011215EPG5": {
+    "DISTORTEDTkeepFifthMARS": {
         "best f1 under pa": {
-            "f1": 0.4986149584487531,
-            "precision": 0.33210332103321033,
+            "f1": 0.5951417004048578,
+            "precision": 0.42363112391930835,
             "recall": 1.0,
-            "threshold": 10.565055847167969
+            "threshold": 7.515718936920166
+        }
+    },
+    "mit14157longtermecg": {
+        "best f1 under pa": {
+            "f1": 0.4096170970614422,
+            "precision": 0.25755879059350506,
+            "recall": 1.0,
+            "threshold": 15.642922401428223
+        }
+    },
+    "DISTORTED3sddb40": {
+        "best f1 under pa": {
+            "f1": 0.9589041095890405,
+            "precision": 0.9210526315789473,
+            "recall": 1.0,
+            "threshold": 14.084692001342773
+        }
+    },
+    "InternalBleeding17": {
+        "best f1 under pa": {
+            "f1": 0.6625514403292176,
+            "precision": 0.49538461538461537,
+            "recall": 1.0,
+            "threshold": 4.537097930908203
+        }
+    },
+    "InternalBleeding16": {
+        "best f1 under pa": {
+            "f1": 0.06831955922865006,
+            "precision": 0.03536794067313177,
+            "recall": 1.0,
+            "threshold": 1.9614453315734863
+        }
+    },
+    "GP711MarkerLFM5z1": {
+        "best f1 under pa": {
+            "f1": 0.03962065331928342,
+            "precision": 0.02021070737475812,
+            "recall": 1.0,
+            "threshold": 2.8779735565185547
+        }
+    },
+    "ltstdbs30791ES": {
+        "best f1 under pa": {
+            "f1": 0.22371364653243828,
+            "precision": 0.12594458438287154,
+            "recall": 1.0,
+            "threshold": 1.3875300884246826
+        }
+    },
+    "PowerDemand4": {
+        "best f1 under pa": {
+            "f1": 0.9838709677419348,
+            "precision": 0.9682539682539683,
+            "recall": 1.0,
+            "threshold": 1.6409121751785278
+        }
+    },
+    "DISTORTEDInternalBleeding17": {
+        "best f1 under pa": {
+            "f1": 0.5739750445632794,
+            "precision": 0.4025,
+            "recall": 1.0,
+            "threshold": 5.282983303070068
         }
     },
     "DISTORTEDWalkingAceleration5": {
@@ -367,804 +1007,12 @@
             "threshold": 2.4722812175750732
         }
     },
-    "DISTORTED2sddb40": {
-        "best f1 under pa": {
-            "f1": 0.07658643326039379,
-            "precision": 0.03981797497155859,
-            "recall": 1.0,
-            "threshold": 0.37467649579048157
-        }
-    },
-    "CHARISten": {
-        "best f1 under pa": {
-            "f1": 0.5405405405405401,
-            "precision": 0.37037037037037035,
-            "recall": 1.0,
-            "threshold": 7.590866565704346
-        }
-    },
-    "DISTORTEDltstdbs30791AI": {
+    "DISTORTEDBIDMC1": {
         "best f1 under pa": {
             "f1": 0.9999999999999996,
             "precision": 1.0,
             "recall": 1.0,
-            "threshold": 41.221214294433594
-        }
-    },
-    "resperation3": {
-        "best f1 under pa": {
-            "f1": 0.0009271715812820409,
-            "precision": 0.0004638008021025636,
-            "recall": 1.0,
-            "threshold": 0.030020566657185555
-        }
-    },
-    "STAFFIIIDatabase": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 17.72785758972168
-        }
-    },
-    "DISTORTEDgait1": {
-        "best f1 under pa": {
-            "f1": 0.4557291666666663,
-            "precision": 0.2951096121416526,
-            "recall": 1.0,
-            "threshold": 2.8838868141174316
-        }
-    },
-    "resperation4": {
-        "best f1 under pa": {
-            "f1": 0.00114104170395561,
-            "precision": 0.0005708465318274924,
-            "recall": 1.0,
-            "threshold": 0.005902056582272053
-        }
-    },
-    "NOISEgaitHunt2": {
-        "best f1 under pa": {
-            "f1": 0.9265387160820643,
-            "precision": 0.8631319358816276,
-            "recall": 1.0,
-            "threshold": 2.966202974319458
-        }
-    },
-    "ltstdbs30791ES": {
-        "best f1 under pa": {
-            "f1": 0.22371364653243828,
-            "precision": 0.12594458438287154,
-            "recall": 1.0,
-            "threshold": 1.3875300884246826
-        }
-    },
-    "DISTORTEDPowerDemand3": {
-        "best f1 under pa": {
-            "f1": 0.36094674556212986,
-            "precision": 0.22021660649819494,
-            "recall": 1.0,
-            "threshold": 0.8450072407722473
-        }
-    },
-    "InternalBleeding6": {
-        "best f1 under pa": {
-            "f1": 0.9715639810426535,
-            "precision": 0.9447004608294931,
-            "recall": 1.0,
-            "threshold": 4.5737175941467285
-        }
-    },
-    "DISTORTEDapneaecg2": {
-        "best f1 under pa": {
-            "f1": 0.9975062344139646,
-            "precision": 0.9950248756218906,
-            "recall": 1.0,
-            "threshold": 99.45872497558594
-        }
-    },
-    "Lab2Cmac011215EPG2": {
-        "best f1 under pa": {
-            "f1": 0.6045340050377829,
-            "precision": 0.4332129963898917,
-            "recall": 1.0,
-            "threshold": 5.78565788269043
-        }
-    },
-    "WalkingAceleration5": {
-        "best f1 under pa": {
-            "f1": 0.8755020080321281,
-            "precision": 0.7785714285714286,
-            "recall": 1.0,
-            "threshold": 18.40390968322754
-        }
-    },
-    "Lab2Cmac011215EPG5": {
-        "best f1 under pa": {
-            "f1": 0.6282722513089001,
-            "precision": 0.4580152671755725,
-            "recall": 1.0,
-            "threshold": 2.968294143676758
-        }
-    },
-    "DISTORTEDECG2": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 35.61113739013672
-        }
-    },
-    "resperation10": {
-        "best f1 under pa": {
-            "f1": 0.9875551987153748,
-            "precision": 0.9754163362410785,
-            "recall": 1.0,
-            "threshold": 3.0537374019622803
-        }
-    },
-    "NOISEBIDMC1": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 13.473682403564453
-        }
-    },
-    "sel840mECG2": {
-        "best f1 under pa": {
-            "f1": 0.7962085308056867,
-            "precision": 0.6614173228346457,
-            "recall": 1.0,
-            "threshold": 16.117876052856445
-        }
-    },
-    "qtdbSel1005V": {
-        "best f1 under pa": {
-            "f1": 0.7880910683012254,
-            "precision": 0.6502890173410405,
-            "recall": 1.0,
-            "threshold": 24.185943603515625
-        }
-    },
-    "InternalBleeding8": {
-        "best f1 under pa": {
-            "f1": 0.5096153846153842,
-            "precision": 0.3419354838709677,
-            "recall": 1.0,
-            "threshold": 1.2779479026794434
-        }
-    },
-    "NOISELab2Cmac011215EPG4": {
-        "best f1 under pa": {
-            "f1": 0.545454545454545,
-            "precision": 0.375,
-            "recall": 1.0,
-            "threshold": 5.82562255859375
-        }
-    },
-    "DISTORTEDresperation4": {
-        "best f1 under pa": {
-            "f1": 0.00259938837920489,
-            "precision": 0.0013013855928959658,
-            "recall": 1.0,
-            "threshold": 0.13002891838550568
-        }
-    },
-    "InternalBleeding14": {
-        "best f1 under pa": {
-            "f1": 0.3362445414847159,
-            "precision": 0.2020997375328084,
-            "recall": 1.0,
-            "threshold": 3.238121747970581
-        }
-    },
-    "PowerDemand3": {
-        "best f1 under pa": {
-            "f1": 0.8026315789473679,
-            "precision": 0.6703296703296703,
-            "recall": 1.0,
-            "threshold": 2.8598382472991943
-        }
-    },
-    "DISTORTEDCIMIS44AirTemperature4": {
-        "best f1 under pa": {
-            "f1": 0.9289099526066346,
-            "precision": 0.8672566371681416,
-            "recall": 1.0,
-            "threshold": 10.892404556274414
-        }
-    },
-    "gait1": {
-        "best f1 under pa": {
-            "f1": 0.369978858350951,
-            "precision": 0.22697795071335927,
-            "recall": 1.0,
-            "threshold": 1.6163642406463623
-        }
-    },
-    "PowerDemand4": {
-        "best f1 under pa": {
-            "f1": 0.9838709677419348,
-            "precision": 0.9682539682539683,
-            "recall": 1.0,
-            "threshold": 1.6409121751785278
-        }
-    },
-    "DISTORTEDCIMIS44AirTemperature3": {
-        "best f1 under pa": {
-            "f1": 0.41225626740947036,
-            "precision": 0.2596491228070175,
-            "recall": 1.0,
-            "threshold": 2.901658058166504
-        }
-    },
-    "DISTORTEDresperation3": {
-        "best f1 under pa": {
-            "f1": 0.0011862672125046508,
-            "precision": 0.0005934856225198701,
-            "recall": 1.0,
-            "threshold": 0.03467113524675369
-        }
-    },
-    "NOISEMesoplodonDensirostris": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 31.395122528076172
-        }
-    },
-    "DISTORTEDGP711MarkerLFM5z2": {
-        "best f1 under pa": {
-            "f1": 0.5101842870999026,
-            "precision": 0.3424479166666667,
-            "recall": 1.0,
-            "threshold": 5.035311222076416
-        }
-    },
-    "tiltAPB1": {
-        "best f1 under pa": {
-            "f1": 0.08423326133909277,
-            "precision": 0.043968432919954906,
-            "recall": 1.0,
-            "threshold": 1.0879735946655273
-        }
-    },
-    "mit14046longtermecg": {
-        "best f1 under pa": {
-            "f1": 0.38855528081949803,
-            "precision": 0.24112231477422183,
-            "recall": 1.0,
-            "threshold": 11.444933891296387
-        }
-    },
-    "TkeepFirstMARS": {
-        "best f1 under pa": {
-            "f1": 0.33766233766233733,
-            "precision": 0.203125,
-            "recall": 1.0,
-            "threshold": 3.14201283454895
-        }
-    },
-    "DISTORTEDGP711MarkerLFM5z5": {
-        "best f1 under pa": {
-            "f1": 0.46038863976083666,
-            "precision": 0.29902912621359223,
-            "recall": 1.0,
-            "threshold": 8.315128326416016
-        }
-    },
-    "DISTORTEDgaitHunt3": {
-        "best f1 under pa": {
-            "f1": 0.7127882599580708,
-            "precision": 0.5537459283387622,
-            "recall": 1.0,
-            "threshold": 2.9104769229888916
-        }
-    },
-    "DISTORTEDs20101m": {
-        "best f1 under pa": {
-            "f1": 0.9868421052631573,
-            "precision": 0.974025974025974,
-            "recall": 1.0,
-            "threshold": 12.667611122131348
-        }
-    },
-    "DISTORTEDqtdbSel100MLII": {
-        "best f1 under pa": {
-            "f1": 0.8241758241758236,
-            "precision": 0.7009345794392523,
-            "recall": 1.0,
-            "threshold": 39.966514587402344
-        }
-    },
-    "DISTORTEDInternalBleeding20": {
-        "best f1 under pa": {
-            "f1": 0.8936170212765953,
-            "precision": 0.8076923076923077,
-            "recall": 1.0,
-            "threshold": 5.69816780090332
-        }
-    },
-    "DISTORTEDPowerDemand2": {
-        "best f1 under pa": {
-            "f1": 0.7892204042348407,
-            "precision": 0.6518282988871225,
-            "recall": 1.0,
-            "threshold": 1.5008221864700317
-        }
-    },
-    "NOISEInternalBleeding6": {
-        "best f1 under pa": {
-            "f1": 0.9761904761904757,
-            "precision": 0.9534883720930233,
-            "recall": 1.0,
-            "threshold": 3.4025089740753174
-        }
-    },
-    "DISTORTEDLab2Cmac011215EPG4": {
-        "best f1 under pa": {
-            "f1": 0.3797468354430376,
-            "precision": 0.234375,
-            "recall": 1.0,
-            "threshold": 4.30257511138916
-        }
-    },
-    "ltstdbs30791AI": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 75.12071990966797
-        }
-    },
-    "DISTORTEDltstdbs30791ES": {
-        "best f1 under pa": {
-            "f1": 0.29533372711163586,
-            "precision": 0.17325017325017325,
-            "recall": 1.0,
-            "threshold": 4.411831378936768
-        }
-    },
-    "NOISE1sddb40": {
-        "best f1 under pa": {
-            "f1": 0.9128065395095363,
-            "precision": 0.8395989974937343,
-            "recall": 1.0,
-            "threshold": 10.480613708496094
-        }
-    },
-    "DISTORTEDLab2Cmac011215EPG3": {
-        "best f1 under pa": {
-            "f1": 0.9876543209876537,
-            "precision": 0.975609756097561,
-            "recall": 1.0,
-            "threshold": 15.95317268371582
-        }
-    },
-    "DISTORTEDInternalBleeding4": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 1.8354891538619995
-        }
-    },
-    "CIMIS44AirTemperature5": {
-        "best f1 under pa": {
-            "f1": 0.7101449275362314,
-            "precision": 0.550561797752809,
-            "recall": 1.0,
-            "threshold": 7.058372497558594
-        }
-    },
-    "CIMIS44AirTemperature2": {
-        "best f1 under pa": {
-            "f1": 0.30020283975659207,
-            "precision": 0.1766109785202864,
-            "recall": 1.0,
-            "threshold": 2.0700225830078125
-        }
-    },
-    "DISTORTEDsel840mECG1": {
-        "best f1 under pa": {
-            "f1": 0.9599999999999995,
-            "precision": 0.9230769230769231,
-            "recall": 1.0,
-            "threshold": 34.873600006103516
-        }
-    },
-    "DISTORTEDltstdbs30791AS": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 147.05230712890625
-        }
-    },
-    "tilt12755mtable": {
-        "best f1 under pa": {
-            "f1": 0.08708667845965429,
-            "precision": 0.04552567932849623,
-            "recall": 1.0,
-            "threshold": 3.013216018676758
-        }
-    },
-    "DISTORTEDinsectEPG5": {
-        "best f1 under pa": {
-            "f1": 0.9714285714285709,
-            "precision": 0.9444444444444444,
-            "recall": 1.0,
-            "threshold": 4.031702041625977
-        }
-    },
-    "insectEPG4": {
-        "best f1 under pa": {
-            "f1": 0.5141388174807193,
-            "precision": 0.3460207612456747,
-            "recall": 1.0,
-            "threshold": 1.8238003253936768
-        }
-    },
-    "DISTORTEDinsectEPG2": {
-        "best f1 under pa": {
-            "f1": 0.9677419354838704,
-            "precision": 0.9375,
-            "recall": 1.0,
-            "threshold": 3.7195560932159424
-        }
-    },
-    "insectEPG3": {
-        "best f1 under pa": {
-            "f1": 0.7326007326007322,
-            "precision": 0.5780346820809249,
-            "recall": 1.0,
-            "threshold": 4.032897472381592
-        }
-    },
-    "DISTORTEDInternalBleeding15": {
-        "best f1 under pa": {
-            "f1": 0.8627450980392151,
-            "precision": 0.7586206896551724,
-            "recall": 1.0,
-            "threshold": 6.8212995529174805
-        }
-    },
-    "DISTORTEDresperation11": {
-        "best f1 under pa": {
-            "f1": 0.018348623853210986,
-            "precision": 0.009259259259259259,
-            "recall": 1.0,
-            "threshold": 1.5029820203781128
-        }
-    },
-    "DISTORTEDs20101mML2": {
-        "best f1 under pa": {
-            "f1": 0.9966777408637868,
-            "precision": 0.9933774834437086,
-            "recall": 1.0,
-            "threshold": 41.76659393310547
-        }
-    },
-    "park3m": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 1.7138855457305908
-        }
-    },
-    "apneaecg2": {
-        "best f1 under pa": {
-            "f1": 0.99502487562189,
-            "precision": 0.9900990099009901,
-            "recall": 1.0,
-            "threshold": 52.793365478515625
-        }
-    },
-    "mit14157longtermecg": {
-        "best f1 under pa": {
-            "f1": 0.4096170970614422,
-            "precision": 0.25755879059350506,
-            "recall": 1.0,
-            "threshold": 15.642922401428223
-        }
-    },
-    "DISTORTEDTkeepThirdMARS": {
-        "best f1 under pa": {
-            "f1": 0.4378698224852067,
-            "precision": 0.2803030303030303,
-            "recall": 1.0,
-            "threshold": 5.515412330627441
-        }
-    },
-    "resperation1": {
-        "best f1 under pa": {
-            "f1": 0.0159683794466403,
-            "precision": 0.008048450075703243,
-            "recall": 1.0,
-            "threshold": 0.3005206286907196
-        }
-    },
-    "3sddb40": {
-        "best f1 under pa": {
-            "f1": 0.9333333333333328,
-            "precision": 0.875,
-            "recall": 1.0,
-            "threshold": 16.944169998168945
-        }
-    },
-    "DISTORTEDgait3": {
-        "best f1 under pa": {
-            "f1": 0.9789156626506018,
-            "precision": 0.9587020648967551,
-            "recall": 1.0,
-            "threshold": 4.8298540115356445
-        }
-    },
-    "DISTORTEDPowerDemand1": {
-        "best f1 under pa": {
-            "f1": 0.909305064782096,
-            "precision": 0.8336933045356372,
-            "recall": 1.0,
-            "threshold": 5.154244422912598
-        }
-    },
-    "DISTORTEDInternalBleeding9": {
-        "best f1 under pa": {
-            "f1": 0.26586102719033206,
-            "precision": 0.15331010452961671,
-            "recall": 1.0,
-            "threshold": 0.7214032411575317
-        }
-    },
-    "2sddb40": {
-        "best f1 under pa": {
-            "f1": 0.14687368862777997,
-            "precision": 0.0792572463768116,
-            "recall": 1.0,
-            "threshold": 2.1870858669281006
-        }
-    },
-    "sddb49": {
-        "best f1 under pa": {
-            "f1": 0.9868421052631573,
-            "precision": 0.974025974025974,
-            "recall": 1.0,
-            "threshold": 3.0081872940063477
-        }
-    },
-    "GP711MarkerLFM5z3": {
-        "best f1 under pa": {
-            "f1": 0.4470588235294114,
-            "precision": 0.2878787878787879,
-            "recall": 1.0,
-            "threshold": 8.630315780639648
-        }
-    },
-    "1sddb40": {
-        "best f1 under pa": {
-            "f1": 0.4024024024024021,
-            "precision": 0.2518796992481203,
-            "recall": 1.0,
-            "threshold": 4.397795677185059
-        }
-    },
-    "CIMIS44AirTemperature1": {
-        "best f1 under pa": {
-            "f1": 0.3968871595330735,
-            "precision": 0.24757281553398058,
-            "recall": 1.0,
-            "threshold": 1.4921056032180786
-        }
-    },
-    "DISTORTEDsel840mECG2": {
-        "best f1 under pa": {
-            "f1": 0.7749077490774903,
-            "precision": 0.6325301204819277,
-            "recall": 1.0,
-            "threshold": 20.549732208251953
-        }
-    },
-    "GP711MarkerLFM5z4": {
-        "best f1 under pa": {
-            "f1": 0.7905882352941171,
-            "precision": 0.6536964980544747,
-            "recall": 1.0,
-            "threshold": 5.715157508850098
-        }
-    },
-    "CIMIS44AirTemperature6": {
-        "best f1 under pa": {
-            "f1": 0.7259259259259254,
-            "precision": 0.5697674418604651,
-            "recall": 1.0,
-            "threshold": 9.47978687286377
-        }
-    },
-    "DISTORTEDInternalBleeding18": {
-        "best f1 under pa": {
-            "f1": 0.3862770012706476,
-            "precision": 0.23937007874015748,
-            "recall": 1.0,
-            "threshold": 5.847443103790283
-        }
-    },
-    "DISTORTEDTkeepFifthMARS": {
-        "best f1 under pa": {
-            "f1": 0.5951417004048578,
-            "precision": 0.42363112391930835,
-            "recall": 1.0,
-            "threshold": 7.515718936920166
-        }
-    },
-    "ECG4": {
-        "best f1 under pa": {
-            "f1": 0.2606429192006948,
-            "precision": 0.14985014985014986,
-            "recall": 1.0,
-            "threshold": 2.5812463760375977
-        }
-    },
-    "DISTORTEDinsectEPG1": {
-        "best f1 under pa": {
-            "f1": 0.7582938388625586,
-            "precision": 0.6106870229007634,
-            "recall": 1.0,
-            "threshold": 2.983304738998413
-        }
-    },
-    "DISTORTEDInternalBleeding16": {
-        "best f1 under pa": {
-            "f1": 0.09302325581395339,
-            "precision": 0.04878048780487805,
-            "recall": 1.0,
-            "threshold": 2.3859410285949707
-        }
-    },
-    "BIDMC1": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 7.806739330291748
-        }
-    },
-    "tilt12744mtable": {
-        "best f1 under pa": {
-            "f1": 0.30303030303030276,
-            "precision": 0.17857142857142858,
-            "recall": 1.0,
-            "threshold": 2.6275367736816406
-        }
-    },
-    "DISTORTEDTkeepSecondMARS": {
-        "best f1 under pa": {
-            "f1": 0.6417112299465235,
-            "precision": 0.47244094488188976,
-            "recall": 1.0,
-            "threshold": 2.7529537677764893
-        }
-    },
-    "gaitHunt3": {
-        "best f1 under pa": {
-            "f1": 0.8192771084337345,
-            "precision": 0.6938775510204082,
-            "recall": 1.0,
-            "threshold": 1.9542900323867798
-        }
-    },
-    "ECG3": {
-        "best f1 under pa": {
-            "f1": 0.19685039370078722,
-            "precision": 0.1091703056768559,
-            "recall": 1.0,
-            "threshold": 2.762695074081421
-        }
-    },
-    "Lab2Cmac011215EPG6": {
-        "best f1 under pa": {
-            "f1": 0.341255332114564,
-            "precision": 0.20573108008817045,
-            "recall": 1.0,
-            "threshold": 6.797971248626709
-        }
-    },
-    "WalkingAceleration1": {
-        "best f1 under pa": {
-            "f1": 0.9429530201342278,
-            "precision": 0.8920634920634921,
-            "recall": 1.0,
-            "threshold": 13.495357513427734
-        }
-    },
-    "NOISEInternalBleeding16": {
-        "best f1 under pa": {
-            "f1": 0.06997742663656878,
-            "precision": 0.03625730994152047,
-            "recall": 1.0,
-            "threshold": 0.5451642274856567
-        }
-    },
-    "DISTORTEDECG1": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 42.66358184814453
-        }
-    },
-    "InternalBleeding5": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 4.434046745300293
-        }
-    },
-    "TkeepForthMARS": {
-        "best f1 under pa": {
-            "f1": 0.731343283582089,
-            "precision": 0.5764705882352941,
-            "recall": 1.0,
-            "threshold": 4.056690692901611
-        }
-    },
-    "Lab2Cmac011215EPG1": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 61.175323486328125
-        }
-    },
-    "sel840mECG1": {
-        "best f1 under pa": {
-            "f1": 0.9644087256027549,
-            "precision": 0.9312638580931264,
-            "recall": 1.0,
-            "threshold": 33.388587951660156
-        }
-    },
-    "NOISEinsectEPG3": {
-        "best f1 under pa": {
-            "f1": 0.5586592178770945,
-            "precision": 0.3875968992248062,
-            "recall": 1.0,
-            "threshold": 1.748098373413086
-        }
-    },
-    "InternalBleeding10": {
-        "best f1 under pa": {
-            "f1": 0.3368421052631576,
-            "precision": 0.20253164556962025,
-            "recall": 1.0,
-            "threshold": 3.0076489448547363
-        }
-    },
-    "gait2": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 3.5169196128845215
-        }
-    },
-    "MesoplodonDensirostris": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 11.870794296264648
-        }
-    },
-    "DISTORTEDtiltAPB4": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 11.603772163391113
+            "threshold": 13.44507122039795
         }
     },
     "DISTORTEDtiltAPB3": {
@@ -1175,60 +1023,108 @@
             "threshold": 3.5867927074432373
         }
     },
-    "InternalBleeding17": {
+    "DISTORTEDWalkingAceleration1": {
         "best f1 under pa": {
-            "f1": 0.6625514403292176,
-            "precision": 0.49538461538461537,
+            "f1": 0.9429530201342278,
+            "precision": 0.8920634920634921,
             "recall": 1.0,
-            "threshold": 4.537097930908203
+            "threshold": 13.784811973571777
         }
     },
-    "DISTORTEDresperation9": {
+    "CIMIS44AirTemperature4": {
         "best f1 under pa": {
-            "f1": 0.019765449993411493,
-            "precision": 0.009981368112856001,
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
             "recall": 1.0,
-            "threshold": 0.7766237854957581
+            "threshold": 14.623987197875977
         }
     },
-    "NOISEGP711MarkerLFM5z3": {
+    "GP711MarkerLFM5z5": {
         "best f1 under pa": {
-            "f1": 0.43981481481481444,
-            "precision": 0.2818991097922849,
+            "f1": 0.3918575063613228,
+            "precision": 0.24367088607594936,
             "recall": 1.0,
-            "threshold": 11.86845588684082
+            "threshold": 2.549246311187744
         }
     },
-    "InternalBleeding19": {
+    "DISTORTEDTkeepFirstMARS": {
         "best f1 under pa": {
-            "f1": 0.1659751037344397,
-            "precision": 0.09049773755656108,
+            "f1": 0.2514506769825916,
+            "precision": 0.14380530973451328,
             "recall": 1.0,
-            "threshold": 2.9975650310516357
+            "threshold": 2.987105131149292
         }
     },
-    "apneaecg": {
+    "GP711MarkerLFM5z4": {
         "best f1 under pa": {
-            "f1": 0.4436090225563906,
-            "precision": 0.28502415458937197,
+            "f1": 0.7905882352941171,
+            "precision": 0.6536964980544747,
             "recall": 1.0,
-            "threshold": 11.219914436340332
+            "threshold": 5.715157508850098
         }
     },
-    "DISTORTEDGP711MarkerLFM5z1": {
+    "PowerDemand1": {
         "best f1 under pa": {
-            "f1": 0.1644794400699911,
-            "precision": 0.08960915157292659,
+            "f1": 0.5761194029850741,
+            "precision": 0.40461215932914046,
             "recall": 1.0,
-            "threshold": 1.041725754737854
+            "threshold": 4.460353851318359
         }
     },
-    "tiltAPB2": {
+    "NOISEapneaecg4": {
         "best f1 under pa": {
-            "f1": 0.9837170129140926,
-            "precision": 0.9679558011049724,
+            "f1": 0.03716090672612408,
+            "precision": 0.01893222264293828,
             "recall": 1.0,
-            "threshold": 12.469594955444336
+            "threshold": 0.7465541958808899
+        }
+    },
+    "TkeepThirdMARS": {
+        "best f1 under pa": {
+            "f1": 0.7978436657681935,
+            "precision": 0.6636771300448431,
+            "recall": 1.0,
+            "threshold": 5.2253851890563965
+        }
+    },
+    "CIMIS44AirTemperature5": {
+        "best f1 under pa": {
+            "f1": 0.7101449275362314,
+            "precision": 0.550561797752809,
+            "recall": 1.0,
+            "threshold": 7.058372497558594
+        }
+    },
+    "DISTORTEDtiltAPB2": {
+        "best f1 under pa": {
+            "f1": 0.9409237379162185,
+            "precision": 0.8884381338742393,
+            "recall": 1.0,
+            "threshold": 8.952507972717285
+        }
+    },
+    "DISTORTEDPowerDemand1": {
+        "best f1 under pa": {
+            "f1": 0.909305064782096,
+            "precision": 0.8336933045356372,
+            "recall": 1.0,
+            "threshold": 5.154244422912598
+        }
+    },
+    "DISTORTEDTkeepThirdMARS": {
+        "best f1 under pa": {
+            "f1": 0.4378698224852067,
+            "precision": 0.2803030303030303,
+            "recall": 1.0,
+            "threshold": 5.515412330627441
+        }
+    },
+    "DISTORTEDPowerDemand3": {
+        "best f1 under pa": {
+            "f1": 0.36094674556212986,
+            "precision": 0.22021660649819494,
+            "recall": 1.0,
+            "threshold": 0.8450072407722473
         }
     },
     "DISTORTEDInternalBleeding10": {
@@ -1239,20 +1135,84 @@
             "threshold": 1.618762493133545
         }
     },
-    "gaitHunt2": {
+    "TkeepFirstMARS": {
         "best f1 under pa": {
-            "f1": 0.5835764902042513,
-            "precision": 0.4120070629782225,
+            "f1": 0.33766233766233733,
+            "precision": 0.203125,
             "recall": 1.0,
-            "threshold": 1.4462952613830566
+            "threshold": 3.14201283454895
         }
     },
-    "Fantasia": {
+    "PowerDemand3": {
         "best f1 under pa": {
-            "f1": 0.9817671809256656,
-            "precision": 0.9641873278236914,
+            "f1": 0.8026315789473679,
+            "precision": 0.6703296703296703,
             "recall": 1.0,
-            "threshold": 47.470882415771484
+            "threshold": 2.8598382472991943
+        }
+    },
+    "NOISETkeepThirdMARS": {
+        "best f1 under pa": {
+            "f1": 0.8809523809523805,
+            "precision": 0.7872340425531915,
+            "recall": 1.0,
+            "threshold": 7.622987747192383
+        }
+    },
+    "InternalBleeding10": {
+        "best f1 under pa": {
+            "f1": 0.3368421052631576,
+            "precision": 0.20253164556962025,
+            "recall": 1.0,
+            "threshold": 3.0076489448547363
+        }
+    },
+    "PowerDemand2": {
+        "best f1 under pa": {
+            "f1": 0.6776859504132227,
+            "precision": 0.5125,
+            "recall": 1.0,
+            "threshold": 1.5192341804504395
+        }
+    },
+    "CIMIS44AirTemperature6": {
+        "best f1 under pa": {
+            "f1": 0.7259259259259254,
+            "precision": 0.5697674418604651,
+            "recall": 1.0,
+            "threshold": 9.47978687286377
+        }
+    },
+    "DISTORTEDtiltAPB1": {
+        "best f1 under pa": {
+            "f1": 0.1963087248322146,
+            "precision": 0.10883720930232559,
+            "recall": 1.0,
+            "threshold": 2.0067338943481445
+        }
+    },
+    "DISTORTEDPowerDemand2": {
+        "best f1 under pa": {
+            "f1": 0.7892204042348407,
+            "precision": 0.6518282988871225,
+            "recall": 1.0,
+            "threshold": 1.5008221864700317
+        }
+    },
+    "DISTORTEDLab2Cmac011215EPG4": {
+        "best f1 under pa": {
+            "f1": 0.3797468354430376,
+            "precision": 0.234375,
+            "recall": 1.0,
+            "threshold": 4.30257511138916
+        }
+    },
+    "NOISE1sddb40": {
+        "best f1 under pa": {
+            "f1": 0.9128065395095363,
+            "precision": 0.8395989974937343,
+            "recall": 1.0,
+            "threshold": 10.480613708496094
         }
     },
     "ECG2": {
@@ -1271,100 +1231,68 @@
             "threshold": 2.939387559890747
         }
     },
-    "insectEPG1": {
+    "DISTORTEDgaitHunt2": {
         "best f1 under pa": {
-            "f1": 0.9142857142857137,
-            "precision": 0.8421052631578947,
+            "f1": 0.4309018159433668,
+            "precision": 0.2746174970576697,
             "recall": 1.0,
-            "threshold": 5.261488914489746
+            "threshold": 1.9743766784667969
         }
     },
-    "TkeepFifthMARS": {
+    "Lab2Cmac011215EPG5": {
         "best f1 under pa": {
-            "f1": 0.9392971246006385,
-            "precision": 0.8855421686746988,
+            "f1": 0.6282722513089001,
+            "precision": 0.4580152671755725,
             "recall": 1.0,
-            "threshold": 4.190877914428711
+            "threshold": 2.968294143676758
         }
     },
-    "DISTORTEDInternalBleeding17": {
+    "DISTORTEDapneaecg3": {
         "best f1 under pa": {
-            "f1": 0.5739750445632794,
-            "precision": 0.4025,
+            "f1": 0.1583113456464378,
+            "precision": 0.08595988538681948,
             "recall": 1.0,
-            "threshold": 5.282983303070068
+            "threshold": 8.237427711486816
         }
     },
-    "GP711MarkerLFM5z5": {
+    "DISTORTEDapneaecg2": {
         "best f1 under pa": {
-            "f1": 0.3918575063613228,
-            "precision": 0.24367088607594936,
+            "f1": 0.9975062344139646,
+            "precision": 0.9950248756218906,
             "recall": 1.0,
-            "threshold": 2.549246311187744
+            "threshold": 99.45872497558594
         }
     },
-    "DISTORTEDInternalBleeding19": {
-        "best f1 under pa": {
-            "f1": 0.14084507042253508,
-            "precision": 0.07575757575757576,
-            "recall": 1.0,
-            "threshold": 1.322974443435669
-        }
-    },
-    "NOISECIMIS44AirTemperature4": {
+    "DISTORTEDECG4": {
         "best f1 under pa": {
             "f1": 0.9999999999999996,
             "precision": 1.0,
             "recall": 1.0,
-            "threshold": 8.256145477294922
+            "threshold": 28.42296600341797
         }
     },
-    "GP711MarkerLFM5z2": {
+    "Lab2Cmac011215EPG4": {
         "best f1 under pa": {
-            "f1": 0.6368038740920092,
-            "precision": 0.46714031971580816,
+            "f1": 0.6728971962616818,
+            "precision": 0.5070422535211268,
             "recall": 1.0,
-            "threshold": 12.428269386291504
+            "threshold": 8.538686752319336
         }
     },
-    "DISTORTEDMesoplodonDensirostris": {
+    "DISTORTEDgaitHunt3": {
+        "best f1 under pa": {
+            "f1": 0.7127882599580708,
+            "precision": 0.5537459283387622,
+            "recall": 1.0,
+            "threshold": 2.9104769229888916
+        }
+    },
+    "BIDMC1": {
         "best f1 under pa": {
             "f1": 0.9999999999999996,
             "precision": 1.0,
             "recall": 1.0,
-            "threshold": 25.829551696777344
-        }
-    },
-    "DISTORTEDLab2Cmac011215EPG6": {
-        "best f1 under pa": {
-            "f1": 0.45380875202593157,
-            "precision": 0.29350104821802936,
-            "recall": 1.0,
-            "threshold": 5.035223484039307
-        }
-    },
-    "NOISETkeepThirdMARS": {
-        "best f1 under pa": {
-            "f1": 0.8809523809523805,
-            "precision": 0.7872340425531915,
-            "recall": 1.0,
-            "threshold": 7.622987747192383
-        }
-    },
-    "TkeepThirdMARS": {
-        "best f1 under pa": {
-            "f1": 0.7978436657681935,
-            "precision": 0.6636771300448431,
-            "recall": 1.0,
-            "threshold": 5.2253851890563965
-        }
-    },
-    "DISTORTEDWalkingAceleration1": {
-        "best f1 under pa": {
-            "f1": 0.9429530201342278,
-            "precision": 0.8920634920634921,
-            "recall": 1.0,
-            "threshold": 13.784811973571777
+            "threshold": 7.806739330291748
         }
     },
     "resperation9": {
@@ -1375,100 +1303,68 @@
             "threshold": 1.040359616279602
         }
     },
-    "DISTORTEDLab2Cmac011215EPG1": {
+    "DISTORTEDs20101m": {
+        "best f1 under pa": {
+            "f1": 0.9868421052631573,
+            "precision": 0.974025974025974,
+            "recall": 1.0,
+            "threshold": 12.667611122131348
+        }
+    },
+    "ECG3": {
+        "best f1 under pa": {
+            "f1": 0.19685039370078722,
+            "precision": 0.1091703056768559,
+            "recall": 1.0,
+            "threshold": 2.762695074081421
+        }
+    },
+    "DISTORTEDgait1": {
+        "best f1 under pa": {
+            "f1": 0.4557291666666663,
+            "precision": 0.2951096121416526,
+            "recall": 1.0,
+            "threshold": 2.8838868141174316
+        }
+    },
+    "DISTORTEDLab2Cmac011215EPG5": {
+        "best f1 under pa": {
+            "f1": 0.4986149584487531,
+            "precision": 0.33210332103321033,
+            "recall": 1.0,
+            "threshold": 10.565055847167969
+        }
+    },
+    "DISTORTEDresperation9": {
+        "best f1 under pa": {
+            "f1": 0.019765449993411493,
+            "precision": 0.009981368112856001,
+            "recall": 1.0,
+            "threshold": 0.7766237854957581
+        }
+    },
+    "DISTORTED2sddb40": {
+        "best f1 under pa": {
+            "f1": 0.07658643326039379,
+            "precision": 0.03981797497155859,
+            "recall": 1.0,
+            "threshold": 0.37467649579048157
+        }
+    },
+    "DISTORTEDgait3": {
+        "best f1 under pa": {
+            "f1": 0.9789156626506018,
+            "precision": 0.9587020648967551,
+            "recall": 1.0,
+            "threshold": 4.8298540115356445
+        }
+    },
+    "ECG1": {
         "best f1 under pa": {
             "f1": 0.9999999999999996,
             "precision": 1.0,
             "recall": 1.0,
-            "threshold": 43.76894760131836
-        }
-    },
-    "DISTORTEDInternalBleeding6": {
-        "best f1 under pa": {
-            "f1": 0.7839388145315482,
-            "precision": 0.6446540880503144,
-            "recall": 1.0,
-            "threshold": 1.6807578802108765
-        }
-    },
-    "DISTORTEDgait2": {
-        "best f1 under pa": {
-            "f1": 0.7641921397379907,
-            "precision": 0.6183745583038869,
-            "recall": 1.0,
-            "threshold": 4.666223526000977
-        }
-    },
-    "CHARISfive": {
-        "best f1 under pa": {
-            "f1": 0.9302325581395344,
-            "precision": 0.8695652173913043,
-            "recall": 1.0,
-            "threshold": 2.058500289916992
-        }
-    },
-    "apneaecg4": {
-        "best f1 under pa": {
-            "f1": 0.07400098667982231,
-            "precision": 0.038422131147540985,
-            "recall": 1.0,
-            "threshold": 0.22301697731018066
-        }
-    },
-    "DISTORTEDInternalBleeding8": {
-        "best f1 under pa": {
-            "f1": 0.5282392026578069,
-            "precision": 0.35891647855530473,
-            "recall": 1.0,
-            "threshold": 3.6147992610931396
-        }
-    },
-    "mit14134longtermecg": {
-        "best f1 under pa": {
-            "f1": 0.21052631578947348,
-            "precision": 0.11764705882352941,
-            "recall": 1.0,
-            "threshold": 19.608964920043945
-        }
-    },
-    "DISTORTEDresperation10": {
-        "best f1 under pa": {
-            "f1": 0.9425287356321833,
-            "precision": 0.8913043478260869,
-            "recall": 1.0,
-            "threshold": 1.7313157320022583
-        }
-    },
-    "apneaecg3": {
-        "best f1 under pa": {
-            "f1": 0.19467878001297842,
-            "precision": 0.10783608914450037,
-            "recall": 1.0,
-            "threshold": 7.846793174743652
-        }
-    },
-    "s20101mML2": {
-        "best f1 under pa": {
-            "f1": 0.9900990099009894,
-            "precision": 0.9803921568627451,
-            "recall": 1.0,
-            "threshold": 41.55074691772461
-        }
-    },
-    "tiltAPB3": {
-        "best f1 under pa": {
-            "f1": 0.06601697579377548,
-            "precision": 0.034135240572171655,
-            "recall": 1.0,
-            "threshold": 1.0819073915481567
-        }
-    },
-    "tiltAPB4": {
-        "best f1 under pa": {
-            "f1": 0.755555555555555,
-            "precision": 0.6071428571428571,
-            "recall": 1.0,
-            "threshold": 5.0759124755859375
+            "threshold": 33.51960372924805
         }
     },
     "DISTORTEDgaitHunt1": {
@@ -1479,124 +1375,228 @@
             "threshold": 1.4980671405792236
         }
     },
-    "Italianpowerdemand": {
+    "Lab2Cmac011215EPG6": {
         "best f1 under pa": {
-            "f1": 0.09337539432176646,
-            "precision": 0.04897418927862343,
+            "f1": 0.341255332114564,
+            "precision": 0.20573108008817045,
             "recall": 1.0,
-            "threshold": 2.5025742053985596
+            "threshold": 6.797971248626709
         }
     },
-    "InternalBleeding18": {
+    "DISTORTEDgait2": {
         "best f1 under pa": {
-            "f1": 0.2822655524605382,
-            "precision": 0.1643243243243243,
+            "f1": 0.7641921397379907,
+            "precision": 0.6183745583038869,
             "recall": 1.0,
-            "threshold": 2.1504735946655273
+            "threshold": 4.666223526000977
         }
     },
-    "DISTORTEDtiltAPB2": {
+    "NOISEGP711MarkerLFM5z3": {
         "best f1 under pa": {
-            "f1": 0.9409237379162185,
-            "precision": 0.8884381338742393,
+            "f1": 0.43981481481481444,
+            "precision": 0.2818991097922849,
             "recall": 1.0,
-            "threshold": 8.952507972717285
+            "threshold": 11.86845588684082
         }
     },
-    "InternalBleeding16": {
+    "DISTORTEDLab2Cmac011215EPG6": {
         "best f1 under pa": {
-            "f1": 0.06831955922865006,
-            "precision": 0.03536794067313177,
+            "f1": 0.45380875202593157,
+            "precision": 0.29350104821802936,
             "recall": 1.0,
-            "threshold": 1.9614453315734863
+            "threshold": 5.035223484039307
         }
     },
-    "PowerDemand1": {
+    "DISTORTEDLab2Cmac011215EPG2": {
         "best f1 under pa": {
-            "f1": 0.5761194029850741,
-            "precision": 0.40461215932914046,
+            "f1": 0.9266409266409261,
+            "precision": 0.8633093525179856,
             "recall": 1.0,
-            "threshold": 4.460353851318359
+            "threshold": 8.967094421386719
         }
     },
-    "DISTORTEDCIMIS44AirTemperature6": {
-        "best f1 under pa": {
-            "f1": 0.8711111111111105,
-            "precision": 0.7716535433070866,
-            "recall": 1.0,
-            "threshold": 7.182259559631348
-        }
-    },
-    "s20101m": {
-        "best f1 under pa": {
-            "f1": 0.9900990099009894,
-            "precision": 0.9803921568627451,
-            "recall": 1.0,
-            "threshold": 16.692119598388672
-        }
-    },
-    "DISTORTEDCIMIS44AirTemperature1": {
-        "best f1 under pa": {
-            "f1": 0.5513513513513508,
-            "precision": 0.3805970149253731,
-            "recall": 1.0,
-            "threshold": 4.056843280792236
-        }
-    },
-    "gait3": {
-        "best f1 under pa": {
-            "f1": 0.9818731117824767,
-            "precision": 0.9643916913946587,
-            "recall": 1.0,
-            "threshold": 3.0657427310943604
-        }
-    },
-    "DISTORTEDapneaecg": {
-        "best f1 under pa": {
-            "f1": 0.3511904761904759,
-            "precision": 0.21299638989169675,
-            "recall": 1.0,
-            "threshold": 10.346610069274902
-        }
-    },
-    "NOISELab2Cmac011215EPG1": {
+    "DISTORTEDltstdbs30791AI": {
         "best f1 under pa": {
             "f1": 0.9999999999999996,
             "precision": 1.0,
             "recall": 1.0,
-            "threshold": 48.860389709472656
+            "threshold": 41.221214294433594
         }
     },
-    "DISTORTEDresperation1": {
+    "1sddb40": {
         "best f1 under pa": {
-            "f1": 0.030061760547659765,
-            "precision": 0.015260255344866662,
+            "f1": 0.4024024024024021,
+            "precision": 0.2518796992481203,
             "recall": 1.0,
-            "threshold": 0.28689488768577576
+            "threshold": 4.397795677185059
         }
     },
-    "DISTORTEDTkeepForthMARS": {
+    "tilt12755mtable": {
         "best f1 under pa": {
-            "f1": 0.7819148936170208,
-            "precision": 0.6419213973799127,
+            "f1": 0.08708667845965429,
+            "precision": 0.04552567932849623,
             "recall": 1.0,
-            "threshold": 8.934467315673828
+            "threshold": 3.013216018676758
         }
     },
-    "NOISEgait3": {
+    "DISTORTEDInternalBleeding6": {
         "best f1 under pa": {
-            "f1": 0.9938837920489291,
-            "precision": 0.9878419452887538,
+            "f1": 0.7839388145315482,
+            "precision": 0.6446540880503144,
             "recall": 1.0,
-            "threshold": 4.768442153930664
+            "threshold": 1.6807578802108765
         }
     },
-    "InternalBleeding4": {
+    "ECG4": {
+        "best f1 under pa": {
+            "f1": 0.2606429192006948,
+            "precision": 0.14985014985014986,
+            "recall": 1.0,
+            "threshold": 2.5812463760375977
+        }
+    },
+    "Lab2Cmac011215EPG3": {
         "best f1 under pa": {
             "f1": 0.9999999999999996,
             "precision": 1.0,
             "recall": 1.0,
-            "threshold": 9.95199203491211
+            "threshold": 21.043323516845703
+        }
+    },
+    "DISTORTEDECG3": {
+        "best f1 under pa": {
+            "f1": 0.2790697674418602,
+            "precision": 0.16216216216216217,
+            "recall": 1.0,
+            "threshold": 4.41074275970459
+        }
+    },
+    "DISTORTEDECG2": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 35.61113739013672
+        }
+    },
+    "DISTORTEDapneaecg4": {
+        "best f1 under pa": {
+            "f1": 0.0348310693138279,
+            "precision": 0.01772421127259837,
+            "recall": 1.0,
+            "threshold": 0.6240990161895752
+        }
+    },
+    "Lab2Cmac011215EPG2": {
+        "best f1 under pa": {
+            "f1": 0.6045340050377829,
+            "precision": 0.4332129963898917,
+            "recall": 1.0,
+            "threshold": 5.78565788269043
+        }
+    },
+    "DISTORTEDqtdbSel100MLII": {
+        "best f1 under pa": {
+            "f1": 0.8241758241758236,
+            "precision": 0.7009345794392523,
+            "recall": 1.0,
+            "threshold": 39.966514587402344
+        }
+    },
+    "DISTORTEDsddb49": {
+        "best f1 under pa": {
+            "f1": 0.9708737864077664,
+            "precision": 0.9433962264150944,
+            "recall": 1.0,
+            "threshold": 2.2763445377349854
+        }
+    },
+    "DISTORTEDLab2Cmac011215EPG3": {
+        "best f1 under pa": {
+            "f1": 0.9876543209876537,
+            "precision": 0.975609756097561,
+            "recall": 1.0,
+            "threshold": 15.95317268371582
+        }
+    },
+    "DISTORTEDLab2Cmac011215EPG1": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 43.76894760131836
+        }
+    },
+    "qtdbSel100MLII": {
+        "best f1 under pa": {
+            "f1": 0.8064516129032253,
+            "precision": 0.6756756756756757,
+            "recall": 1.0,
+            "threshold": 53.580177307128906
+        }
+    },
+    "InternalBleeding8": {
+        "best f1 under pa": {
+            "f1": 0.5096153846153842,
+            "precision": 0.3419354838709677,
+            "recall": 1.0,
+            "threshold": 1.2779479026794434
+        }
+    },
+    "DISTORTEDInternalBleeding5": {
+        "best f1 under pa": {
+            "f1": 0.7445008460236882,
+            "precision": 0.5929919137466307,
+            "recall": 1.0,
+            "threshold": 1.0873137712478638
+        }
+    },
+    "MesoplodonDensirostris": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 11.870794296264648
+        }
+    },
+    "DISTORTEDECG1": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 42.66358184814453
+        }
+    },
+    "Lab2Cmac011215EPG1": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 61.175323486328125
+        }
+    },
+    "ltstdbs30791AI": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 75.12071990966797
+        }
+    },
+    "DISTORTEDInternalBleeding4": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 1.8354891538619995
+        }
+    },
+    "InternalBleeding9": {
+        "best f1 under pa": {
+            "f1": 0.34600262123197867,
+            "precision": 0.2091917591125198,
+            "recall": 1.0,
+            "threshold": 4.526399612426758
         }
     }
 }

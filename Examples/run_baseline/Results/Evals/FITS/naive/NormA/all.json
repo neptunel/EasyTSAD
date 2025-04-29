@@ -1,98 +1,10 @@
 {
-    "SinusRW_Length_120000_AnomalyL_200_AnomalyN_100_NoisePerc_0.test": {
-        "best f1 under pa": {
-            "f1": 0.9979137691237826,
-            "precision": 0.9958362248438585,
-            "recall": 1.0,
-            "threshold": 0.008376752957701683
-        }
-    },
     "SinusRW_Length_148000_AnomalyL_800_AnomalyN_60_NoisePerc_0.test": {
         "best f1 under pa": {
             "f1": 0.9989228950479437,
             "precision": 0.9978481079095156,
             "recall": 1.0,
             "threshold": 0.010589507408440113
-        }
-    },
-    "Discords_patient_respiration1.test": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 1.5758230686187744
-        }
-    },
-    "Discords_dutch_power_demand.test": {
-        "best f1 under pa": {
-            "f1": 0.9993792675356916,
-            "precision": 0.9987593052109182,
-            "recall": 1.0,
-            "threshold": 0.16043587028980255
-        }
-    },
-    "SinusRW_Length_112000_AnomalyL_200_AnomalyN_60_NoisePerc_10.test": {
-        "best f1 under pa": {
-            "f1": 0.9985752730726605,
-            "precision": 0.9971546000632311,
-            "recall": 1.0,
-            "threshold": 0.01343915518373251
-        }
-    },
-    "SinusRW_Length_112000_AnomalyL_200_AnomalyN_60_NoisePerc_5.test": {
-        "best f1 under pa": {
-            "f1": 0.9976452119309257,
-            "precision": 0.995301487862177,
-            "recall": 1.0,
-            "threshold": 0.029427753761410713
-        }
-    },
-    "SinusRW_Length_116000_AnomalyL_200_AnomalyN_80_NoisePerc_0.test": {
-        "best f1 under pa": {
-            "f1": 0.9974565962623018,
-            "precision": 0.9949260975071696,
-            "recall": 1.0,
-            "threshold": 0.03276563808321953
-        }
-    },
-    "SinusRW_Length_196000_AnomalyL_1600_AnomalyN_60_NoisePerc_0.test": {
-        "best f1 under pa": {
-            "f1": 0.9979716938609929,
-            "precision": 0.9959515991183483,
-            "recall": 1.0,
-            "threshold": 0.002433040179312229
-        }
-    },
-    "SinusRW_Length_112000_AnomalyL_200_AnomalyN_60_NoisePerc_20.test": {
-        "best f1 under pa": {
-            "f1": 0.9972636059592576,
-            "precision": 0.9945421467556095,
-            "recall": 1.0,
-            "threshold": 0.02946431376039982
-        }
-    },
-    "SinusRW_Length_124000_AnomalyL_400_AnomalyN_60_NoisePerc_0.test": {
-        "best f1 under pa": {
-            "f1": 0.9972405009552107,
-            "precision": 0.9944961896697714,
-            "recall": 1.0,
-            "threshold": 0.012014931999146938
-        }
-    },
-    "SinusRW_Length_108000_AnomalyL_200_AnomalyN_40_NoisePerc_0.test": {
-        "best f1 under pa": {
-            "f1": 0.9978559717492742,
-            "precision": 0.9957211175434181,
-            "recall": 1.0,
-            "threshold": 0.013551957905292511
-        }
-    },
-    "SinusRW_Length_106000_AnomalyL_100_AnomalyN_60_NoisePerc_0.test": {
-        "best f1 under pa": {
-            "f1": 0.9959349593495929,
-            "precision": 0.9919028340080972,
-            "recall": 1.0,
-            "threshold": 0.022688480094075203
         }
     },
     "SinusRW_Length_104000_AnomalyL_200_AnomalyN_20_NoisePerc_0.test": {
@@ -103,20 +15,36 @@
             "threshold": 0.03747544437646866
         }
     },
-    "Discords_marotta_valve_tek_16.test": {
+    "SinusRW_Length_116000_AnomalyL_200_AnomalyN_80_NoisePerc_0.test": {
         "best f1 under pa": {
-            "f1": 0.9568345323741002,
-            "precision": 0.9172413793103448,
+            "f1": 0.9974565962623018,
+            "precision": 0.9949260975071696,
             "recall": 1.0,
-            "threshold": 0.012121281586587429
+            "threshold": 0.03276563808321953
         }
     },
-    "SinusRW_Length_112000_AnomalyL_200_AnomalyN_60_NoisePerc_0.test": {
+    "Discords_patient_respiration2.test": {
         "best f1 under pa": {
-            "f1": 0.9981420975078474,
-            "precision": 0.9962910858166006,
+            "f1": 0.9872611464968147,
+            "precision": 0.9748427672955975,
             "recall": 1.0,
-            "threshold": 0.042166631668806076
+            "threshold": 0.004781289491802454
+        }
+    },
+    "SinusRW_Length_196000_AnomalyL_1600_AnomalyN_60_NoisePerc_0.test": {
+        "best f1 under pa": {
+            "f1": 0.9979716938609929,
+            "precision": 0.9959515991183483,
+            "recall": 1.0,
+            "threshold": 0.002433040179312229
+        }
+    },
+    "SinusRW_Length_124000_AnomalyL_400_AnomalyN_60_NoisePerc_0.test": {
+        "best f1 under pa": {
+            "f1": 0.9972405009552107,
+            "precision": 0.9944961896697714,
+            "recall": 1.0,
+            "threshold": 0.012014931999146938
         }
     },
     "SinusRW_Length_112000_AnomalyL_200_AnomalyN_60_NoisePerc_15.test": {
@@ -127,6 +55,38 @@
             "threshold": 0.0267174132168293
         }
     },
+    "SinusRW_Length_112000_AnomalyL_200_AnomalyN_60_NoisePerc_20.test": {
+        "best f1 under pa": {
+            "f1": 0.9972636059592576,
+            "precision": 0.9945421467556095,
+            "recall": 1.0,
+            "threshold": 0.02946431376039982
+        }
+    },
+    "SinusRW_Length_112000_AnomalyL_200_AnomalyN_60_NoisePerc_0.test": {
+        "best f1 under pa": {
+            "f1": 0.9981420975078474,
+            "precision": 0.9962910858166006,
+            "recall": 1.0,
+            "threshold": 0.042166631668806076
+        }
+    },
+    "SinusRW_Length_106000_AnomalyL_100_AnomalyN_60_NoisePerc_0.test": {
+        "best f1 under pa": {
+            "f1": 0.9959349593495929,
+            "precision": 0.9919028340080972,
+            "recall": 1.0,
+            "threshold": 0.022688480094075203
+        }
+    },
+    "Discords_dutch_power_demand.test": {
+        "best f1 under pa": {
+            "f1": 0.9993792675356916,
+            "precision": 0.9987593052109182,
+            "recall": 1.0,
+            "threshold": 0.16043587028980255
+        }
+    },
     "SinusRW_Length_112000_AnomalyL_200_AnomalyN_60_NoisePerc_25.test": {
         "best f1 under pa": {
             "f1": 0.9129435425944544,
@@ -135,12 +95,52 @@
             "threshold": 0.023659449070692062
         }
     },
-    "Discords_patient_respiration2.test": {
+    "SinusRW_Length_112000_AnomalyL_200_AnomalyN_60_NoisePerc_5.test": {
         "best f1 under pa": {
-            "f1": 0.9872611464968147,
-            "precision": 0.9748427672955975,
+            "f1": 0.9976452119309257,
+            "precision": 0.995301487862177,
             "recall": 1.0,
-            "threshold": 0.004781289491802454
+            "threshold": 0.029427753761410713
+        }
+    },
+    "SinusRW_Length_108000_AnomalyL_200_AnomalyN_40_NoisePerc_0.test": {
+        "best f1 under pa": {
+            "f1": 0.9978559717492742,
+            "precision": 0.9957211175434181,
+            "recall": 1.0,
+            "threshold": 0.013551957905292511
+        }
+    },
+    "SinusRW_Length_112000_AnomalyL_200_AnomalyN_60_NoisePerc_10.test": {
+        "best f1 under pa": {
+            "f1": 0.9985752730726605,
+            "precision": 0.9971546000632311,
+            "recall": 1.0,
+            "threshold": 0.01343915518373251
+        }
+    },
+    "SinusRW_Length_120000_AnomalyL_200_AnomalyN_100_NoisePerc_0.test": {
+        "best f1 under pa": {
+            "f1": 0.9979137691237826,
+            "precision": 0.9958362248438585,
+            "recall": 1.0,
+            "threshold": 0.008376752957701683
+        }
+    },
+    "Discords_marotta_valve_tek_16.test": {
+        "best f1 under pa": {
+            "f1": 0.9568345323741002,
+            "precision": 0.9172413793103448,
+            "recall": 1.0,
+            "threshold": 0.012121281586587429
+        }
+    },
+    "Discords_patient_respiration1.test": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 1.5758230686187744
         }
     }
 }

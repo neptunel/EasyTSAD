@@ -14,13 +14,11 @@ def run_only_once(gctrl, methods, training_schema):
         
     """============= [EVALUATION SETTINGS] ============="""
     
-    from EasyTSAD.Evaluations.Protocols import EventF1PA, PointF1PA
+    from EasyTSAD.Evaluations.Protocols import PointF1PA
     # Specifying evaluation protocols
     gctrl.set_evals(
         [
             PointF1PA(),
-            EventF1PA(),
-            EventF1PA(mode="squeeze")
         ]
     )
 
@@ -38,27 +36,33 @@ if __name__ == "__main__":
     
     """============= [DATASET SETTINGS] ============="""
     # Specifying datasets
-    datasets = ["TODS", "UCR", "AIOPS", "NAB", "Yahoo", "WSD"]
+    datasets = ["TODS","UCR", "AIOPS", "NAB", "Yahoo", "WSD","NEK", "GutenTAG", "NormA","CalIt2"]
     dataset_types = "UTS"
-    
     # set datasets path, dirname is the absolute/relative path of dataset.
     
     # Use all curves in datasets:
     gctrl.set_dataset(
-        dataset_type="UTS",
-        dirname="/path/to/datasets",
+        dataset_type=dataset_types,
+        dirname="../../datasets-main",
         datasets=datasets,
     )
     
-    from EasyTSAD.Methods import AE, Donut, AR
+    """============= [EXPERIMENTAL SETTINGS] ============="""
+    # Specifying methods and training schemas
     
-    methods = ["AR", "AE"]
+    from EasyTSAD.Methods import SubLOF, SubOCSVM, AR, LSTMADalpha, LSTMADbeta, AE, EncDecAD, SRCNN, AnomalyTransformer, TFAD, Donut, FCVAE, TimesNet, OFA, FITS
+
+    # Old libraries with dependency issues are excluded: 'MatrixProfile',"SAND",'DCdetector','TFAD','OFA'
+    methods = ['SubLOF','SubOCSVM','AR', 'LSTMADalpha', 'LSTMADbeta', 'AE', 'EncDecAD', 'SRCNN','AnomalyTransformer','Donut','FCVAE','TimesNet', 'FITS']
+
     training_schema = "naive"
     
-    # If your have run this function and don't change the params, you can skip this step.
-    run_only_once(gctrl=gctrl, methods=methods, training_schema=training_schema)
-    
-    
+    # If your have run this function before and haven't changed the params below,
+    # you can skip this step just to get evaluations.
+
+    # run_only_once(gctrl=gctrl, methods=methods, training_schema=training_schema)
+
+
     """============= [Aggregation Plots] ============="""
     gctrl.summary.plot_aggreY(
         types=dataset_types,
@@ -69,12 +73,11 @@ if __name__ == "__main__":
     
     """============= Generate CSVs ============="""
     gctrl.summary.to_csv(
-        datasets=datasets,
-        methods=methods,
-        training_schema=training_schema,
-        eval_items=[
-            ["Your eval name", "value_1"]
-        ]
-    )
-    
+            datasets=datasets,
+            methods=methods,
+            training_schema=training_schema,
+            eval_items=[
+                ["best f1 under pa", "f1"],   
+            ]
+        )
     

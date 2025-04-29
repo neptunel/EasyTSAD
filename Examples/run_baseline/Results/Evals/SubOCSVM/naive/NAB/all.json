@@ -1,34 +1,10 @@
 {
-    "Twitter_volume_GOOG": {
+    "Twitter_volume_AAPL": {
         "best f1 under pa": {
             "f1": 0.9999999999999996,
             "precision": 1.0,
             "recall": 1.0,
-            "threshold": 1732.3842568568584
-        }
-    },
-    "Twitter_volume_AMZN": {
-        "best f1 under pa": {
-            "f1": 0.9611650485436888,
-            "precision": 0.9252336448598131,
-            "recall": 1.0,
-            "threshold": 1847.3171491353007
-        }
-    },
-    "Twitter_volume_CRM": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 2318.495054109028
-        }
-    },
-    "Twitter_volume_UPS": {
-        "best f1 under pa": {
-            "f1": 0.7851851851851847,
-            "precision": 0.6463414634146342,
-            "recall": 1.0,
-            "threshold": 1823.6286690254763
+            "threshold": 2969.52643063998
         }
     },
     "Twitter_volume_KO": {
@@ -39,12 +15,52 @@
             "threshold": 1868.8081808000788
         }
     },
-    "Twitter_volume_AAPL": {
+    "Twitter_volume_GOOG": {
         "best f1 under pa": {
             "f1": 0.9999999999999996,
             "precision": 1.0,
             "recall": 1.0,
-            "threshold": 2969.52643063998
+            "threshold": 1732.3842568568584
+        }
+    },
+    "Twitter_volume_UPS": {
+        "best f1 under pa": {
+            "f1": 0.7851851851851847,
+            "precision": 0.6463414634146342,
+            "recall": 1.0,
+            "threshold": 1823.6286690254763
+        }
+    },
+    "Twitter_volume_CRM": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 2318.495054109028
+        }
+    },
+    "Twitter_volume_PFE": {
+        "best f1 under pa": {
+            "f1": 0.930994152046783,
+            "precision": 0.8708971553610503,
+            "recall": 1.0,
+            "threshold": 1083.6700688767205
+        }
+    },
+    "Twitter_volume_AMZN": {
+        "best f1 under pa": {
+            "f1": 0.9611650485436888,
+            "precision": 0.9252336448598131,
+            "recall": 1.0,
+            "threshold": 1847.3171491353007
+        }
+    },
+    "Twitter_volume_CVS": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 1787.3016535715421
         }
     },
     "Twitter_volume_IBM": {
@@ -61,22 +77,6 @@
             "precision": 1.0,
             "recall": 1.0,
             "threshold": 1772.487431587641
-        }
-    },
-    "Twitter_volume_CVS": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 1787.3016535715421
-        }
-    },
-    "Twitter_volume_PFE": {
-        "best f1 under pa": {
-            "f1": 0.930994152046783,
-            "precision": 0.8708971553610503,
-            "recall": 1.0,
-            "threshold": 1083.6700688767205
         }
     }
 }

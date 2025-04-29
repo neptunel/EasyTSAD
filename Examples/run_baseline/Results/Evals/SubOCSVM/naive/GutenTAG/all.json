@@ -1,698 +1,10 @@
 {
-    "cbf-type-extremum": {
-        "best f1 under pa": {
-            "f1": 0.06217616580310874,
-            "precision": 0.03208556149732621,
-            "recall": 0.9999999999999999,
-            "threshold": 735.012608695081
-        }
-    },
-    "ecg-type-amplitude": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 759.5220153448586
-        }
-    },
-    "rw-same-count-5": {
-        "best f1 under pa": {
-            "f1": 0.8649093904448101,
-            "precision": 0.7619738751814223,
-            "recall": 1.0,
-            "threshold": 516.1183141211222
-        }
-    },
-    "sinus-trend-sinus": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 531.6920938896044
-        }
-    },
-    "cbf-position-beginning": {
-        "best f1 under pa": {
-            "f1": 0.23675310033821848,
-            "precision": 0.13427109974424553,
-            "recall": 1.0,
-            "threshold": 1484.6724575001974
-        }
-    },
-    "rw-diff-count-6": {
-        "best f1 under pa": {
-            "f1": 0.4109589041095886,
-            "precision": 0.42769857433808556,
-            "recall": 0.3954802259887006,
-            "threshold": 648.0502837293852
-        }
-    },
-    "rw-same-count-2": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 592.4329603981864
-        }
-    },
-    "rw-diff-count-1": {
-        "best f1 under pa": {
-            "f1": 0.013201320132013188,
-            "precision": 0.006644518272425249,
-            "recall": 0.9999999999999999,
-            "threshold": 911.3298486508211
-        }
-    },
-    "sinus-same-count-10": {
-        "best f1 under pa": {
-            "f1": 0.9027272727272722,
-            "precision": 0.8227009113504556,
-            "recall": 1.0,
-            "threshold": 773.6062580356158
-        }
-    },
-    "poly-type-mean": {
-        "best f1 under pa": {
-            "f1": 0.13770491803278673,
-            "precision": 0.07394366197183098,
-            "recall": 1.0,
-            "threshold": 149.02028842373898
-        }
-    },
-    "sinus-type-pattern-shift": {
-        "best f1 under pa": {
-            "f1": 0.9502262443438908,
-            "precision": 0.9051724137931034,
-            "recall": 1.0,
-            "threshold": 843.5140683511023
-        }
-    },
-    "ecg-diff-count-7": {
-        "best f1 under pa": {
-            "f1": 0.670866141732283,
-            "precision": 0.6719242902208202,
-            "recall": 0.6698113207547169,
-            "threshold": 861.968135630655
-        }
-    },
-    "ecg-type-extremum": {
-        "best f1 under pa": {
-            "f1": 0.24489795918367321,
-            "precision": 0.13953488372093023,
-            "recall": 0.9999999999999999,
-            "threshold": 685.5916003212508
-        }
-    },
-    "poly-type-extremum": {
-        "best f1 under pa": {
-            "f1": 0.012671594508975698,
-            "precision": 0.006376195536663124,
-            "recall": 0.9999999999999999,
-            "threshold": 163.76244426035464
-        }
-    },
-    "ecg-noise-10%": {
-        "best f1 under pa": {
-            "f1": 0.0747863247863247,
-            "precision": 0.038845726970033294,
-            "recall": 1.0,
-            "threshold": 333.13673897232275
-        }
-    },
-    "ecg-combined-diff-3": {
-        "best f1 under pa": {
-            "f1": 0.7302631578947363,
-            "precision": 0.6568047337278107,
-            "recall": 0.8222222222222222,
-            "threshold": 68.59088652015976
-        }
-    },
-    "rw-type-mean": {
-        "best f1 under pa": {
-            "f1": 0.9130434782608691,
-            "precision": 0.84,
-            "recall": 1.0,
-            "threshold": 1183.9116472871342
-        }
-    },
-    "sinus-type-pattern": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 485.70016040823793
-        }
-    },
-    "ecg-diff-count-9": {
-        "best f1 under pa": {
-            "f1": 0.7058823529411759,
-            "precision": 0.6652719665271967,
-            "recall": 0.75177304964539,
-            "threshold": 836.8208219748232
-        }
-    },
-    "rw-combined-diff-2": {
-        "best f1 under pa": {
-            "f1": 0.6170421155729672,
-            "precision": 0.7954545454545454,
-            "recall": 0.504,
-            "threshold": 899.1650825401389
-        }
-    },
-    "sinus-noise-10%": {
-        "best f1 under pa": {
-            "f1": 0.9090909090909085,
-            "precision": 0.8333333333333334,
-            "recall": 1.0,
-            "threshold": 395.2721052183156
-        }
-    },
-    "sinus-type-mean": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 1311.8076629797315
-        }
-    },
-    "rw-same-count-10": {
-        "best f1 under pa": {
-            "f1": 0.7791386803634921,
-            "precision": 0.6381877022653721,
-            "recall": 1.0,
-            "threshold": 542.5604450342555
-        }
-    },
-    "sinus-diff-count-7": {
-        "best f1 under pa": {
-            "f1": 0.857407407407407,
-            "precision": 0.9150197628458498,
-            "recall": 0.8066202090592335,
-            "threshold": 983.1019847690471
-        }
-    },
-    "rw-trend-quadratic": {
-        "best f1 under pa": {
-            "f1": 0.2054794520547943,
-            "precision": 0.11450381679389313,
-            "recall": 1.0,
-            "threshold": 298.71511477129616
-        }
-    },
-    "sinus-diff-count-9": {
-        "best f1 under pa": {
-            "f1": 0.768761439902379,
-            "precision": 0.7944514501891551,
-            "recall": 0.7446808510638298,
-            "threshold": 854.9882565622978
-        }
-    },
-    "ecg-type-frequency": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 380.9821975027887
-        }
-    },
-    "ecg-type-pattern": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 151.61725356489399
-        }
-    },
-    "ecg-type-mean": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 265.2952365824217
-        }
-    },
-    "poly-type-platform": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 2128.429263604059
-        }
-    },
-    "ecg-type-platform": {
-        "best f1 under pa": {
-            "f1": 0.08706467661691532,
-            "precision": 0.045513654096228866,
-            "recall": 1.0,
-            "threshold": 831.9122081566575
-        }
-    },
-    "rw-length-1": {
-        "best f1 under pa": {
-            "f1": 0.006511123168746601,
-            "precision": 0.00326619488296135,
-            "recall": 0.9999999999999999,
-            "threshold": 514.2181820199698
-        }
-    },
-    "cbf-length-1000": {
-        "best f1 under pa": {
-            "f1": 0.8720173535791752,
-            "precision": 0.7730769230769231,
-            "recall": 1.0,
-            "threshold": 811.2382638187908
-        }
-    },
-    "cbf-same-count-1": {
-        "best f1 under pa": {
-            "f1": 0.2048780487804876,
-            "precision": 0.11413043478260869,
-            "recall": 1.0,
-            "threshold": 1583.5090308683
-        }
-    },
-    "cbf-diff-count-2": {
-        "best f1 under pa": {
-            "f1": 0.044276027124052604,
-            "precision": 0.022639200489496226,
-            "recall": 1.0,
-            "threshold": 82.52360162202945
-        }
-    },
-    "rw-type-amplitude": {
-        "best f1 under pa": {
-            "f1": 0.23595505617977505,
-            "precision": 0.1337579617834395,
-            "recall": 1.0,
-            "threshold": 284.63826525028935
-        }
-    },
-    "cbf-diff-count-5": {
-        "best f1 under pa": {
-            "f1": 0.12810085400569324,
-            "precision": 0.0701246660730187,
-            "recall": 0.7394366197183099,
-            "threshold": 267.27576535966136
-        }
-    },
-    "ecg-noise-00%": {
-        "best f1 under pa": {
-            "f1": 0.0762804213585179,
-            "precision": 0.03965256797583082,
-            "recall": 1.0,
-            "threshold": 333.82907294813003
-        }
-    },
-    "cbf-trend-linear": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 1205.019607942672
-        }
-    },
-    "ecg-length-1000": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 144.3626792173667
-        }
-    },
-    "rw-length-500": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 849.0474056809901
-        }
-    },
-    "cbf-type-platform": {
-        "best f1 under pa": {
-            "f1": 0.09641873278236904,
-            "precision": 0.05065123010130246,
-            "recall": 1.0,
-            "threshold": 486.8693143554515
-        }
-    },
-    "poly-diff-count-3": {
-        "best f1 under pa": {
-            "f1": 0.3107913669064746,
-            "precision": 0.1839863713798978,
-            "recall": 1.0,
-            "threshold": 705.6272248653855
-        }
-    },
-    "poly-diff-count-4": {
-        "best f1 under pa": {
-            "f1": 0.4697986577181203,
-            "precision": 0.8333333333333334,
-            "recall": 0.32710280373831774,
-            "threshold": 1434.1032769503056
-        }
-    },
-    "rw-type-trend": {
-        "best f1 under pa": {
-            "f1": 0.10632911392405052,
-            "precision": 0.05614973262032086,
-            "recall": 1.0,
-            "threshold": 156.97667313290094
-        }
-    },
-    "sinus-noise-00%": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 445.6755331050879
-        }
-    },
-    "ecg-diff-count-8": {
-        "best f1 under pa": {
-            "f1": 0.7339322736696609,
-            "precision": 0.7521246458923513,
-            "recall": 0.7165991902834008,
-            "threshold": 862.0443251873074
-        }
-    },
-    "rw-combined-diff-3": {
-        "best f1 under pa": {
-            "f1": 0.04733967226380735,
-            "precision": 0.024334442595673876,
-            "recall": 0.8666666666666667,
-            "threshold": 84.7060714836964
-        }
-    },
-    "ecg-combined-diff-2": {
-        "best f1 under pa": {
-            "f1": 0.8768768768768763,
-            "precision": 0.7807486631016043,
-            "recall": 1.0,
-            "threshold": 182.5744699890439
-        }
-    },
-    "ecg-diff-count-1": {
-        "best f1 under pa": {
-            "f1": 0.03429131286740689,
-            "precision": 0.017444758265492608,
-            "recall": 1.0,
-            "threshold": 450.60936561075846
-        }
-    },
-    "sinus-position-end": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 244.37852054178325
-        }
-    },
-    "ecg-same-count-2": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 277.4670941994033
-        }
-    },
-    "poly-length-100": {
-        "best f1 under pa": {
-            "f1": 0.07800891530460616,
-            "precision": 0.040587553150367224,
-            "recall": 1.0,
-            "threshold": 99.64017844527166
-        }
-    },
-    "rw-length-50": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 480.8937369997018
-        }
-    },
-    "ecg-diff-count-6": {
-        "best f1 under pa": {
-            "f1": 0.7269624573378834,
-            "precision": 0.6645865834633385,
-            "recall": 0.8022598870056498,
-            "threshold": 491.42521506469984
-        }
-    },
-    "ecg-same-count-5": {
-        "best f1 under pa": {
-            "f1": 0.9905660377358485,
-            "precision": 0.9813084112149533,
-            "recall": 1.0,
-            "threshold": 337.41179906967886
-        }
-    },
-    "poly-length-10": {
-        "best f1 under pa": {
-            "f1": 0.004594884362076882,
-            "precision": 0.002302732575990175,
-            "recall": 0.9999999999999999,
-            "threshold": 34.34264646944848
-        }
-    },
-    "rw-type-variance": {
-        "best f1 under pa": {
-            "f1": 0.6953642384105956,
-            "precision": 0.5329949238578681,
-            "recall": 1.0,
-            "threshold": 798.9686133126817
-        }
-    },
-    "ecg-noise-30%": {
-        "best f1 under pa": {
-            "f1": 0.07306889352818365,
-            "precision": 0.03791982665222102,
-            "recall": 1.0,
-            "threshold": 343.6658019713575
-        }
-    },
-    "cbf-length-500": {
-        "best f1 under pa": {
-            "f1": 0.7168204400283884,
-            "precision": 0.5586283185840708,
-            "recall": 1.0,
-            "threshold": 808.7395442445467
-        }
-    },
-    "sinus-type-amplitude": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 1149.0659589074528
-        }
-    },
-    "cbf-combined-diff-1": {
-        "best f1 under pa": {
-            "f1": 0.3736654804270458,
-            "precision": 0.4251012145748988,
-            "recall": 0.3333333333333333,
-            "threshold": 1606.8025751801647
-        }
-    },
-    "cbf-type-trend": {
-        "best f1 under pa": {
-            "f1": 0.04124116260801252,
-            "precision": 0.021054742330058152,
-            "recall": 1.0,
-            "threshold": 201.5497716732193
-        }
-    },
-    "sinus-length-100": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 264.83900202033215
-        }
-    },
-    "ecg-noise-01%": {
-        "best f1 under pa": {
-            "f1": 0.07505360972122938,
-            "precision": 0.038989974006684,
-            "recall": 1.0,
-            "threshold": 329.56294114955915
-        }
-    },
-    "rw-length-10": {
-        "best f1 under pa": {
-            "f1": 0.028169014084507008,
-            "precision": 0.014285714285714285,
-            "recall": 0.9999999999999999,
-            "threshold": 232.41797810140383
-        }
-    },
-    "poly-length-50": {
-        "best f1 under pa": {
-            "f1": 0.054808171400099595,
-            "precision": 0.02817622950819672,
-            "recall": 1.0,
-            "threshold": 127.1387160095253
-        }
-    },
-    "sinus-noise-30%": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 461.4208568201152
-        }
-    },
-    "sinus-noise-01%": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 446.4354967362385
-        }
-    },
-    "sinus-length-1000": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 405.8151640569879
-        }
-    },
-    "poly-diff-count-5": {
-        "best f1 under pa": {
-            "f1": 0.32208588957055184,
-            "precision": 0.1924839596700275,
-            "recall": 0.9859154929577465,
-            "threshold": 106.6728657676847
-        }
-    },
-    "poly-trend-linear": {
-        "best f1 under pa": {
-            "f1": 0.07891770011273949,
-            "precision": 0.04107981220657277,
-            "recall": 1.0,
-            "threshold": 96.80101488762807
-        }
-    },
-    "ecg-trend-sinus": {
-        "best f1 under pa": {
-            "f1": 0.7894736842105258,
-            "precision": 0.6521739130434783,
-            "recall": 1.0,
-            "threshold": 101.66207880507716
-        }
-    },
-    "sinus-length-10": {
-        "best f1 under pa": {
-            "f1": 0.4999999999999995,
-            "precision": 0.3333333333333333,
-            "recall": 0.9999999999999999,
-            "threshold": 76.14549554817836
-        }
-    },
-    "cbf-trend-sinus": {
-        "best f1 under pa": {
-            "f1": 0.25766871165644145,
-            "precision": 0.14788732394366197,
-            "recall": 1.0,
-            "threshold": 826.8512861183178
-        }
-    },
-    "poly-same-count-1": {
-        "best f1 under pa": {
-            "f1": 0.0889453621346886,
-            "precision": 0.04654255319148936,
-            "recall": 1.0,
-            "threshold": 89.43579920114735
-        }
-    },
-    "cbf-type-amplitude": {
-        "best f1 under pa": {
-            "f1": 0.0909484625378951,
-            "precision": 0.04764065335753176,
-            "recall": 1.0,
-            "threshold": 469.28939707608197
-        }
-    },
-    "poly-diff-count-2": {
-        "best f1 under pa": {
-            "f1": 0.12450925406618045,
-            "precision": 0.06638755980861244,
-            "recall": 1.0,
-            "threshold": 157.84344628510826
-        }
-    },
     "cbf-diff-count-4": {
         "best f1 under pa": {
             "f1": 0.2562538133007929,
             "precision": 0.15861027190332327,
             "recall": 0.6666666666666666,
             "threshold": 1627.251942717729
-        }
-    },
-    "sinus-combined-diff-1": {
-        "best f1 under pa": {
-            "f1": 0.9813084112149527,
-            "precision": 0.963302752293578,
-            "recall": 1.0,
-            "threshold": 367.70961332808895
-        }
-    },
-    "ecg-length-100": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 43.30966582087035
-        }
-    },
-    "cbf-diff-count-3": {
-        "best f1 under pa": {
-            "f1": 0.654205607476635,
-            "precision": 1.0,
-            "recall": 0.4861111111111111,
-            "threshold": 1897.1941620024947
-        }
-    },
-    "ecg-length-10": {
-        "best f1 under pa": {
-            "f1": 0.5263157894736837,
-            "precision": 0.35714285714285715,
-            "recall": 0.9999999999999999,
-            "threshold": 43.52225114485907
-        }
-    },
-    "ecg-type-pattern-shift": {
-        "best f1 under pa": {
-            "f1": 0.864197530864197,
-            "precision": 0.7608695652173914,
-            "recall": 1.0,
-            "threshold": 266.9312238432867
-        }
-    },
-    "sinus-length-50": {
-        "best f1 under pa": {
-            "f1": 0.9649122807017538,
-            "precision": 0.9322033898305084,
-            "recall": 1.0,
-            "threshold": 173.1702277915481
-        }
-    },
-    "ecg-length-1": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999993,
-            "precision": 0.9999999999999999,
-            "recall": 0.9999999999999999,
-            "threshold": 524.8206546628036
-        }
-    },
-    "sinus-type-frequency": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 861.0950800323338
         }
     },
     "sinus-diff-count-8": {
@@ -703,20 +15,36 @@
             "threshold": 965.4711588379016
         }
     },
-    "cbf-length-1": {
+    "ecg-diff-count-6": {
         "best f1 under pa": {
-            "f1": 0.009569377990430611,
-            "precision": 0.004807692307692308,
-            "recall": 0.9999999999999999,
-            "threshold": 527.6916371175421
+            "f1": 0.7269624573378834,
+            "precision": 0.6645865834633385,
+            "recall": 0.8022598870056498,
+            "threshold": 491.42521506469984
         }
     },
-    "sinus-type-variance": {
+    "cbf-same-count-1": {
+        "best f1 under pa": {
+            "f1": 0.2048780487804876,
+            "precision": 0.11413043478260869,
+            "recall": 1.0,
+            "threshold": 1583.5090308683
+        }
+    },
+    "sinus-type-platform": {
         "best f1 under pa": {
             "f1": 0.9999999999999996,
             "precision": 1.0,
             "recall": 1.0,
-            "threshold": 290.3199092385753
+            "threshold": 449.3413585550634
+        }
+    },
+    "ecg-type-frequency": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 380.9821975027887
         }
     },
     "ecg-length-50": {
@@ -727,108 +55,68 @@
             "threshold": 73.76687534075256
         }
     },
-    "sinus-same-count-5": {
+    "ecg-trend-sinus": {
         "best f1 under pa": {
-            "f1": 0.9580291970802914,
-            "precision": 0.9194395796847635,
+            "f1": 0.7894736842105258,
+            "precision": 0.6521739130434783,
             "recall": 1.0,
-            "threshold": 841.9475750532707
+            "threshold": 101.66207880507716
         }
     },
-    "sinus-diff-count-6": {
+    "ecg-diff-count-7": {
         "best f1 under pa": {
-            "f1": 0.9251101321585898,
-            "precision": 0.8692052980132451,
-            "recall": 0.9887005649717514,
-            "threshold": 496.2573000762344
+            "f1": 0.670866141732283,
+            "precision": 0.6719242902208202,
+            "recall": 0.6698113207547169,
+            "threshold": 861.968135630655
         }
     },
-    "poly-combined-diff-1": {
+    "sinus-length-10": {
         "best f1 under pa": {
-            "f1": 0.4695312499999996,
-            "precision": 0.3067891781521184,
-            "recall": 1.0,
-            "threshold": 101.88981514659372
+            "f1": 0.4999999999999995,
+            "precision": 0.3333333333333333,
+            "recall": 0.9999999999999999,
+            "threshold": 76.14549554817836
         }
     },
-    "sinus-same-count-2": {
-        "best f1 under pa": {
-            "f1": 0.9722222222222217,
-            "precision": 0.9459459459459459,
-            "recall": 1.0,
-            "threshold": 899.8108515475892
-        }
-    },
-    "sinus-diff-count-1": {
+    "ecg-type-mean": {
         "best f1 under pa": {
             "f1": 0.9999999999999996,
             "precision": 1.0,
             "recall": 1.0,
-            "threshold": 427.90054875849364
+            "threshold": 265.2952365824217
         }
     },
-    "ecg-trend-quadratic": {
+    "ecg-same-count-2": {
         "best f1 under pa": {
-            "f1": 0.10966057441253252,
-            "precision": 0.058011049723756904,
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
             "recall": 1.0,
-            "threshold": 92.38351770158374
+            "threshold": 277.4670941994033
         }
     },
-    "rw-trend-sinus": {
+    "sinus-diff-count-9": {
         "best f1 under pa": {
-            "f1": 0.1498929336188435,
-            "precision": 0.08101851851851852,
+            "f1": 0.768761439902379,
+            "precision": 0.7944514501891551,
+            "recall": 0.7446808510638298,
+            "threshold": 854.9882565622978
+        }
+    },
+    "ecg-noise-00%": {
+        "best f1 under pa": {
+            "f1": 0.0762804213585179,
+            "precision": 0.03965256797583082,
             "recall": 1.0,
-            "threshold": 409.83848227209546
+            "threshold": 333.82907294813003
         }
     },
-    "poly-diff-count-1": {
+    "cbf-diff-count-5": {
         "best f1 under pa": {
-            "f1": 0.03324099722991685,
-            "precision": 0.016901408450704224,
-            "recall": 0.9999999999999999,
-            "threshold": 930.7363192780776
-        }
-    },
-    "poly-same-count-2": {
-        "best f1 under pa": {
-            "f1": 0.20578147966682975,
-            "precision": 0.11469142545057345,
-            "recall": 1.0,
-            "threshold": 102.06673403691912
-        }
-    },
-    "poly-same-count-5": {
-        "best f1 under pa": {
-            "f1": 0.4153481012658224,
-            "precision": 0.2621068397403894,
-            "recall": 1.0,
-            "threshold": 123.99257733039803
-        }
-    },
-    "cbf-length-50": {
-        "best f1 under pa": {
-            "f1": 0.2037037037037035,
-            "precision": 0.1134020618556701,
-            "recall": 1.0,
-            "threshold": 639.7614622728574
-        }
-    },
-    "cbf-trend-quadratic": {
-        "best f1 under pa": {
-            "f1": 0.05999999999999994,
-            "precision": 0.030927835051546393,
-            "recall": 1.0,
-            "threshold": 88.3139768252313
-        }
-    },
-    "sinus-combined-diff-2": {
-        "best f1 under pa": {
-            "f1": 0.8968058968058963,
-            "precision": 0.8129175946547884,
-            "recall": 1.0,
-            "threshold": 618.9520906797667
+            "f1": 0.12810085400569324,
+            "precision": 0.0701246660730187,
+            "recall": 0.7394366197183099,
+            "threshold": 267.27576535966136
         }
     },
     "cbf-diff-count-7": {
@@ -839,68 +127,12 @@
             "threshold": 1261.2082439327523
         }
     },
-    "cbf-length-10": {
+    "ecg-type-extremum": {
         "best f1 under pa": {
-            "f1": 0.010228435049437424,
-            "precision": 0.005140507196710075,
+            "f1": 0.24489795918367321,
+            "precision": 0.13953488372093023,
             "recall": 0.9999999999999999,
-            "threshold": 356.7578263707569
-        }
-    },
-    "sinus-noise-50%": {
-        "best f1 under pa": {
-            "f1": 0.1081359423274973,
-            "precision": 0.05715841045182363,
-            "recall": 1.0,
-            "threshold": 390.1031266480277
-        }
-    },
-    "poly-combined-diff-2": {
-        "best f1 under pa": {
-            "f1": 0.31268612269207824,
-            "precision": 0.19244868035190615,
-            "recall": 0.8333333333333334,
-            "threshold": 56.27568320577461
-        }
-    },
-    "sinus-diff-count-2": {
-        "best f1 under pa": {
-            "f1": 0.9150326797385616,
-            "precision": 0.8433734939759037,
-            "recall": 1.0,
-            "threshold": 439.43536767079775
-        }
-    },
-    "sinus-same-count-1": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 930.0433077769287
-        }
-    },
-    "sinus-trend-linear": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 377.6410692264616
-        }
-    },
-    "ecg-noise-50%": {
-        "best f1 under pa": {
-            "f1": 0.06521739130434775,
-            "precision": 0.033707865168539325,
-            "recall": 1.0,
-            "threshold": 322.89337395908217
-        }
-    },
-    "sinus-diff-count-5": {
-        "best f1 under pa": {
-            "f1": 0.8747433264887059,
-            "precision": 0.7773722627737226,
-            "recall": 1.0,
-            "threshold": 228.50136279931735
+            "threshold": 685.5916003212508
         }
     },
     "ecg-diff-count-5": {
@@ -911,260 +143,12 @@
             "threshold": 334.852171635647
         }
     },
-    "ecg-trend-linear": {
+    "rw-type-extremum": {
         "best f1 under pa": {
-            "f1": 0.07214015802129845,
-            "precision": 0.03741981468282252,
-            "recall": 1.0,
-            "threshold": 48.402521980821234
-        }
-    },
-    "ecg-combined-diff-1": {
-        "best f1 under pa": {
-            "f1": 0.28263795423956883,
-            "precision": 0.24532710280373832,
-            "recall": 0.3333333333333333,
-            "threshold": 535.1623538080498
-        }
-    },
-    "poly-type-variance": {
-        "best f1 under pa": {
-            "f1": 0.064516129032258,
-            "precision": 0.03333333333333333,
-            "recall": 1.0,
-            "threshold": 74.17199948198345
-        }
-    },
-    "ecg-type-variance": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 52.23332981058104
-        }
-    },
-    "ecg-same-count-1": {
-        "best f1 under pa": {
-            "f1": 0.9767441860465111,
-            "precision": 0.9545454545454546,
-            "recall": 1.0,
-            "threshold": 336.9581427418317
-        }
-    },
-    "ecg-diff-count-2": {
-        "best f1 under pa": {
-            "f1": 0.6624605678233434,
-            "precision": 0.9813084112149533,
-            "recall": 0.5,
-            "threshold": 639.1003031716583
-        }
-    },
-    "poly-trend-quadratic": {
-        "best f1 under pa": {
-            "f1": 0.031231409875074327,
-            "precision": 0.015863423477866748,
-            "recall": 1.0,
-            "threshold": 49.28900639761332
-        }
-    },
-    "cbf-combined-diff-2": {
-        "best f1 under pa": {
-            "f1": 0.25354969574036484,
-            "precision": 0.1488095238095238,
-            "recall": 0.8561643835616438,
-            "threshold": 276.2290856780869
-        }
-    },
-    "cbf-type-pattern": {
-        "best f1 under pa": {
-            "f1": 0.32710280373831746,
-            "precision": 0.19553072625698323,
-            "recall": 1.0,
-            "threshold": 711.6757387144315
-        }
-    },
-    "rw-diff-count-4": {
-        "best f1 under pa": {
-            "f1": 0.7155025553662685,
-            "precision": 0.7894736842105263,
-            "recall": 0.6542056074766355,
-            "threshold": 541.4706831064423
-        }
-    },
-    "rw-length-100": {
-        "best f1 under pa": {
-            "f1": 0.6249999999999994,
-            "precision": 0.45454545454545453,
-            "recall": 1.0,
-            "threshold": 647.8101965439878
-        }
-    },
-    "rw-diff-count-3": {
-        "best f1 under pa": {
-            "f1": 0.654205607476635,
-            "precision": 1.0,
-            "recall": 0.4861111111111111,
-            "threshold": 541.7608858896601
-        }
-    },
-    "poly-trend-sinus": {
-        "best f1 under pa": {
-            "f1": 0.07391763463569158,
-            "precision": 0.03837719298245614,
-            "recall": 1.0,
-            "threshold": 62.4876446742112
-        }
-    },
-    "cbf-type-variance": {
-        "best f1 under pa": {
-            "f1": 0.9251101321585897,
-            "precision": 0.860655737704918,
-            "recall": 1.0,
-            "threshold": 1047.5770979742992
-        }
-    },
-    "sinus-trend-quadratic": {
-        "best f1 under pa": {
-            "f1": 0.2453271028037381,
-            "precision": 0.13981358189081225,
-            "recall": 1.0,
-            "threshold": 260.49289384348776
-        }
-    },
-    "poly-type-trend": {
-        "best f1 under pa": {
-            "f1": 0.03375663076675772,
-            "precision": 0.017168083714846304,
-            "recall": 1.0,
-            "threshold": 56.80861128945935
-        }
-    },
-    "sinus-diff-count-4": {
-        "best f1 under pa": {
-            "f1": 0.8714918759231899,
-            "precision": 0.7845744680851063,
-            "recall": 0.9800664451827242,
-            "threshold": 307.53663747602195
-        }
-    },
-    "poly-combined-diff-3": {
-        "best f1 under pa": {
-            "f1": 0.06684733514001799,
-            "precision": 0.03483992467043315,
-            "recall": 0.8222222222222222,
-            "threshold": 65.72197446343353
-        }
-    },
-    "sinus-diff-count-3": {
-        "best f1 under pa": {
-            "f1": 0.8606557377049174,
-            "precision": 0.7553956834532374,
-            "recall": 1.0,
-            "threshold": 273.25440189411404
-        }
-    },
-    "poly-length-500": {
-        "best f1 under pa": {
-            "f1": 0.3100061387354202,
-            "precision": 0.1834362513621504,
-            "recall": 1.0,
-            "threshold": 110.03094411792563
-        }
-    },
-    "sinus-type-extremum": {
-        "best f1 under pa": {
-            "f1": 0.3428571428571425,
-            "precision": 0.20689655172413793,
+            "f1": 0.019736842105263133,
+            "precision": 0.009966777408637873,
             "recall": 0.9999999999999999,
-            "threshold": 187.65296893167852
-        }
-    },
-    "sinus-position-beginning": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 304.3007496193327
-        }
-    },
-    "cbf-same-count-10": {
-        "best f1 under pa": {
-            "f1": 0.4326328800988871,
-            "precision": 0.354251012145749,
-            "recall": 0.5555555555555556,
-            "threshold": 772.8466153336308
-        }
-    },
-    "sinus-position-middle": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 365.37542341747553
-        }
-    },
-    "sinus-combined-diff-3": {
-        "best f1 under pa": {
-            "f1": 0.8749999999999996,
-            "precision": 1.0,
-            "recall": 0.7777777777777778,
-            "threshold": 160.38292271132536
-        }
-    },
-    "sinus-length-1": {
-        "best f1 under pa": {
-            "f1": 0.22641509433962237,
-            "precision": 0.1276595744680851,
-            "recall": 0.9999999999999999,
-            "threshold": 321.2504083627498
-        }
-    },
-    "cbf-diff-count-6": {
-        "best f1 under pa": {
-            "f1": 0.2312775330396471,
-            "precision": 0.27851458885941643,
-            "recall": 0.1977401129943503,
-            "threshold": 1608.7727152049838
-        }
-    },
-    "cbf-same-count-5": {
-        "best f1 under pa": {
-            "f1": 0.20920502092050186,
-            "precision": 0.11682242990654206,
-            "recall": 1.0,
-            "threshold": 151.5451137899106
-        }
-    },
-    "rw-type-platform": {
-        "best f1 under pa": {
-            "f1": 0.06455579465109124,
-            "precision": 0.03335451080050826,
-            "recall": 1.0,
-            "threshold": 742.7559483303571
-        }
-    },
-    "cbf-type-mean": {
-        "best f1 under pa": {
-            "f1": 0.43749999999999967,
-            "precision": 0.28,
-            "recall": 1.0,
-            "threshold": 783.5422851936894
-        }
-    },
-    "rw-length-1000": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 693.4235415184105
-        }
-    },
-    "cbf-diff-count-1": {
-        "best f1 under pa": {
-            "f1": 0.05037179179659386,
-            "precision": 0.025836614173228346,
-            "recall": 1.0,
-            "threshold": 257.0175051869455
+            "threshold": 267.2703873556534
         }
     },
     "cbf-same-count-2": {
@@ -1173,62 +157,6 @@
             "precision": 0.3125,
             "recall": 0.5,
             "threshold": 1817.888445256935
-        }
-    },
-    "ecg-same-count-10": {
-        "best f1 under pa": {
-            "f1": 0.9859154929577458,
-            "precision": 0.9722222222222222,
-            "recall": 1.0,
-            "threshold": 286.15836168379803
-        }
-    },
-    "cbf-length-100": {
-        "best f1 under pa": {
-            "f1": 0.7342657342657337,
-            "precision": 0.580110497237569,
-            "recall": 1.0,
-            "threshold": 967.4786035152528
-        }
-    },
-    "sinus-type-trend": {
-        "best f1 under pa": {
-            "f1": 0.044661846022968896,
-            "precision": 0.022840983249945615,
-            "recall": 1.0,
-            "threshold": 93.19759114594876
-        }
-    },
-    "poly-same-count-10": {
-        "best f1 under pa": {
-            "f1": 0.541553339377455,
-            "precision": 0.3882149046793761,
-            "recall": 0.8951048951048951,
-            "threshold": 109.67252510018398
-        }
-    },
-    "sinus-length-500": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
-            "recall": 1.0,
-            "threshold": 384.9600235192511
-        }
-    },
-    "cbf-position-end": {
-        "best f1 under pa": {
-            "f1": 0.8267716535433065,
-            "precision": 0.7046979865771812,
-            "recall": 1.0,
-            "threshold": 1710.8029196207283
-        }
-    },
-    "poly-length-1000": {
-        "best f1 under pa": {
-            "f1": 0.5328738069989392,
-            "precision": 0.36320925189736175,
-            "recall": 1.0,
-            "threshold": 146.64741955815498
         }
     },
     "ecg-length-500": {
@@ -1247,76 +175,20 @@
             "threshold": 52.21874638891609
         }
     },
-    "rw-diff-count-2": {
+    "cbf-trend-quadratic": {
         "best f1 under pa": {
-            "f1": 0.2741514360313313,
-            "precision": 0.16030534351145037,
-            "recall": 0.9459459459459459,
-            "threshold": 604.6591428733095
-        }
-    },
-    "rw-same-count-1": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999996,
-            "precision": 1.0,
+            "f1": 0.05999999999999994,
+            "precision": 0.030927835051546393,
             "recall": 1.0,
-            "threshold": 621.2685251951319
+            "threshold": 88.3139768252313
         }
     },
-    "cbf-combined-diff-3": {
+    "cbf-length-10": {
         "best f1 under pa": {
-            "f1": 0.1420838971583219,
-            "precision": 0.0781831720029784,
-            "recall": 0.7777777777777778,
-            "threshold": 492.82008471147344
-        }
-    },
-    "rw-type-extremum": {
-        "best f1 under pa": {
-            "f1": 0.019736842105263133,
-            "precision": 0.009966777408637873,
+            "f1": 0.010228435049437424,
+            "precision": 0.005140507196710075,
             "recall": 0.9999999999999999,
-            "threshold": 267.2703873556534
-        }
-    },
-    "rw-trend-linear": {
-        "best f1 under pa": {
-            "f1": 0.43032786885245866,
-            "precision": 0.2741514360313316,
-            "recall": 1.0,
-            "threshold": 907.3848812179249
-        }
-    },
-    "rw-diff-count-5": {
-        "best f1 under pa": {
-            "f1": 0.30085959885386776,
-            "precision": 0.21649484536082475,
-            "recall": 0.49295774647887325,
-            "threshold": 687.416049770105
-        }
-    },
-    "poly-length-1": {
-        "best f1 under pa": {
-            "f1": 0.9999999999999993,
-            "precision": 0.9999999999999999,
-            "recall": 0.9999999999999999,
-            "threshold": 546.6435292450756
-        }
-    },
-    "ecg-diff-count-3": {
-        "best f1 under pa": {
-            "f1": 0.8445040214477206,
-            "precision": 0.7308584686774942,
-            "recall": 1.0,
-            "threshold": 614.2905823441906
-        }
-    },
-    "cbf-position-middle": {
-        "best f1 under pa": {
-            "f1": 0.4805491990846678,
-            "precision": 0.31626506024096385,
-            "recall": 1.0,
-            "threshold": 1538.131933340385
+            "threshold": 356.7578263707569
         }
     },
     "ecg-diff-count-4": {
@@ -1327,6 +199,222 @@
             "threshold": 750.3568912310092
         }
     },
+    "ecg-same-count-1": {
+        "best f1 under pa": {
+            "f1": 0.9767441860465111,
+            "precision": 0.9545454545454546,
+            "recall": 1.0,
+            "threshold": 336.9581427418317
+        }
+    },
+    "cbf-diff-count-6": {
+        "best f1 under pa": {
+            "f1": 0.2312775330396471,
+            "precision": 0.27851458885941643,
+            "recall": 0.1977401129943503,
+            "threshold": 1608.7727152049838
+        }
+    },
+    "sinus-combined-diff-1": {
+        "best f1 under pa": {
+            "f1": 0.9813084112149527,
+            "precision": 0.963302752293578,
+            "recall": 1.0,
+            "threshold": 367.70961332808895
+        }
+    },
+    "cbf-diff-count-2": {
+        "best f1 under pa": {
+            "f1": 0.044276027124052604,
+            "precision": 0.022639200489496226,
+            "recall": 1.0,
+            "threshold": 82.52360162202945
+        }
+    },
+    "sinus-type-amplitude": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 1149.0659589074528
+        }
+    },
+    "rw-combined-diff-3": {
+        "best f1 under pa": {
+            "f1": 0.04733967226380735,
+            "precision": 0.024334442595673876,
+            "recall": 0.8666666666666667,
+            "threshold": 84.7060714836964
+        }
+    },
+    "ecg-same-count-5": {
+        "best f1 under pa": {
+            "f1": 0.9905660377358485,
+            "precision": 0.9813084112149533,
+            "recall": 1.0,
+            "threshold": 337.41179906967886
+        }
+    },
+    "sinus-trend-linear": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 377.6410692264616
+        }
+    },
+    "sinus-type-pattern": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 485.70016040823793
+        }
+    },
+    "ecg-same-count-10": {
+        "best f1 under pa": {
+            "f1": 0.9859154929577458,
+            "precision": 0.9722222222222222,
+            "recall": 1.0,
+            "threshold": 286.15836168379803
+        }
+    },
+    "poly-trend-sinus": {
+        "best f1 under pa": {
+            "f1": 0.07391763463569158,
+            "precision": 0.03837719298245614,
+            "recall": 1.0,
+            "threshold": 62.4876446742112
+        }
+    },
+    "ecg-diff-count-1": {
+        "best f1 under pa": {
+            "f1": 0.03429131286740689,
+            "precision": 0.017444758265492608,
+            "recall": 1.0,
+            "threshold": 450.60936561075846
+        }
+    },
+    "ecg-length-100": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 43.30966582087035
+        }
+    },
+    "poly-type-variance": {
+        "best f1 under pa": {
+            "f1": 0.064516129032258,
+            "precision": 0.03333333333333333,
+            "recall": 1.0,
+            "threshold": 74.17199948198345
+        }
+    },
+    "rw-combined-diff-2": {
+        "best f1 under pa": {
+            "f1": 0.6170421155729672,
+            "precision": 0.7954545454545454,
+            "recall": 0.504,
+            "threshold": 899.1650825401389
+        }
+    },
+    "rw-same-count-10": {
+        "best f1 under pa": {
+            "f1": 0.7791386803634921,
+            "precision": 0.6381877022653721,
+            "recall": 1.0,
+            "threshold": 542.5604450342555
+        }
+    },
+    "cbf-diff-count-3": {
+        "best f1 under pa": {
+            "f1": 0.654205607476635,
+            "precision": 1.0,
+            "recall": 0.4861111111111111,
+            "threshold": 1897.1941620024947
+        }
+    },
+    "sinus-combined-diff-2": {
+        "best f1 under pa": {
+            "f1": 0.8968058968058963,
+            "precision": 0.8129175946547884,
+            "recall": 1.0,
+            "threshold": 618.9520906797667
+        }
+    },
+    "cbf-diff-count-1": {
+        "best f1 under pa": {
+            "f1": 0.05037179179659386,
+            "precision": 0.025836614173228346,
+            "recall": 1.0,
+            "threshold": 257.0175051869455
+        }
+    },
+    "ecg-noise-01%": {
+        "best f1 under pa": {
+            "f1": 0.07505360972122938,
+            "precision": 0.038989974006684,
+            "recall": 1.0,
+            "threshold": 329.56294114955915
+        }
+    },
+    "cbf-type-platform": {
+        "best f1 under pa": {
+            "f1": 0.09641873278236904,
+            "precision": 0.05065123010130246,
+            "recall": 1.0,
+            "threshold": 486.8693143554515
+        }
+    },
+    "ecg-diff-count-3": {
+        "best f1 under pa": {
+            "f1": 0.8445040214477206,
+            "precision": 0.7308584686774942,
+            "recall": 1.0,
+            "threshold": 614.2905823441906
+        }
+    },
+    "cbf-length-1000": {
+        "best f1 under pa": {
+            "f1": 0.8720173535791752,
+            "precision": 0.7730769230769231,
+            "recall": 1.0,
+            "threshold": 811.2382638187908
+        }
+    },
+    "cbf-length-1": {
+        "best f1 under pa": {
+            "f1": 0.009569377990430611,
+            "precision": 0.004807692307692308,
+            "recall": 0.9999999999999999,
+            "threshold": 527.6916371175421
+        }
+    },
+    "cbf-same-count-5": {
+        "best f1 under pa": {
+            "f1": 0.20920502092050186,
+            "precision": 0.11682242990654206,
+            "recall": 1.0,
+            "threshold": 151.5451137899106
+        }
+    },
+    "ecg-diff-count-2": {
+        "best f1 under pa": {
+            "f1": 0.6624605678233434,
+            "precision": 0.9813084112149533,
+            "recall": 0.5,
+            "threshold": 639.1003031716583
+        }
+    },
+    "rw-length-1000": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 693.4235415184105
+        }
+    },
     "rw-combined-diff-1": {
         "best f1 under pa": {
             "f1": 0.8982035928143708,
@@ -1335,12 +423,924 @@
             "threshold": 477.4849698784067
         }
     },
-    "sinus-type-platform": {
+    "ecg-trend-quadratic": {
+        "best f1 under pa": {
+            "f1": 0.10966057441253252,
+            "precision": 0.058011049723756904,
+            "recall": 1.0,
+            "threshold": 92.38351770158374
+        }
+    },
+    "poly-length-10": {
+        "best f1 under pa": {
+            "f1": 0.004594884362076882,
+            "precision": 0.002302732575990175,
+            "recall": 0.9999999999999999,
+            "threshold": 34.34264646944848
+        }
+    },
+    "sinus-combined-diff-3": {
+        "best f1 under pa": {
+            "f1": 0.8749999999999996,
+            "precision": 1.0,
+            "recall": 0.7777777777777778,
+            "threshold": 160.38292271132536
+        }
+    },
+    "poly-type-platform": {
         "best f1 under pa": {
             "f1": 0.9999999999999996,
             "precision": 1.0,
             "recall": 1.0,
-            "threshold": 449.3413585550634
+            "threshold": 2128.429263604059
+        }
+    },
+    "ecg-noise-30%": {
+        "best f1 under pa": {
+            "f1": 0.07306889352818365,
+            "precision": 0.03791982665222102,
+            "recall": 1.0,
+            "threshold": 343.6658019713575
+        }
+    },
+    "rw-diff-count-2": {
+        "best f1 under pa": {
+            "f1": 0.2741514360313313,
+            "precision": 0.16030534351145037,
+            "recall": 0.9459459459459459,
+            "threshold": 604.6591428733095
+        }
+    },
+    "rw-diff-count-3": {
+        "best f1 under pa": {
+            "f1": 0.654205607476635,
+            "precision": 1.0,
+            "recall": 0.4861111111111111,
+            "threshold": 541.7608858896601
+        }
+    },
+    "sinus-type-trend": {
+        "best f1 under pa": {
+            "f1": 0.044661846022968896,
+            "precision": 0.022840983249945615,
+            "recall": 1.0,
+            "threshold": 93.19759114594876
+        }
+    },
+    "sinus-length-500": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 384.9600235192511
+        }
+    },
+    "sinus-type-pattern-shift": {
+        "best f1 under pa": {
+            "f1": 0.9502262443438908,
+            "precision": 0.9051724137931034,
+            "recall": 1.0,
+            "threshold": 843.5140683511023
+        }
+    },
+    "poly-length-1000": {
+        "best f1 under pa": {
+            "f1": 0.5328738069989392,
+            "precision": 0.36320925189736175,
+            "recall": 1.0,
+            "threshold": 146.64741955815498
+        }
+    },
+    "cbf-trend-sinus": {
+        "best f1 under pa": {
+            "f1": 0.25766871165644145,
+            "precision": 0.14788732394366197,
+            "recall": 1.0,
+            "threshold": 826.8512861183178
+        }
+    },
+    "sinus-position-end": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 244.37852054178325
+        }
+    },
+    "rw-diff-count-1": {
+        "best f1 under pa": {
+            "f1": 0.013201320132013188,
+            "precision": 0.006644518272425249,
+            "recall": 0.9999999999999999,
+            "threshold": 911.3298486508211
+        }
+    },
+    "ecg-noise-10%": {
+        "best f1 under pa": {
+            "f1": 0.0747863247863247,
+            "precision": 0.038845726970033294,
+            "recall": 1.0,
+            "threshold": 333.13673897232275
+        }
+    },
+    "rw-trend-sinus": {
+        "best f1 under pa": {
+            "f1": 0.1498929336188435,
+            "precision": 0.08101851851851852,
+            "recall": 1.0,
+            "threshold": 409.83848227209546
+        }
+    },
+    "ecg-type-pattern-shift": {
+        "best f1 under pa": {
+            "f1": 0.864197530864197,
+            "precision": 0.7608695652173914,
+            "recall": 1.0,
+            "threshold": 266.9312238432867
+        }
+    },
+    "rw-same-count-5": {
+        "best f1 under pa": {
+            "f1": 0.8649093904448101,
+            "precision": 0.7619738751814223,
+            "recall": 1.0,
+            "threshold": 516.1183141211222
+        }
+    },
+    "cbf-type-variance": {
+        "best f1 under pa": {
+            "f1": 0.9251101321585897,
+            "precision": 0.860655737704918,
+            "recall": 1.0,
+            "threshold": 1047.5770979742992
+        }
+    },
+    "rw-same-count-1": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 621.2685251951319
+        }
+    },
+    "ecg-noise-50%": {
+        "best f1 under pa": {
+            "f1": 0.06521739130434775,
+            "precision": 0.033707865168539325,
+            "recall": 1.0,
+            "threshold": 322.89337395908217
+        }
+    },
+    "rw-diff-count-4": {
+        "best f1 under pa": {
+            "f1": 0.7155025553662685,
+            "precision": 0.7894736842105263,
+            "recall": 0.6542056074766355,
+            "threshold": 541.4706831064423
+        }
+    },
+    "rw-diff-count-5": {
+        "best f1 under pa": {
+            "f1": 0.30085959885386776,
+            "precision": 0.21649484536082475,
+            "recall": 0.49295774647887325,
+            "threshold": 687.416049770105
+        }
+    },
+    "sinus-type-variance": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 290.3199092385753
+        }
+    },
+    "rw-length-10": {
+        "best f1 under pa": {
+            "f1": 0.028169014084507008,
+            "precision": 0.014285714285714285,
+            "recall": 0.9999999999999999,
+            "threshold": 232.41797810140383
+        }
+    },
+    "cbf-position-middle": {
+        "best f1 under pa": {
+            "f1": 0.4805491990846678,
+            "precision": 0.31626506024096385,
+            "recall": 1.0,
+            "threshold": 1538.131933340385
+        }
+    },
+    "ecg-length-1000": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 144.3626792173667
+        }
+    },
+    "poly-trend-linear": {
+        "best f1 under pa": {
+            "f1": 0.07891770011273949,
+            "precision": 0.04107981220657277,
+            "recall": 1.0,
+            "threshold": 96.80101488762807
+        }
+    },
+    "rw-same-count-2": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 592.4329603981864
+        }
+    },
+    "sinus-length-100": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 264.83900202033215
+        }
+    },
+    "rw-type-amplitude": {
+        "best f1 under pa": {
+            "f1": 0.23595505617977505,
+            "precision": 0.1337579617834395,
+            "recall": 1.0,
+            "threshold": 284.63826525028935
+        }
+    },
+    "rw-length-1": {
+        "best f1 under pa": {
+            "f1": 0.006511123168746601,
+            "precision": 0.00326619488296135,
+            "recall": 0.9999999999999999,
+            "threshold": 514.2181820199698
+        }
+    },
+    "rw-diff-count-6": {
+        "best f1 under pa": {
+            "f1": 0.4109589041095886,
+            "precision": 0.42769857433808556,
+            "recall": 0.3954802259887006,
+            "threshold": 648.0502837293852
+        }
+    },
+    "poly-trend-quadratic": {
+        "best f1 under pa": {
+            "f1": 0.031231409875074327,
+            "precision": 0.015863423477866748,
+            "recall": 1.0,
+            "threshold": 49.28900639761332
+        }
+    },
+    "rw-trend-quadratic": {
+        "best f1 under pa": {
+            "f1": 0.2054794520547943,
+            "precision": 0.11450381679389313,
+            "recall": 1.0,
+            "threshold": 298.71511477129616
+        }
+    },
+    "poly-diff-count-2": {
+        "best f1 under pa": {
+            "f1": 0.12450925406618045,
+            "precision": 0.06638755980861244,
+            "recall": 1.0,
+            "threshold": 157.84344628510826
+        }
+    },
+    "rw-length-100": {
+        "best f1 under pa": {
+            "f1": 0.6249999999999994,
+            "precision": 0.45454545454545453,
+            "recall": 1.0,
+            "threshold": 647.8101965439878
+        }
+    },
+    "cbf-type-mean": {
+        "best f1 under pa": {
+            "f1": 0.43749999999999967,
+            "precision": 0.28,
+            "recall": 1.0,
+            "threshold": 783.5422851936894
+        }
+    },
+    "ecg-combined-diff-1": {
+        "best f1 under pa": {
+            "f1": 0.28263795423956883,
+            "precision": 0.24532710280373832,
+            "recall": 0.3333333333333333,
+            "threshold": 535.1623538080498
+        }
+    },
+    "poly-length-100": {
+        "best f1 under pa": {
+            "f1": 0.07800891530460616,
+            "precision": 0.040587553150367224,
+            "recall": 1.0,
+            "threshold": 99.64017844527166
+        }
+    },
+    "cbf-length-50": {
+        "best f1 under pa": {
+            "f1": 0.2037037037037035,
+            "precision": 0.1134020618556701,
+            "recall": 1.0,
+            "threshold": 639.7614622728574
+        }
+    },
+    "sinus-trend-sinus": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 531.6920938896044
+        }
+    },
+    "ecg-type-amplitude": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 759.5220153448586
+        }
+    },
+    "poly-diff-count-3": {
+        "best f1 under pa": {
+            "f1": 0.3107913669064746,
+            "precision": 0.1839863713798978,
+            "recall": 1.0,
+            "threshold": 705.6272248653855
+        }
+    },
+    "poly-length-1": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 546.6435292450756
+        }
+    },
+    "poly-type-extremum": {
+        "best f1 under pa": {
+            "f1": 0.012671594508975698,
+            "precision": 0.006376195536663124,
+            "recall": 0.9999999999999999,
+            "threshold": 163.76244426035464
+        }
+    },
+    "poly-diff-count-1": {
+        "best f1 under pa": {
+            "f1": 0.03324099722991685,
+            "precision": 0.016901408450704224,
+            "recall": 0.9999999999999999,
+            "threshold": 930.7363192780776
+        }
+    },
+    "sinus-length-50": {
+        "best f1 under pa": {
+            "f1": 0.9649122807017538,
+            "precision": 0.9322033898305084,
+            "recall": 1.0,
+            "threshold": 173.1702277915481
+        }
+    },
+    "ecg-combined-diff-2": {
+        "best f1 under pa": {
+            "f1": 0.8768768768768763,
+            "precision": 0.7807486631016043,
+            "recall": 1.0,
+            "threshold": 182.5744699890439
+        }
+    },
+    "ecg-length-10": {
+        "best f1 under pa": {
+            "f1": 0.5263157894736837,
+            "precision": 0.35714285714285715,
+            "recall": 0.9999999999999999,
+            "threshold": 43.52225114485907
+        }
+    },
+    "sinus-type-mean": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 1311.8076629797315
+        }
+    },
+    "sinus-noise-00%": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 445.6755331050879
+        }
+    },
+    "poly-same-count-5": {
+        "best f1 under pa": {
+            "f1": 0.4153481012658224,
+            "precision": 0.2621068397403894,
+            "recall": 1.0,
+            "threshold": 123.99257733039803
+        }
+    },
+    "ecg-combined-diff-3": {
+        "best f1 under pa": {
+            "f1": 0.7302631578947363,
+            "precision": 0.6568047337278107,
+            "recall": 0.8222222222222222,
+            "threshold": 68.59088652015976
+        }
+    },
+    "cbf-type-amplitude": {
+        "best f1 under pa": {
+            "f1": 0.0909484625378951,
+            "precision": 0.04764065335753176,
+            "recall": 1.0,
+            "threshold": 469.28939707608197
+        }
+    },
+    "sinus-trend-quadratic": {
+        "best f1 under pa": {
+            "f1": 0.2453271028037381,
+            "precision": 0.13981358189081225,
+            "recall": 1.0,
+            "threshold": 260.49289384348776
+        }
+    },
+    "poly-length-50": {
+        "best f1 under pa": {
+            "f1": 0.054808171400099595,
+            "precision": 0.02817622950819672,
+            "recall": 1.0,
+            "threshold": 127.1387160095253
+        }
+    },
+    "poly-diff-count-4": {
+        "best f1 under pa": {
+            "f1": 0.4697986577181203,
+            "precision": 0.8333333333333334,
+            "recall": 0.32710280373831774,
+            "threshold": 1434.1032769503056
+        }
+    },
+    "poly-same-count-1": {
+        "best f1 under pa": {
+            "f1": 0.0889453621346886,
+            "precision": 0.04654255319148936,
+            "recall": 1.0,
+            "threshold": 89.43579920114735
+        }
+    },
+    "cbf-position-end": {
+        "best f1 under pa": {
+            "f1": 0.8267716535433065,
+            "precision": 0.7046979865771812,
+            "recall": 1.0,
+            "threshold": 1710.8029196207283
+        }
+    },
+    "cbf-combined-diff-1": {
+        "best f1 under pa": {
+            "f1": 0.3736654804270458,
+            "precision": 0.4251012145748988,
+            "recall": 0.3333333333333333,
+            "threshold": 1606.8025751801647
+        }
+    },
+    "sinus-type-frequency": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 861.0950800323338
+        }
+    },
+    "poly-type-mean": {
+        "best f1 under pa": {
+            "f1": 0.13770491803278673,
+            "precision": 0.07394366197183098,
+            "recall": 1.0,
+            "threshold": 149.02028842373898
+        }
+    },
+    "poly-same-count-10": {
+        "best f1 under pa": {
+            "f1": 0.541553339377455,
+            "precision": 0.3882149046793761,
+            "recall": 0.8951048951048951,
+            "threshold": 109.67252510018398
+        }
+    },
+    "sinus-noise-01%": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 446.4354967362385
+        }
+    },
+    "rw-type-variance": {
+        "best f1 under pa": {
+            "f1": 0.6953642384105956,
+            "precision": 0.5329949238578681,
+            "recall": 1.0,
+            "threshold": 798.9686133126817
+        }
+    },
+    "poly-diff-count-5": {
+        "best f1 under pa": {
+            "f1": 0.32208588957055184,
+            "precision": 0.1924839596700275,
+            "recall": 0.9859154929577465,
+            "threshold": 106.6728657676847
+        }
+    },
+    "ecg-type-variance": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 52.23332981058104
+        }
+    },
+    "rw-trend-linear": {
+        "best f1 under pa": {
+            "f1": 0.43032786885245866,
+            "precision": 0.2741514360313316,
+            "recall": 1.0,
+            "threshold": 907.3848812179249
+        }
+    },
+    "poly-same-count-2": {
+        "best f1 under pa": {
+            "f1": 0.20578147966682975,
+            "precision": 0.11469142545057345,
+            "recall": 1.0,
+            "threshold": 102.06673403691912
+        }
+    },
+    "cbf-combined-diff-2": {
+        "best f1 under pa": {
+            "f1": 0.25354969574036484,
+            "precision": 0.1488095238095238,
+            "recall": 0.8561643835616438,
+            "threshold": 276.2290856780869
+        }
+    },
+    "rw-type-trend": {
+        "best f1 under pa": {
+            "f1": 0.10632911392405052,
+            "precision": 0.05614973262032086,
+            "recall": 1.0,
+            "threshold": 156.97667313290094
+        }
+    },
+    "rw-length-500": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 849.0474056809901
+        }
+    },
+    "cbf-combined-diff-3": {
+        "best f1 under pa": {
+            "f1": 0.1420838971583219,
+            "precision": 0.0781831720029784,
+            "recall": 0.7777777777777778,
+            "threshold": 492.82008471147344
+        }
+    },
+    "poly-length-500": {
+        "best f1 under pa": {
+            "f1": 0.3100061387354202,
+            "precision": 0.1834362513621504,
+            "recall": 1.0,
+            "threshold": 110.03094411792563
+        }
+    },
+    "poly-type-trend": {
+        "best f1 under pa": {
+            "f1": 0.03375663076675772,
+            "precision": 0.017168083714846304,
+            "recall": 1.0,
+            "threshold": 56.80861128945935
+        }
+    },
+    "sinus-diff-count-1": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 427.90054875849364
+        }
+    },
+    "ecg-type-platform": {
+        "best f1 under pa": {
+            "f1": 0.08706467661691532,
+            "precision": 0.045513654096228866,
+            "recall": 1.0,
+            "threshold": 831.9122081566575
+        }
+    },
+    "sinus-noise-10%": {
+        "best f1 under pa": {
+            "f1": 0.9090909090909085,
+            "precision": 0.8333333333333334,
+            "recall": 1.0,
+            "threshold": 395.2721052183156
+        }
+    },
+    "poly-combined-diff-1": {
+        "best f1 under pa": {
+            "f1": 0.4695312499999996,
+            "precision": 0.3067891781521184,
+            "recall": 1.0,
+            "threshold": 101.88981514659372
+        }
+    },
+    "rw-type-platform": {
+        "best f1 under pa": {
+            "f1": 0.06455579465109124,
+            "precision": 0.03335451080050826,
+            "recall": 1.0,
+            "threshold": 742.7559483303571
+        }
+    },
+    "ecg-trend-linear": {
+        "best f1 under pa": {
+            "f1": 0.07214015802129845,
+            "precision": 0.03741981468282252,
+            "recall": 1.0,
+            "threshold": 48.402521980821234
+        }
+    },
+    "sinus-same-count-5": {
+        "best f1 under pa": {
+            "f1": 0.9580291970802914,
+            "precision": 0.9194395796847635,
+            "recall": 1.0,
+            "threshold": 841.9475750532707
+        }
+    },
+    "ecg-type-pattern": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 151.61725356489399
+        }
+    },
+    "sinus-diff-count-2": {
+        "best f1 under pa": {
+            "f1": 0.9150326797385616,
+            "precision": 0.8433734939759037,
+            "recall": 1.0,
+            "threshold": 439.43536767079775
+        }
+    },
+    "cbf-trend-linear": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 1205.019607942672
+        }
+    },
+    "cbf-length-100": {
+        "best f1 under pa": {
+            "f1": 0.7342657342657337,
+            "precision": 0.580110497237569,
+            "recall": 1.0,
+            "threshold": 967.4786035152528
+        }
+    },
+    "cbf-type-pattern": {
+        "best f1 under pa": {
+            "f1": 0.32710280373831746,
+            "precision": 0.19553072625698323,
+            "recall": 1.0,
+            "threshold": 711.6757387144315
+        }
+    },
+    "sinus-type-extremum": {
+        "best f1 under pa": {
+            "f1": 0.3428571428571425,
+            "precision": 0.20689655172413793,
+            "recall": 0.9999999999999999,
+            "threshold": 187.65296893167852
+        }
+    },
+    "ecg-length-1": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 524.8206546628036
+        }
+    },
+    "poly-combined-diff-2": {
+        "best f1 under pa": {
+            "f1": 0.31268612269207824,
+            "precision": 0.19244868035190615,
+            "recall": 0.8333333333333334,
+            "threshold": 56.27568320577461
+        }
+    },
+    "sinus-length-1": {
+        "best f1 under pa": {
+            "f1": 0.22641509433962237,
+            "precision": 0.1276595744680851,
+            "recall": 0.9999999999999999,
+            "threshold": 321.2504083627498
+        }
+    },
+    "poly-combined-diff-3": {
+        "best f1 under pa": {
+            "f1": 0.06684733514001799,
+            "precision": 0.03483992467043315,
+            "recall": 0.8222222222222222,
+            "threshold": 65.72197446343353
+        }
+    },
+    "cbf-same-count-10": {
+        "best f1 under pa": {
+            "f1": 0.4326328800988871,
+            "precision": 0.354251012145749,
+            "recall": 0.5555555555555556,
+            "threshold": 772.8466153336308
+        }
+    },
+    "sinus-noise-30%": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 461.4208568201152
+        }
+    },
+    "sinus-diff-count-3": {
+        "best f1 under pa": {
+            "f1": 0.8606557377049174,
+            "precision": 0.7553956834532374,
+            "recall": 1.0,
+            "threshold": 273.25440189411404
+        }
+    },
+    "sinus-diff-count-7": {
+        "best f1 under pa": {
+            "f1": 0.857407407407407,
+            "precision": 0.9150197628458498,
+            "recall": 0.8066202090592335,
+            "threshold": 983.1019847690471
+        }
+    },
+    "cbf-type-extremum": {
+        "best f1 under pa": {
+            "f1": 0.06217616580310874,
+            "precision": 0.03208556149732621,
+            "recall": 0.9999999999999999,
+            "threshold": 735.012608695081
+        }
+    },
+    "ecg-diff-count-9": {
+        "best f1 under pa": {
+            "f1": 0.7058823529411759,
+            "precision": 0.6652719665271967,
+            "recall": 0.75177304964539,
+            "threshold": 836.8208219748232
+        }
+    },
+    "sinus-same-count-2": {
+        "best f1 under pa": {
+            "f1": 0.9722222222222217,
+            "precision": 0.9459459459459459,
+            "recall": 1.0,
+            "threshold": 899.8108515475892
+        }
+    },
+    "sinus-position-middle": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 365.37542341747553
+        }
+    },
+    "sinus-length-1000": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 405.8151640569879
+        }
+    },
+    "ecg-diff-count-8": {
+        "best f1 under pa": {
+            "f1": 0.7339322736696609,
+            "precision": 0.7521246458923513,
+            "recall": 0.7165991902834008,
+            "threshold": 862.0443251873074
+        }
+    },
+    "sinus-same-count-10": {
+        "best f1 under pa": {
+            "f1": 0.9027272727272722,
+            "precision": 0.8227009113504556,
+            "recall": 1.0,
+            "threshold": 773.6062580356158
+        }
+    },
+    "sinus-diff-count-6": {
+        "best f1 under pa": {
+            "f1": 0.9251101321585898,
+            "precision": 0.8692052980132451,
+            "recall": 0.9887005649717514,
+            "threshold": 496.2573000762344
+        }
+    },
+    "cbf-length-500": {
+        "best f1 under pa": {
+            "f1": 0.7168204400283884,
+            "precision": 0.5586283185840708,
+            "recall": 1.0,
+            "threshold": 808.7395442445467
+        }
+    },
+    "cbf-type-trend": {
+        "best f1 under pa": {
+            "f1": 0.04124116260801252,
+            "precision": 0.021054742330058152,
+            "recall": 1.0,
+            "threshold": 201.5497716732193
+        }
+    },
+    "sinus-diff-count-4": {
+        "best f1 under pa": {
+            "f1": 0.8714918759231899,
+            "precision": 0.7845744680851063,
+            "recall": 0.9800664451827242,
+            "threshold": 307.53663747602195
+        }
+    },
+    "rw-length-50": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 480.8937369997018
+        }
+    },
+    "rw-type-mean": {
+        "best f1 under pa": {
+            "f1": 0.9130434782608691,
+            "precision": 0.84,
+            "recall": 1.0,
+            "threshold": 1183.9116472871342
+        }
+    },
+    "sinus-same-count-1": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 930.0433077769287
+        }
+    },
+    "sinus-position-beginning": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 304.3007496193327
+        }
+    },
+    "sinus-noise-50%": {
+        "best f1 under pa": {
+            "f1": 0.1081359423274973,
+            "precision": 0.05715841045182363,
+            "recall": 1.0,
+            "threshold": 390.1031266480277
+        }
+    },
+    "cbf-position-beginning": {
+        "best f1 under pa": {
+            "f1": 0.23675310033821848,
+            "precision": 0.13427109974424553,
+            "recall": 1.0,
+            "threshold": 1484.6724575001974
+        }
+    },
+    "sinus-diff-count-5": {
+        "best f1 under pa": {
+            "f1": 0.8747433264887059,
+            "precision": 0.7773722627737226,
+            "recall": 1.0,
+            "threshold": 228.50136279931735
         }
     }
 }
